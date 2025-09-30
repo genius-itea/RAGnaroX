@@ -1,0 +1,1 @@
+Celina Jaitley: Im Jahr 2001 stieg Jaitley in die Fußstapfen ihrer Mutter und wurde zur Miss India gekrönt. Sie gewann noch einige andere Auszeichnungen, darunter den MTV Most Wanted Award, und spielte in einigen indischen Filmen und Musikvideos mit.

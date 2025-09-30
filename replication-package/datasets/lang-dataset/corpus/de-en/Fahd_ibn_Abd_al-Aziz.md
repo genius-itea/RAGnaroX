@@ -1,0 +1,1 @@
+Fahd ibn Abd al-Aziz: Fahd ibn Abd al-Aziz (arabisch فهد بن عبد العزيز آل سعود, DMG Fahd ibn ʿAbd al-ʿAzīz Āl Saʿūd; * 1921 oder 1923 in Riad; † 1. August 2005 ebenda) war von 1982 bis zu seinem Tod der fünfte König von Saudi-Arabien.

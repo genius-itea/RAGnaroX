@@ -1,0 +1,1 @@
+Lee Min-ho: Mit Hilfe eines Bekannten trat er während seines letzten High School Jahres der Schauspielschule Starhaus Entertainment bei. Nach seiner Ausbildung bekam er kleinere Rollen in einigen Fernsehfilmen. Der Durchbruch gelang ihm mit der Hauptrolle des Gu Jun-Pyo im KBS2-Drama Boys over Flowers. 2011: Korea Drama Festival: Hallyu Star Award für City Hunter

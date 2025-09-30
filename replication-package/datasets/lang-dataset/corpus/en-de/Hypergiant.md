@@ -1,0 +1,1 @@
+Hypergiant: The Pistol Star (V4627 Sgr), near the center of the Milky Way, in the constellation of Sagittarius. The Pistol Star is possibly as much as 150 times more massive than the Sun, and is about 1.7 million times more luminous. Considered a candidate LBV, but variability has not been confirmed.

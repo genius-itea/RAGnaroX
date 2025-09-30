@@ -1,0 +1,1 @@
+Analizador sintáctico LL: Donde '$' es un símbolo terminal especial para indicar el final de la pila y el final del flujo de entrada, y 'S' es el símbolo de comienzo de la gramática. El analizador va a intentar modificar el contenido de esta pila para que vea el flujo de entrada. Sin embargo, este solo mantiene en la pila lo que todavía necesita ser reescrito.

@@ -1,0 +1,1 @@
+Gouvernement al-Hudaida: al-Hudaida liegt im Westen des Landes an der Küste des Roten Meeres. Die Hanisch-Inseln im Roten Meer gehören zum Gouvernement. Sie sind die südlichste Landmasse des Gouvernements.

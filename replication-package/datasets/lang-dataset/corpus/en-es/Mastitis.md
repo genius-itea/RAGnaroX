@@ -1,0 +1,1 @@
+Mastitis: The presence of cracks or sores on the nipples increases the likelihood of infection. Tight clothing or ill-fitting bras may also cause problems as they compress the breasts.  There is a possibility that infants carrying infectious pathogens in their noses can infect their mothers; the clinical significance of this finding is still unknown.

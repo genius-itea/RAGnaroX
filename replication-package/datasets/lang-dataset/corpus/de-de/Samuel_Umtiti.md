@@ -1,0 +1,1 @@
+Samuel Umtiti: Zur Saison 2016/17 wechselte Umtiti für 25 Mio. Euro zum FC Barcelona. Er erhielt einen bis zum 30. Juni 2021 datierten Fünfjahresvertrag mit einer Ausstiegsklausel in Höhe von 60 Mio. Euro.

@@ -1,0 +1,1 @@
+Ashly Burch: Ashly Burch (born June 19, 1990) is an American actress, voice actress, singer and writer. She is known for her roles as Aloy in Horizon Zero Dawn, Tiny Tina in Borderlands 2, the web series Hey Ash, Whatcha Playin'?, Chloe Price in Life Is Strange, Mayuri Shiina from Steins;Gate and Sasha Braus from Attack on Titan.

@@ -1,0 +1,1 @@
+Lorentz (cráter): Lorentz contiene una destacable pareja de cráteres pareados, formada por Nernst (situado apenas al norte del punto medio de Lorentz), y Röntgen (unido al borde suroriental de Nernst). Atravesando el borde sur de Lorentz aparece Laue, mientras que Avicenna atraviesa el borde noroeste. Cerca del más difuminado borde este de Lorentz se halla Aston.

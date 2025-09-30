@@ -1,0 +1,1 @@
+Hilversum: Hilversum lies 24 km (15 mi) south-east of Amsterdam and 15 km (9.3 mi) north of Utrecht. The town is known for its architecturally important Town Hall (Raadhuis Hilversum), designed by Willem Marinus Dudok and built in 1931.

@@ -1,0 +1,1 @@
+Fiebre pappataci: El mosquito se infecta de un humano contagiado en período de ventana (desde 48 horas antes de la aparición de la fiebre hasta 24 horas después) y queda infectada de por vida, pudiéndosela transmitir a su progenie.[2]​

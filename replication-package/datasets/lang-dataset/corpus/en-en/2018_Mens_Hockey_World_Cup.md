@@ -1,0 +1,1 @@
+2018 Men's Hockey World Cup: The 16 teams were drawn into four groups, each containing four teams. Each team played each other team in its group once. The first-placed team in each group advanced to the quarter-finals, while the second- and third-placed teams in each group went into the crossover matches. From there on a single-elimination tournament was played.

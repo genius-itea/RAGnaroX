@@ -1,0 +1,1 @@
+Gewächshaus: Ein Vorteil der Hors-sol-Produktion ist die Unabhängigkeit von Witterung, Klima und Boden. Das macht diese Art von Produktion vor allem für empfindliche Pflanzen wie Tomaten beliebt. Unverzichtbar sogar ist sie bei Pilzen, da diese sehr enge Anbaugrenzen haben.

@@ -1,0 +1,1 @@
+John Canfield Spencer: John Canfield Spencer (* 8. Januar 1788 in Hudson, New York; † 18. Mai 1855 in Albany, New York) war ein US-amerikanischer Kriegsminister zwischen 1841 und 1843 und Finanzminister zwischen 1843 und 1844 unter Präsident John Tyler.

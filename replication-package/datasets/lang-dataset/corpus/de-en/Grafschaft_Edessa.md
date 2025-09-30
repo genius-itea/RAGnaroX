@@ -1,0 +1,1 @@
+Grafschaft Edessa: Die Bewohner waren zumeist Syrer, Jakobiten und armenische Christen, dazwischen einige griechisch-orthodoxe Christen und Muslime. Obwohl die Zahl der Lateiner immer klein blieb, gab es einen katholischen Patriarchen.

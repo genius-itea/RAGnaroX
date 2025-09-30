@@ -1,0 +1,1 @@
+Dr. Reddy's Laboratories: In March 2006, Dr. Reddy’s acquired Betapharm Arzneimittel GmbH from 3i for 480 million Euros. This is one of the largest-ever foreign acquisitions by an Indian pharmaceutical company. Betapharm is Germany’s fourth-largest generics pharmaceutical company, with a 3.5% market share, including 150 active pharmaceutical ingredients.

@@ -1,0 +1,1 @@
+Air-India-Flug 101: Air-India-Flug-101 war ein planmäßiger internationaler Flug von Bombay (heute: Mumbai) nach New York mit Zwischenstopps in Delhi, Beirut, Genf und London-Heathrow. Das Flugzeug vom Typ Boeing 707 verunglückte am 24. Januar 1966 am Montblanc-Massiv.

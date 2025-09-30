@@ -1,0 +1,1 @@
+Hyperriese: Der Pistolenstern im Quintuplet-Sternhaufen nahe dem Zentrum unserer Galaxie im Sternbild Schütze. Es ist möglich, dass dieser Stern die 150-fache Sonnenmasse aufweist und 1,7 Millionen Mal heller als die Sonne ist.

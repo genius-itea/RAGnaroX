@@ -1,0 +1,1 @@
+Knock Knock (2015 film): On January 26, 2015 Lionsgate acquired the distribution rights to the film. Knock Knock premiered at the 2015 Sundance Film Festival on January 23, 2015. The film was  released on October 9, 2015 in the United States.

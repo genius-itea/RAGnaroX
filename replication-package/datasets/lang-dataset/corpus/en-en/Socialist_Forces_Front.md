@@ -1,0 +1,1 @@
+Socialist Forces Front: The Socialist Forces Front (Berber: Tirni Iɣallen Inemlayen (RƔN); French: Front des Forces socialistes (FFS); Arabic: جبهة القوى الاشتراكية‎) is a social democratic and secularist political party, mainly supported by Kabyles in Algeria. The FFS is a member of the Socialist International.

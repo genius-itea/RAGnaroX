@@ -1,0 +1,1 @@
+Black Elk: Heȟáka Sápa (Black Elk) (December 1, 1863 – August 19, 1950) was a wičháša wakȟáŋ ("medicine man, holy man") and heyoka of the Oglala Lakota people. He was a second cousin of the war leader Crazy Horse.

@@ -1,0 +1,1 @@
+Expedición persa de 1796: Para mediados de junio, las tropas de Zúbov invadieron sin resistencia la mayor parte del territorio de la actual Azerbaiyán, incluyendo tres ciudades principales: Bakú, Şamaxı y Ganja. Para noviembre, se estacionaron en la confluencia de los ríos Aras y Kurá, preparados para atacar Irán.

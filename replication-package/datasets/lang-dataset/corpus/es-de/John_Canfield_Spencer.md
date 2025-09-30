@@ -1,0 +1,1 @@
+John Canfield Spencer: John Canfield Spencer (Hudson, 8 de enero de 1788-Albany, 17 de mayo de 1855) fue un abogado y político estadounidense, que integró el gabinete de la administración del presidente John Tyler como Secretario de Guerra y Secretario del Tesoro.[1]​

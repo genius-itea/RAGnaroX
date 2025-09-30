@@ -1,0 +1,1 @@
+Knock Knock (película): El 26 de enero de 2015, Lionsgate se hizo con los derechos de distribución del film.[8]​ El estreno tuvo lugar el 23 de enero de 2015 en el Festival de cine de Sundance,[9]​ y el 9 de octubre del mismo año se estrenó en los cines estadounidenses.[10]​

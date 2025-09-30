@@ -1,0 +1,1 @@
+Flughafen Sewastopol: Der Flugplatz wurde im Jahr 1941 erbaut. Nach dem Zweiten Weltkrieg wurde die ursprünglich unbefestigte Start- und Landebahn durch eine Betonpiste ersetzt. Der Flugplatz wurde jedoch weiterhin ausschließlich militärisch genutzt. Während der zweiten Hälfte der 1980er Jahre wurde der Flugplatz erweitert und ausgebaut. In der Folge wurde er auch zivil genutzt.

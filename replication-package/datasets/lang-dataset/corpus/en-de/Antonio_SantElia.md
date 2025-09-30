@@ -1,0 +1,1 @@
+Antonio Sant'Elia: Antonio Sant'Elia (Italian pronunciation: [anˈtɔːnjo santeˈliːa]; 30 April 1888 – 10 October 1916) was an Italian architect and a key member of the Futurist movement in architecture. He left behind almost no completed works of architecture and is primarily remembered for his bold sketches and influence on modern architecture.

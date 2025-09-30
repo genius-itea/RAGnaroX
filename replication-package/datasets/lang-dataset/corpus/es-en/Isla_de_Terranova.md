@@ -1,0 +1,1 @@
+Isla de Terranova: La capital de la provincia, San Juan de Terranova, se encuentra en el extremo suroriental de la isla. El cabo Spear, al sur de la capital, es el punto más al este de Canadá y América del Norte.

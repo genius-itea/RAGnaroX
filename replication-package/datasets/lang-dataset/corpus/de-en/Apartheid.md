@@ -1,0 +1,1 @@
+Apartheid: Apartheid bedeutet ‚Getrenntheit‘, gebildet aus dem Afrikaans- oder niederländischen Adjektiv apart für ‚getrennt, einzeln, besonders, anders‘, was ursprünglich aus dem Lateinischen stammt: pars ‚der Teil‘, ad partem ‚(nur) zu einem Teil‘. In weiteren Sprachen:

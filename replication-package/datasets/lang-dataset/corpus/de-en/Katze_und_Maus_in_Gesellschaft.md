@@ -1,0 +1,1 @@
+Katze und Maus in Gesellschaft: Katze und Maus in Gesellschaft ist ein Tiermärchen (ATU 15). Es steht in den Kinder- und Hausmärchen der Brüder Grimm an zweiter Stelle (KHM 2). Bis zur 2. Auflage lautete der Titel Katz und Maus in Gesellschaft.

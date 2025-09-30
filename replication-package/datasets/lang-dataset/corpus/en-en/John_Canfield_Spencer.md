@@ -1,0 +1,1 @@
+John Canfield Spencer: John Canfield Spencer (January 8, 1788 – May 17, 1855) was an American lawyer, politician, judge and United States Cabinet secretary in the administration of President John Tyler.

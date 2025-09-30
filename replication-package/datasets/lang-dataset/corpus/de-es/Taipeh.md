@@ -1,0 +1,1 @@
+Taipeh: Im Norden des Beckens erheben sich die Berge des Yangmingshan-Nationalparks mit dem Qixing Shan als höchster Erhebung (1120 m). Dort kann man geothermale Aktivitäten (heiße Quellen, Fumarolen) erleben sowie die Kirschblüte, Schmetterlinge und Graslandschaften bestaunen. Im Süden ziehen der Zoo, der Zhinan-Tempel und die Teehäuser der Maokong-Berge die Besucher an.

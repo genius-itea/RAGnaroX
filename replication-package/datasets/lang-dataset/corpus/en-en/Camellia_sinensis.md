@@ -1,0 +1,1 @@
+Camellia sinensis: Camellia sinensis is an evergreen shrub or small tree that is usually trimmed to below 2 m (6.6 ft) when cultivated for its leaves. It has a strong taproot. The flowers are yellow-white, 2.5–4 cm (0.98–1.57 in) in diameter, with 7 to 8 petals.

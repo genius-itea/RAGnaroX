@@ -1,0 +1,1 @@
+Bates County: Nach der Volkszählung im Jahr 2010 lebten im Bates County 17.049 Menschen in 6.355 Haushalten. Die Bevölkerungsdichte betrug 7,6 Einwohner pro Quadratkilometer. In den 6.355 Haushalten lebten statistisch je 2,61 Personen.

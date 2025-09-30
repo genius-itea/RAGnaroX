@@ -1,0 +1,1 @@
+Alce Negro: Alce Negro (en inglés, Black Elk; en lengua sioux, Hehaka Sapa (ca. diciembre de 1863–17 de agosto o 19 de agosto de 1950) fue un famoso Wichasha Wakan (Medicine Man u Hombre Santo) de los sioux oglala.

@@ -1,0 +1,1 @@
+Aeropuerto de París-Orly: El Aeropuerto de París-Orly (código IATA: ORY, código OACI: LFPO) es un aeropuerto de Isla de Francia (en francés: Île-de-France)? situado a 14 km al sur de París, Francia. Se utiliza sobre todo para vuelos nacionales, europeos, y vuelos con destino al Magreb, a Oriente Medio y a los DOM-TOM (dependencias de ultramar francesas).

@@ -1,0 +1,1 @@
+Robert Coleman Richardson: Robert Coleman Richardson (Washington, D. C., Estados Unidos, 26 de junio de 1937 - Ithaca, Nueva York, Estados Unidos, 19 de febrero de 2013)[1]​ fue un físico estadounidense laureado con el Premio Nobel.

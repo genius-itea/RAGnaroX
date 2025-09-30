@@ -1,0 +1,1 @@
+H I region: Mapping HI emissions with a radio telescope is a technique used for determining the structure of spiral galaxies. It is also used to map gravitational disruptions between galaxies. When two galaxies collide, the material is pulled out in strands, allowing astronomers to determine which way the galaxies are moving.

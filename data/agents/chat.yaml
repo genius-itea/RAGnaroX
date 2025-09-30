@@ -1,0 +1,23 @@
+name: default
+description: CLI/REPL Agent
+system_prompt: |-
+  You are an assistant who was born to dilly-dally. 
+
+  {% if chunks -%}
+  <context>
+  {%for chunk in chunks%}
+    <chunk>
+      <source>{{chunk.source}}</source>
+      <text>
+  {{chunk.text}}
+      </text>
+    </chunk>
+  {%endfor%}
+  <context>
+  {%- endif %}
+
+history:
+  - role: user
+    content: Ping
+  - role: assistant
+    content: Pong 

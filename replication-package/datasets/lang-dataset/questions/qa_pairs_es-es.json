@@ -1,0 +1,3002 @@
+[
+  {
+    "user_input": "¿Cómo se llama la organización islámica de la que forma parte Kirguistán?",
+    "reference": "la Organización de Cooperación Islámica",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos días están bajo cero en invierno?",
+    "reference": "40",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En que alfabeto se escribía el kirguiso antes?",
+    "reference": "árabe",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Para qué idioma se ofrecen servicios de interpretación?",
+    "reference": "kirguiso",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A qué están sujetas las carreteras en Kirguistán?",
+    "reference": "deslizamientos frecuentes y avalanchas de nieve",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuáles fueron las posiciones del tribunal de Berlín en relación con Gran Bretaña y Rusia?",
+    "reference": "antibritánica y prorrusa",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué falta el edificio?",
+    "reference": "una bañera.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál fue el nombre de su primer hijo?",
+    "reference": "Guillermo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A quién escribió el príncipe Alberto acerca del uso de la dote de la corona de la princesa Victoria como una contribución al presupuesto familiar después de morir el rey William IV?",
+    "reference": "barón von Stockmar",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año ocupó Prusia Holstein?",
+    "reference": "1866,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué odiaba Vicky?",
+    "reference": "el sistema político prusiano",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué profesión tenía Gustav Freytag?",
+    "reference": "escritor",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué médicos recibió la principesca pareja?",
+    "reference": "Hermann von Helmholtz, Rudolf Virchow",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién les ayudó?",
+    "reference": "Hugo von Radolinski y de Götz de Seckendorff,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quienes no volvieron a la capital, causando un escándalo en Berlín?",
+    "reference": "Federico y Vicky",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con quién terminó casándose la princesa Viktoria?",
+    "reference": "Adolfo de Schaumburg-Lippe,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde pasó tiempo Victoria parte de los últimos años de su vida?",
+    "reference": "Vicky dedicó los últimos años de su vida a la pintura y solía visitar la colonia de artistas de Kronberg,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se construyó el aeropuerto Poznan-Lawica Henryk Wieniawki?",
+    "reference": "1913",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con quién luchaba el jugador junto con su mayor enemigo?",
+    "reference": "TCTF",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es la fuerza usada por un gobierno totalitario para asegurase de que nadie está en contra del gobierno?",
+    "reference": "policía",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué escuela secundaria se graduó Alan Thicke?",
+    "reference": "la escuela secundaria Elliot Lake.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con quién se volvió a casar su madre?",
+    "reference": "Brian Thicke,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A qué universidad fue Alan Thicke?",
+    "reference": "Universidad de Western Ontario,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se llamaba su hijo?",
+    "reference": "William Carter,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué libro escribió Alan Thicke?",
+    "reference": "How Men Have Babies: The Pregnant Father's Survival Guide",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué premio fue otorgado a Daytime Emmy?",
+    "reference": "mejor programa de concurso/participación de audiencia para Pictionary",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año murió Sho Toku?",
+    "reference": "En 1469",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Los intereses de quién se consideraron con Qin Shi Huang?",
+    "reference": "del grupo dominante y de la clase comerciante,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué es lo primero logrado por lo que Qin Shi Huang es conocida?",
+    "reference": "estableció el primer estado chino unificado y centralizado",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De quién fue la falta de esmero que provocó la caída?",
+    "reference": "Qin Shi Huang",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuánto pueden bajar de media las temperaturas en enero en la mayor parte del país?",
+    "reference": "-30 °C (-22 °F)",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es la mayor precipitación?",
+    "reference": "entre 20 y 35 centímetros",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde nació George?",
+    "reference": "York Cottage, en la propiedad de Sandringham en Norfolk,[1]​",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué fuente del tipo de salud en declive no fue una elección?",
+    "reference": "gran estrés",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo murió el príncipe Alberto?",
+    "reference": "9 de noviembre de 1901:",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo atacaron los alemanes a los soviéticos en Zerel?",
+    "reference": "10 de agosto",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el país nativo de la serpiente de tentáculos?",
+    "reference": "sudeste asiático",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué posiciones tiene que alcanzar antes de asumir la posición de un obispo según lo decretado por Cayo?",
+    "reference": "sin antes haber pasado por los grados de ostiario, lector, acólito, exorcista, subdiácono, diácono y sacerdote.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año nació Traoré?",
+    "reference": "1974",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué mató a Vickers?",
+    "reference": "La nave extraterrestre, averiada,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año falleció Robert Coleman Richardson?",
+    "reference": "2013",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Cómo se llama la guerra que no duró siquiera un año?",
+    "reference": "La Guerra del Ogadén",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A favor de quién cambió el equilibrio de poder?",
+    "reference": "Somalia.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuando fue destronado el emperador Haile Selassier?",
+    "reference": "En septiembre de 1974,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién emite los avisos por huracán?",
+    "reference": "CPHC",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué fecha la tormenta se volvió subtropical?",
+    "reference": "31 de agosto.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con qué presidente trabajó John Canfield Spencer?",
+    "reference": "John Tyler",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Después de completar unas prácticas en la MTV en 1996, ¿en qué universidad se graduó Bays?",
+    "reference": "Universidad Wesleyana",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde entró él?",
+    "reference": "la plaza con la esperanza",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se puede convertir una película en 3D?",
+    "reference": "posproducción.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué buscan Banner y Stark?",
+    "reference": "Teseracto.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué hizo Stark para destruir la flota Chitauri?",
+    "reference": "Stark intercepta el misil",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Que revelo Selvig a Romanoff?",
+    "reference": "el cetro de Loki puede usarse para apagar el generador",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién interpretó a Bruce Banner/Hulk?",
+    "reference": "Mark Ruffalo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A qué escuela fue Mikado Ryugamine en Ikebukuro?",
+    "reference": "a la Academia Raira",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuáles fueron los nombres  de las víctimas que Matt encontró en su investigación?",
+    "reference": "Marie Gotteskind y Leila Anderssen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién mató a Albert?",
+    "reference": "Matt",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con qué compañía discográfica firmó Kesha?",
+    "reference": "RCA",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué cultura se basa principalmente el buque de Sidonia?",
+    "reference": "japonesa",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué es nombrado tras el fallecimiento de su abuelo?",
+    "reference": "piloto Guardián",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo sucedió el censo?",
+    "reference": "2000",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Pathum Thani es una provincia central ¿en qué país?",
+    "reference": "Tailandia",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde está ubicada la provincia en relación con Bangkok?",
+    "reference": "al norte",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué ofrecieron los ciudadanos al rey Rama II en su visita?",
+    "reference": "flores de loto",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuáles son algunas de las áreas de educación en las que se centra Pathum Thani?",
+    "reference": "la ciencia y la tecnología",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Había más familias u hogares viviendo en el condado en 2010?",
+    "reference": "hogares",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Por qué la carne picada llegó a ser vista como una comida de postre en lugar de una cena?",
+    "reference": "El incremento del dulzor debido al azúcar añadido, y producido por la fermentación, hacía a la mincemeat más apropiada para los postres que para los platos salados principales.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué país es el serbio la lengua cooficial?",
+    "reference": "siendo cooficial en la autoproclamada República de Kosovo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué usa el pez para causar una picadura?",
+    "reference": "un pico de dos puntas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Una infección de moscas de la arena ¿desaparece con el tiempo?",
+    "reference": "queda infectada de por vida",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué se compone casi por completo de células de parénquima?",
+    "reference": "las hojas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se llama un tipo de hilo que forma parte del apio?",
+    "reference": "colénquima.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué elementos resultan de la diferenciación de células vegetales?",
+    "reference": "formar las estructuras tisulares de la raíz, hojas, flores y estructuras reproductivas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Fibras, parénquima cella y ¿qué otros vasos componen Xylem?",
+    "reference": "traqueofitas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de plantas tiene xylema?",
+    "reference": "traqueofitas.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué es un leptoma?",
+    "reference": "tejido más simple con función análoga",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué pueden hacer las células epidérmicas?",
+    "reference": "sintetizar la cutina",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tan largo es el detector CMS?",
+    "reference": "21 metros de largo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A qué escuela asistió Poe?",
+    "reference": "Universidad de Virginia",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con quién se casó finalmente Poe?",
+    "reference": "Virginia Clemm",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál fue el nombre original planeado para esta obra?",
+    "reference": "The Stylus),",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué área era su diploma?",
+    "reference": "ingeniería",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo puede sacarle sangre a un paciente una persona que no es flebotomista?",
+    "reference": "en circunstancias especiales y situaciones de emergencia,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuáles son los otros tratamientos especializados?",
+    "reference": "gasometría arterial de la sangre",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde se usa el ADN hoy?",
+    "reference": "en medicina forense,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué norma se recomendó para la señal de audio?",
+    "reference": "modular en frecuencia",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Para qué necesitaba el CRT de televisión un intervalo de borrado vertical?",
+    "reference": "sincronización y el retorno vertical",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántas líneas tenía?",
+    "reference": "525",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuánto produce la división aproximadamente en campos por segundo?",
+    "reference": "59,94",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué porcentaje afecta  la neuropatía a las personas con diabetes?",
+    "reference": "Se estima que la prevalencia de la neuropatía en pacientes diabéticos es de aproximadamente 20%.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué puede producir la neuropatía diabética?",
+    "reference": "hiperglucemia.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué depende el funcionamiento normal de los nervios?",
+    "reference": "flujo sanguíneo.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué hacen los agentes que dilatan los vasos sanguíneos al flujo de sangre neuronal?",
+    "reference": "pueden llevar a mejoras substanciales",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es la importancia de la disfunción de los pequeños vasos sanguíneos dentro de la neuropatía diabética?",
+    "reference": "apoyar la severidad de los cambios estructurales, funcionales, y clínicos observados en la neuropatía diabética",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Según la investigación sobre la progresión de esta enfermedad, ¿con qué se correlaciona la disfunción neuronal?",
+    "reference": "anormalidades vasculares",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se desarrollan los síntomas?",
+    "reference": "de forma gradual durante años",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Qué factor causa variedad y posibilidad de síntomas adicionales?",
+    "reference": "nervios afectados",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Por qué se ve afectada la velocidad de conductividad de un nervio?",
+    "reference": "longitud del mismo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué parte del cuerpo experimenta primero menos sensación con el síndrome?",
+    "reference": "en los dedos del pie",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué puede afectar a otros órganos?",
+    "reference": "Neuropatía autonómica",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el nombre latino de la piedra filosofal?",
+    "reference": "piedra filosofal",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipos de escritores piensan que la piedra filosofal tienen una historia más larga que 300 AD?",
+    "reference": "alquímicos",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se mencionó por primera vez la piedra filosofal?",
+    "reference": "300 d.C.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué usaron los Alquimistas más tarde?",
+    "reference": "los elementos clásicos,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué cualidades analizó Jabir ibn Hayyan para tener el agua?",
+    "reference": "fría y húmeda",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántas cualidades utilizó Jabir ibn Hayyan para analizar cada elemento clásico?",
+    "reference": "cuatro",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el proceso mediante el cual un elemento se transforma en otro?",
+    "reference": "transmutación",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde se encuentra el quiste ovárico?",
+    "reference": "ovario.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuánto mide de largo el cañón Fish River?",
+    "reference": "160 kilómetros",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué estación cae el nivel del agua del río?",
+    "reference": "invierno",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué se puede agotar y modificar significativamente?",
+    "reference": "la capa de ozono",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué otro nombre tiene la palanca de mando?",
+    "reference": "palanca de control",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál fue la ocupación de George?",
+    "reference": "aviador pionero",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién más, aparte de Robert Esnault-Pelteri, indicaron que habían creado el nombre «joystick»?",
+    "reference": "Robert Loraine, James Henry Joyce y A. E. George.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de objetivos fueron principalmente dirigidos con el dispositivo?",
+    "reference": "marítimos",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué objeto proveyó Kraft Systems a NASA para usar como dispositivo de control?",
+    "reference": "palancas de mando",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos objetos de forma circular se utilizaban para controlar a los personajes en las máquinas recreativas de Street Fighter II?",
+    "reference": "seis",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de enfermedad es una parálisis cerebral?",
+    "reference": "atetoides,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es la capacidad?",
+    "reference": "1.000 camas.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién documentó por primera vez la solicitud?",
+    "reference": "el doctor William Bleckwenn",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué recibieron los ganadores en lugar de medallas en 1900?",
+    "reference": "copas o trofeos.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos imperios desaparecieron después de la guerra?",
+    "reference": "cuatro",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tiempo abarca la química?",
+    "reference": "desde la prehistoria hasta el presente",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuáles eran las sustancias principales que formaban todo según Empedocles?",
+    "reference": "tierra, fuego, aire y agua.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Cuál es el nombre de la celebración?",
+    "reference": "carnaval",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es una de las manera en las que podemos controlar el robot quirúrgico de enfermera instrumentista?",
+    "reference": "comandos de voz.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A dónde se extienden las prominencias?",
+    "reference": "sobre la superficie del Sol",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué están investigando los científicos?",
+    "reference": "cómo y por qué se producen las protuberancias solares.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde se encuentra el museo de Dubái?",
+    "reference": "Está ubicado en el fuerte Al Fahidi,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿ Que standard es el más común al rellenar perforaciones en el papel?",
+    "reference": "Estándar Internacional ISO 838.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué longitud puede tener un documento impreso?",
+    "reference": "100 mm de largo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos agujeros es el estándar nacional de Suecia?",
+    "reference": "cuatro",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué medidas tiene el estándar de cuatro agujeros?",
+    "reference": "21 mm, 70 mm y separados por 21 mm.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De cuánto fue la multa?",
+    "reference": "5,000 dólares.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué años se produjeron las revaluaciones?",
+    "reference": "1951 y 1958",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué cambió después de la caída de ciertas ciudades de Vietnam?",
+    "reference": "la moneda de Vietnam del Sur",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se emitió el dong?",
+    "reference": "En 1953",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Cuando se reevaluó el dong en 1985, ¿Cuantó más valia el nuevo dong?",
+    "reference": "10 dong antiguos.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué ocasiona la depreciación de las monedas?",
+    "reference": "inflación,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se llama una moneda que no ha circulado nunca?",
+    "reference": "monedas conmemorativas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo añadió el Banco Estatal de Vietnam los billetes de 2 y 10 đồng?",
+    "reference": "En 1980",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año se introdujeron los billetes de 5, 1, 2...?",
+    "reference": "1985",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Existe una serie de billetes de dong que no confunda al usuario?",
+    "reference": "las series actuales",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se construyó el complejo?",
+    "reference": "entre 1847 y 1855.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué ayudó a Lee a convertirse en una estrella en Asia?",
+    "reference": "series",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Tras haberse lesionado en quinto grado y haber roto su ilusión de convertirse en jugador de fútbol, ¿qué profesión empezó a ejercer Lee?",
+    "reference": "actuar",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Por qué Lee Min decidió dejar de rodar por un tiempo en 2006?",
+    "reference": "un grave accidente automovilístico",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuáles son las dos naciones que estuvieron sujetas a la revolución del siglo XVIII?",
+    "reference": "Estados Unidos, de 4 de julio de 1776. Ambos textos influyen en la francesa Declaración de los Derechos del Hombre y del Ciudadano de 1789",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué espera ganar ESA por su contribución con instrumentos y mano de obra?",
+    "reference": "una participación plena, representación y acceso al observatorio para sus astrónomos",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se vio sometida la Baja Birmania a anexarse con los británicos?",
+    "reference": "1853",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántas tropas británicas formaron parte de la armada?",
+    "reference": "3.029",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se anexionaron los británicos al país de Birmania?",
+    "reference": "el 1 de enero de 1886",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién dirigió Batman v Superman: Dawn of Justice?",
+    "reference": "Zack Snyder",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año empezó Chris Terrio a reescribir Batman V. Superman?",
+    "reference": "2013,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál fue la última fecha de estreno de \"Batman v Superman: El amanecer de la justicia\" que fue movida?",
+    "reference": "25 de marzo de 2016",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué hospital se hizo médica encargada del pabellón femenino Anandibai?",
+    "reference": "hospital local Albert Edward.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo Anandibai regresó a Estados Unidos?",
+    "reference": "1886,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año murió Anandibai?",
+    "reference": "1887,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo escribió Caroline Dall la biografía de Joshi?",
+    "reference": "1888,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Quién dirigió Anandi Gopal?",
+    "reference": "Kamlakar Sarang",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el nombre de la conductora del tranvía que le ayudó a volver a casa?",
+    "reference": "Hanna Schmitz",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál fue la sentencia de prisión para Hanna?",
+    "reference": "a cadena perpetua,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién conduce a Julia al final de la película?",
+    "reference": "Michael",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A quién sustituyó Chris Menges como director de fotografía?",
+    "reference": "Roger Deakins",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué compañía aérea comparte historia con Bulgaria Air desde el año 2002?",
+    "reference": "Balkan Bulgarian Airline",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año se privatizó Bulgaria Air?",
+    "reference": "2006.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué porcentaje de población representaban los udmurtios en 2010?",
+    "reference": "29.3%",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué transformó su aerolínea?",
+    "reference": "aerolínea de bajo coste",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos Boeing's nuevos pidió Pegasus?",
+    "reference": "doce",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se llamaba el buque británico?",
+    "reference": "infatigable",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál fue el porcentaje de judíos en Israel en 2008?",
+    "reference": "75 por ciento",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué metales se usan para hacer Tejas?",
+    "reference": "El nuevo diseño del ala LCA, está construido de aleaciones de aluminio-litio, los materiales compuestos de fibra de carbono (C-FC) y aceros de aleación de titanio.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Hacia cuál ronda avanzó el equipo del primer lugar?",
+    "reference": "cuartos de final",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué dirección es esta?",
+    "reference": "este",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se llamaba el tag team de Austin?",
+    "reference": "The Hollywood Blonds.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se llamaba el tercer luchador del equipo Tag de WWF?",
+    "reference": "The Undertaker",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué ciudad es la tercera más grande de la provincia?",
+    "reference": "punto más al este de Canadá y América del Norte",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se llamaba el padre de Devdas Mohandas Gandhi?",
+    "reference": "Mohandas Karamchand Gandhi",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos hijos tuvieron Devdas y Lakshmi?",
+    "reference": "cuatro hijos:",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el animal oficial de Canadá?",
+    "reference": "La cimera",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién creó el diálogo de juegos?",
+    "reference": "Matthew J. Costello",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuáles armas exclusivas de la franquicia Doom eran más poderosas en el juego?",
+    "reference": "BFG9000 y no podía faltar la famosa motosierra.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué estado se encuentra Haddon Heights High School?",
+    "reference": "Nueva Jersey",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué estados ocupan el Golfo?",
+    "reference": "Tamaulipas, Veracruz, Tabasco, Campeche, Yucatán",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué océano está el Golfo de México?",
+    "reference": "Océano Atlántico",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué aspecto tiene una buque Q normal?",
+    "reference": "viejo vapor que navegaba en solitario",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo llegó a llamarse?",
+    "reference": "USS Captor (PYC-40),",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué anticipó?",
+    "reference": "los semiconductores de tipo-P y de tipo-N",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué premio ganó ella?",
+    "reference": "Miss Margo Beautiful Skin, el Indiatimes Surfer's Choice y el MTV's Most Wanted.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el significado de wudu?",
+    "reference": "una piscina simétrica, donde se realizan las abluciones. Algunos también contienen fuentes para beber.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Contra quién se ha visto luchar a Sipaliwini?",
+    "reference": "tropas de Guyana y Surinam",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál fue el ingreso total de la película?",
+    "reference": "139 millones de dólares",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo aprendió Angeina Jolie sobre las condiciones en países en guerra?",
+    "reference": "visitar diferentes campamentos de refugiados",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A dónde se donaron las ganancias de las fotos?",
+    "reference": "Jolie-Pitt",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién organizó las galaxias espirales en subcategorías?",
+    "reference": "Edwin Hubble",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién fue el segundo físico nacido entre los miembros inmediatos masculinos de la familia Jean Becquerel?",
+    "reference": "Alexandre Edmond Becquerel,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo obtuvo Singapur su independencia?",
+    "reference": "9 de agosto de 1965",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde quería Raffles construir su nuevo puerto?",
+    "reference": "en el estrecho de Malaca",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A qué se dedicaba la mayoría de los malayos durante las Guerras del Opio?",
+    "reference": "como pescadores, artesanos, o como asalariados viviendo en zonas rurales",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué obras públicas llevaron a cabo los trabajadores no cualificados?",
+    "reference": "la limpieza de las junglas y la creación de carreteras.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuánta gente se cree que ha participado en las sociedades criminales chinas?",
+    "reference": "decenas de miles",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué fue un aspecto negativo del crecimiento de Singapur?",
+    "reference": "la administración de la isla era ineficaz, estaba desatendida, y no se preocupaba por el bienestar de la población.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo empezó la Segunda Guerra Mundial?",
+    "reference": "1939",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Aproximadamente, ¿cuántas tropas se convirtieron en prisioneras de guerra?",
+    "reference": "130.000",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuánto duró la ocupación japonesa de Malaya y Singapur?",
+    "reference": "tres años y medio",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde fueron asesinadas grandes cantidades de personas?",
+    "reference": "Malaya y Singapur",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué significa Merdeka?",
+    "reference": "independencia",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos electores había en 1955?",
+    "reference": "300.000",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se produjo la revuelta de la Escuela Secundaria China?",
+    "reference": "En 1956",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo describió conocidamente Lee Kuan Yew sus sentimientos sobre la conversión en república de Singapur?",
+    "reference": "momento de angustia.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué anunció Lee Kuan Yew?",
+    "reference": "que Singapur era una nación soberana e independiente.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién fue la primera persona a cargo de la República de Singapur?",
+    "reference": "Yusof bin Ishak",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Cuándo comenzó Inglaterra a eliminar las tropas británicas de Singapur?",
+    "reference": "1968",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué organización se descubrió que planificaba un ataque a las embajadas de Singapur en 2001?",
+    "reference": "grupo terrorista islámico Jemaah Islamiya",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de comportamiento está asociado con Gangnam, Corea?",
+    "reference": "«Gangnam Style»",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Por qué acabó aceptando Australia convictos del Reino Unido?",
+    "reference": "la gran escasez de fuentes de trabajo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo empezó el FCT?",
+    "reference": "1911",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué año fue Ben Chifley vencido?",
+    "reference": "1949",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Entre qué dos países forma la frontera el río?",
+    "reference": "Afganistán e Irán.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De dónde fluye el Hari Rud?",
+    "reference": "el sur de Herāt",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde se asentaron los misionarios?",
+    "reference": "las islas Salomón",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de sistema de gobierno tienen las islas Salomón?",
+    "reference": "monarquía parlamentaria",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "En parte porque muchos habitantes de las Islas Salomón no pueden leer, ¿la Radio se ha convertido en qué?",
+    "reference": "el medio de comunicación más difundido",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año salió la película Transformers?",
+    "reference": "2007",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién fue el productor ejecutivo de la película Transformers en 2007?",
+    "reference": "Steven Spielberg",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién era el secretario de Defensa?",
+    "reference": "John Keller,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuáles fueron los dos años en los que el club llegó de segundo?",
+    "reference": "1956 y 1959",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se veía Reims históricamente?",
+    "reference": "club legendario en los círculos franceses del fútbol,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año compró US-Bangla Airlines el Bombardier Dash Q400?",
+    "reference": "2014",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año se estrenó Matrix?",
+    "reference": "1999.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos pétalos tiene la flor?",
+    "reference": "6-8 pétalos",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué especies son?",
+    "reference": "superpredador",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde se pueden encontrar leones en Kenia?",
+    "reference": "al este",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde se reportan ataques de leones en Tanzania?",
+    "reference": "Reserva de caza Selous, en el distrito de Rufiji y en la Región de Lindi, cerca de la frontera con Mozambique.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién creó el primer Ant-Man?",
+    "reference": "Stan Lee, Larry Lieber y Jack Kirby",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A qué se dedicaba Scott Lang antes de ser Ant-Man?",
+    "reference": "ladrón",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es una línea de ferrocarril en Japón?",
+    "reference": "Línea Yamanote,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál era el género de Agathokleia?",
+    "reference": "mujeres",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién gobernó siguiendo a Alejandro Magno?",
+    "reference": "Agatoclea",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de animal es un Pomerania?",
+    "reference": "perro",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de perro tenía la reina Victoria?",
+    "reference": "El pomerania",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué se diferencian la capa exterior de la interior?",
+    "reference": "larga,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué se puede encontrar dentro del complejo?",
+    "reference": "las cascadas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año cortaron su afiliación con la secta Hosso?",
+    "reference": "1965",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos deslizamientos de tierra hubo allí en total?",
+    "reference": "segunda",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué país ocurrieron dos deslizamientos de tierra?",
+    "reference": "Afganistán",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de transporte era el TB-3?",
+    "reference": "tanques ligeros.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos lados del motor fallaron para que se construyera un sistema de compensación?",
+    "reference": "un lado.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál fue el resultado de que las áreas usaran más potencia de la permitida?",
+    "reference": "mayor demanda",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es la parte principal del plan del primer ministro Dr. Manmohan Singh para revisar la red eléctrica de la India?",
+    "reference": "plantas nucleares",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Además de ser un peligro para los aficionados a los peces, ¿qué tipo de empleados deben tener cuidado con la infección por M. marinum?",
+    "reference": "trabajadores en tiendas de animales,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué adjetivo fue usado para caracterizar cómo de exitosos fue el negocio?",
+    "reference": "rentable.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo adquirió Nathaniel el viñedo?",
+    "reference": "en 1853",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es una forma convencional de comenzar a aplicar estadísticas a problemas científicos?",
+    "reference": "se comienza con un proceso o población a ser estudiado. Esta puede ser la población de un país, de granos cristalizados en una roca o de bienes manufacturados por una fábrica en particular durante un periodo dado.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué enfoque matemático se empleó para determinar las similitudes comparativas entre una muestra?",
+    "reference": "Análisis estadísticos",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tiene terminología especializada?",
+    "reference": "Algunos campos de investigación",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién mandaba en Macedon en esa época?",
+    "reference": "Filipo V.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuando murió?",
+    "reference": "en 197 a. C.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo obtuvieron los animales un tamaño óptimo?",
+    "reference": "principios de su historia evolutivo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué es diferente para baini?",
+    "reference": "los huesos de la mejilla de esta especie son robustos y muy agrandado",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuánto gasta en cómics?",
+    "reference": "un promedio de treinta y cinco dólares por semana",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué recibió Grove Furr en 1978 de Princeton?",
+    "reference": "un Ph.D en literatura",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de ácidos se unen para formar ADN?",
+    "reference": "nucleicos",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿La forma de Encélado sugería una liberación voluntaria de la órbita giratoria o una liberación forzada de la órbita giratoria?",
+    "reference": "forzada",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año se tomaron fotos del polo sur del Encélado?",
+    "reference": "2005",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo tuvo su primer hijo el líder del pelotón?",
+    "reference": "1911,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué ciudad tuvo luchas la lucha que finalmente llevó a convertir al 18 de marzo en el día oficial de la Armada de Mongolia?",
+    "reference": "la parte mongol de Jiagt",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué ejército atacó Khüree?",
+    "reference": "Ejército Rojo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Para quién sospechaba Sukhbaatar que había un golpe de estado planeado?",
+    "reference": "Tsagaan Sar",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién fue Yanjmaa?",
+    "reference": "viuda de Süjbator",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año fue su regreso a los Estados Unidos?",
+    "reference": "1973,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Para qué se utilizó la grabación de la banda?",
+    "reference": "Pink Floyd: Live at Pompeii.[39]​",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué manager fue Chris Thomas amigo?",
+    "reference": "Steve O'Rourke.[60]​",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién hizo la obra artística para el álbum?",
+    "reference": "George Hardie,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién era la empresa discográfica de Pink Floyd en los Estados Unidos?",
+    "reference": "Capitol Records",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año nació el presidente de Gabón?",
+    "reference": "1959[1]​),",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántas personas fueron evacuadas?",
+    "reference": "36,000",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se llamaba?",
+    "reference": "XP-38A.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué fue el sucesor del P-38F?",
+    "reference": "P-38G",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos F-5Bs con bases terrestres operaba la marina en el Norte de África?",
+    "reference": "cuatro",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año ocurrió el asedio de 18 días?",
+    "reference": "1644",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se llama el álbum nombrado el 20 de octubre?",
+    "reference": "Yes or Yes",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué campo se especializó Maxwell?",
+    "reference": "física matemática",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué guerras tuvieron lugar entre 1793 y 1802?",
+    "reference": "las Guerras Revolucionarias Francesas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién recuperó el control?",
+    "reference": "Charles de Gaulle",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué sitio web de calificaciones obtuvo Silent Hill una puntuación de 86/100?",
+    "reference": "Metacritic",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué guerra participó él?",
+    "reference": "la primera guerra mundial",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién fue el candidato presidencial de la Liga de los Libertadores durante las elecciones de abril de 1934 en Estonia?",
+    "reference": "Larka",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A qué edad comenzó a entrenar en Yeshiva?\\n \\n",
+    "reference": "trece años",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuando recibió su licenciatura?",
+    "reference": "Yeshiva University",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué lengua muerto antigua habla?",
+    "reference": "el arameo y el latín",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué le mantiene ocupado?",
+    "reference": "enseñanza abierta",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde se encuentra Amberes?",
+    "reference": "Bélgica",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué título tiene el primer libro de posguerra escrito en alemán sobre la literatura Responsa?",
+    "reference": "Halacha aktuell",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué idioma está escrito el libro originalmente?",
+    "reference": "hebreo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se publicó?",
+    "reference": "1993",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál era el apellido de Ahron?",
+    "reference": "Daum)",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué grupo es el principal apoyo del Frente de las Fuerzas Socialistas en Argelia?",
+    "reference": "Tirni iγalen inemlayen,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuando nació Ernesto Sabato?",
+    "reference": "24 de junio de 1911",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué dos ríos confluyen cerca de Irán?",
+    "reference": "los ríos Aras y Kurá,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué 3 ciudades importantes invadieron las tropas de Zúbov?",
+    "reference": "Bakú, Şamaxı y Ganja",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué fue diferente en la última fuga de Tubmans?",
+    "reference": "sin sus hermanos.[35]​",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué sugirió Catherine Clinton?",
+    "reference": "40.000 dólares podría ser la suma total de todas las recompensas ofrecidas en la región",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Harriet Tubman sufrió qué tipo de lesión?",
+    "reference": "herida en la cabeza",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué sentía la población de Irán en general?",
+    "reference": "euforia",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién ayudó a los iraquís a utilizar los helicópteros \"Gazelle\" contra el ejército iraní?",
+    "reference": "asesores de Alemania Oriental,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué división fue disuelta y no se volvió a formar?",
+    "reference": "9.ª División Armada",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién fue el rey de Asiria?",
+    "reference": "Aššur-nādin-apli",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De quién eran los hallazgos que se consideraron clave para demostrar el fenómeno de la extinción?",
+    "reference": "de Mary Anning",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué festival de cine salió al aire primero Knock Knock?",
+    "reference": "2015 en el Festival de cine de Sundance,[9]​",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año se realizó Valperga?",
+    "reference": "(1823)",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde termina la meseta suiza al suroeste?",
+    "reference": "en Chambéry, donde los Alpes y el Jura hacen una pinza",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En que territorio de americanos nativos se encuentra Galena?",
+    "reference": "condado de Cherokee",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con qué se rellenó la tierra?",
+    "reference": "nativos hostiles y enfermedades tropicales.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de instalación de agricultura es muy común en Cayena?",
+    "reference": "plantaciones,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año se cerraron oficialmente las colonias penales?",
+    "reference": "1951.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo Pakistán adoptó una Constitución?",
+    "reference": "1956",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de música es popular en Pakistán?",
+    "reference": "folk",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es un deporte popular en Pakistán?",
+    "reference": "hockey",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién le puso nombre al número plástico?",
+    "reference": "Hans Dom van der Laan",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué edad tenía cuando apareció en el debut de su nieto?",
+    "reference": "setenta y un años",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Qué título obtuvo Kota Ibushi en el IWGP?",
+    "reference": "IWGP Junior Heavyweight Tag Team Championship",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuánto tiempo existió la isla?",
+    "reference": "135 años",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De dónde provienen los ingresos del emirato aparte de la piratería?",
+    "reference": "La historia interna del emirato es poco conocida, pero todas las fuentes apuntan a una prosperidad considerable, derivada no solo de la piratería, sino también del intenso comercio y agricultura.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año saqueó Salónica una flora siria?",
+    "reference": "en 904 una flota siria comandada por León de Trípoli saqueó Salónica,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué les sucedió a los habitantes musulmanes?",
+    "reference": "asesinados o esclavizados",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué medio es utilizado por todas las redes sociales como Facebook o Meetup?",
+    "reference": "Internet",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué país no usa software de filtrado?",
+    "reference": "los Estados Unidos,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de empresas limitan, a veces, el acceso a sitios web específicos que figuran en las listas de la policía de diferentes países?",
+    "reference": "proveedores de servicio de Internet",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué contribuye al refuerzo de la desigualdad económica?",
+    "reference": "Internet -como los mapas o servicios de localización-",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál era el nombre de la organización sin fines de lucro con sede en los Estados Unidos?",
+    "reference": "Zidisha",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué son los juegos de disparos MMORPG y en primera persona?",
+    "reference": "juegos",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A dónde se envió un gran grupo de tropas para reclamar la tierra?",
+    "reference": "Alejandría",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo murió von Steven?",
+    "reference": "30 de abril de 1863",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos pares de folíolos tienen las hojas?",
+    "reference": "20-60",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año nació Percy Lebaron Spencer?",
+    "reference": "1894",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Durante el reinado de Carlos, ¿cómo se llamaban las leyes colectivas emitidas por el parlamento?",
+    "reference": "“Código Clarendon”.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con qué clase de hojas se adornaban en celebraciones tradicionales?",
+    "reference": "roble.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde se ubica Malvik?",
+    "reference": "Malvik (en noruego y oficialmente Malvik Kommune) es una localidad y un municipio de la provincia de Trøndelag, en el centro de Noruega.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "El agua, la grasa, los músculos y los huesos se encuentran en todo el cuerpo y se pueden clasificar y analizar como ¿qué?",
+    "reference": "tipo de tejido",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué porcentaje del cuerpo humano está formado por microbios?",
+    "reference": "90%",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál fue el segundo sencillo de \"A Fever You Can't Sweat Out\"?",
+    "reference": "«I Write Sins, Not Tragedies»",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el nombre del software scfreencasting?",
+    "reference": "ActivePresenter",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué empresa distribuyó Super Comboy?",
+    "reference": "Hyundai Electronics",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Por qué sistema está influenciado principalmente el sistema judicial rumano?",
+    "reference": "Código Civil de Francia",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Qué nombre adoptaron cuando se les unió Bennington?",
+    "reference": "Hybrid Theory",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántas piernas artificiales tenía Esyer?",
+    "reference": "una",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se construyeron los cuarteles de Selimiye?",
+    "reference": "1800",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo empezó la reconstrucción con piedra del cuartel de madera?",
+    "reference": "1825",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con qué sello discográfico firmó Shawn Peter Raul Mendes en 2014?",
+    "reference": "Island Rescords",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con quién se juntó la NASA para el programa?",
+    "reference": "las fuerzas aéreas de los Estados Unidos en la base de la Fuerza Aérea Edwards",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántas veces voló la aeronave Gentry X-24A",
+    "reference": "28 veces",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Gracias a qué componente el X-24A pudo alcanzar altas velocidades?",
+    "reference": "motor de cohete XLR-11",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué sirvió el oficial Joseph Michael Arpaio?",
+    "reference": "Sheriff del Condado de Maricopa",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuánto duraron las huelgas de hambre irlandesas de 1981?",
+    "reference": "cinco años",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué hicieron los prisioneros prendas de vestir?",
+    "reference": "mantas de la cárcel.[6]​",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo murió Sands?",
+    "reference": "Eligió acabar con su propia vida",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿La reunión con el padre Faul fue después de la muerte de qué dos caballeros?",
+    "reference": "Joe McDonnell y Martin Hurson,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué circunstancias provocaron que Sinn Fein se convirtiera en un partido político popular?",
+    "reference": "La huelga",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Por qué Hernán Cortés y Cuauhtémoc estaban torturando a Tlacotzin?",
+    "reference": "revelar la ubicación de los tesoros reales y el oro de la familia imperial",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo nació Vasilyev?",
+    "reference": "21 de mayo de 1924",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo fue restaurada la estatua?",
+    "reference": "En 2003,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde se descubrió un documento original de un famoso compositor?",
+    "reference": "Seminario Teológico Palmer",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál era el nombre de casada de Molly Thomas?",
+    "reference": "M. V. Hughes",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué se usó para reemplazar las flechas?",
+    "reference": "balas de cañón",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué estructura adopta el compuesto?",
+    "reference": "oligomérica estructura",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué condiciones son condiciones óptimas para el metillitio?",
+    "reference": "condiciones anhidras",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Come se llama el fenómeno en que las células se hacen importantes cambios?",
+    "reference": "modificación postraduccional",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es un ejemplo de un lenguaje de programación utilizado para escribir macros?",
+    "reference": "BeanShell, Jython, JavaScript",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con qué empresa se firmó el acuerdo?",
+    "reference": "Westerlo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién escribió la letra?",
+    "reference": "Rudolf Alexander Schröder",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué canción compuso Reutter?",
+    "reference": "Deutschlandlied",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año el condado tenía una población de 7422?",
+    "reference": "2000",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál era la preocupación de Brent Scowcroft?",
+    "reference": "que lo acordado en la Cumbre de Malta fuera algo prematuro y que generara grandes expectativas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué barco tuvo lugar la reunión?",
+    "reference": "Maxim Gorki,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué evento de fútbol se celebró en Nigeria en abril de 1999?",
+    "reference": "campeonato mundial juvenil organizado por la FIFA",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué porcentaje de la población vive sola?",
+    "reference": "20,9",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué calles rodean la cuadra?",
+    "reference": "George, Market, York y Druit",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué estilos produjo edificios McRae?",
+    "reference": "(Gótico, Renacimiento, el estilo de la reina Ana y el estilo Románico)",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué época deben ser los arcos?",
+    "reference": "Las columnatas, los arcos, balaustradas y cúpulas típicamente un estilo intricado Victoriano.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Son la mayoría de los azulejos originales o han sido rediseñados?",
+    "reference": "originales",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántas veces ganó los saltos el gimnasta Los Yun?",
+    "reference": "dos",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántas medallas de oro recibió?",
+    "reference": "el oro en suelo, también el oro en salto,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué grupo de personas nunca representaron un gran número?",
+    "reference": "latinos",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿cuáles eran las áreas de aplicación?",
+    "reference": "puertos, minas, y, particularmente, los edificio",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es la definición según la relatividad especial?",
+    "reference": "en su marco inercial, el interferómetro puede considerarse en reposo de acuerdo con el principio de la relatividad, por lo que el tiempo de propagación de la luz es el mismo en todas las direcciones",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué debe considerarse al explicar los resultados de las colisiones de partículas?",
+    "reference": "la densidad de nucleones debido a la contracción de la longitud.[14]​[15]​[16]​",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de objeto es el A5?",
+    "reference": "El A5 es un hidroavión de ala alta tipo monoplano",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién es Matyas Szuros?",
+    "reference": "un político húngaro.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿\"En qué año se estrenó el vídeo musical de 'Santa dime' en Vevo?\"",
+    "reference": "2014.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo empezaron a crecer estos sectores de la economía?",
+    "reference": "siglo XIX",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué nacionalidad es el Sr. Studd?",
+    "reference": "británico",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál fue el primer trabajo publicado?",
+    "reference": "The Mysterious Mummy,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con quién se casó en 1909?",
+    "reference": "Rose Knox",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién dirigió el controvertido episodio \"Homer-fobia\"?",
+    "reference": "Mike B. Anderson",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A qué pKa se disocia el ácido?",
+    "reference": "25",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Para qué se usa el ácido sulfúrico?",
+    "reference": "catalizador",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es la distribución de volumen de aspirina?",
+    "reference": "0,1-0,2 l/kg.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué es NF-kB?",
+    "reference": "un complejo de factores de transcripción",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿La aspirina es lo suficientemente peligrosa para que sea necesaria un consejo médico antes de usarla?",
+    "reference": "Por motivo de su acción sobre la mucosa estomacal, se recomienda que los pacientes con enfermedad renal, úlceras pépticas, diabetes, gota o gastritis consulten con un profesional de la salud antes de tomar aspirina.[83]​[82]​",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quiénes están exentos de tomar aspirina?",
+    "reference": "con antecedentes alérgicos al ibuprofeno o al naproxeno",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se llamaba la alianza germano-italiana en la Segunda Guerra Mundial?",
+    "reference": "Pacto de Acero.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué número de eslóganes oficiales ha tenido McDonald's en los mercados de EE. UU.?",
+    "reference": "23",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Adónde se mudó la pareja con la esperanza de encontrar más aceptación?",
+    "reference": "San Francisco",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién se dedicó al activismo político?",
+    "reference": "Milk",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Para qué distrito ordeñó leche cuando gana una silla?",
+    "reference": "Sector 5",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién votó en contra de la ordenanza de Milk?",
+    "reference": "White",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué favorece un Blanco desesperado?",
+    "reference": "un aumento del sueldo de los supervisores,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo entró White en City Hall?",
+    "reference": "través de una ventana del sótano",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué estaba pensando Oliver Stone  producir a principios de 1991?",
+    "reference": "una película sobre la vida de Milk.[6]​",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "En Síria, ¿qué varía entre la población judía?",
+    "reference": "el grado en que los Judíos se someten a las disciplinas de su religión",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué idioma hablan los judíos sirios?",
+    "reference": "árabe",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el nombre del protagonista?",
+    "reference": "Harry James Potter",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué color es la superficie del planeta Sedna?",
+    "reference": "roja",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué comunidades hay en Corea del Norte?",
+    "reference": "pequeñas comunidades budistas y cristianas.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué estado introdució el budismo La Antigua Qin chino?",
+    "reference": "Goguryeo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Cuál fue la causa principal del declive del Budismo?",
+    "reference": "prohibidos de ingresar y fueron marginados a las montañas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Además del chamanismo coreano, ¿qué otra religión estaba prohibida?",
+    "reference": "budismo coreano",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se hizo popular el cristianismo en el norte de Corea?",
+    "reference": "finales del siglo XVIII hasta el siglo XIX",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tan anchas son las calles?",
+    "reference": "estrechas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál se ha conocido generalmente como la finalidad principal de la heparina, aunque hoy en día se debate?",
+    "reference": "anticoagulación,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tamaño tenía el MacBook Pro que se lanzó en octubre de 2008?",
+    "reference": "15\"",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántas unidades del W116 se produjeron?",
+    "reference": "473.035",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos W220 Clase S se produjeron?",
+    "reference": "485.000 unidades",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "En qué año fue creado Howard el Pato?",
+    "reference": "1986",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué es un tipo de bacterias que se usa contra las orugas?",
+    "reference": "Bacillus thuringiensis",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién producía clavos?",
+    "reference": "Ternate",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué zonas poseía el sultán Baabullah en el periodo de mayor esplendor de su reinado?",
+    "reference": "la mayor parte del este de Sulawesi, las regiones de Ambon y Seram, la isla de Timor, la parte sur de Mindanao y partes de la isla de Nueva Guinea",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué fuerzas básicas están asociadas con las plantas en la cultura china?",
+    "reference": "Los planetas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántos días tarda Mercurio en orbitar el Sol?",
+    "reference": "88 días",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué cualidades humanas se le atribuyeron a Mercurio?",
+    "reference": "habilidades de recopilación de información y destreza física.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué Unión colaboró estrechamente con la FAO para combatir la crisis alimentaria mundial?",
+    "reference": "Unión Europea",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo lanzó la iniciativa la FAO?",
+    "reference": "En diciembre de 2007,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué trata de combatir el Programa Especial?",
+    "reference": "la eliminación del hambre, la desnutrición y la pobreza.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Contra qué es la campaña con la que llegan al público los Embajadores de Buena Voluntad?",
+    "reference": "contra el hambre en el mundo.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo fue arrestada Sarah Osborne?",
+    "reference": "el 1 de marzo de 1692",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Por qué Osborne no fue a la iglesia durante casi tres años?",
+    "reference": "debido a una larga enfermedad",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se presentó la adaptación al cine de \"The Crucible\"?",
+    "reference": "1996",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con qué fenómeno natural se compara la quinta fuerza?",
+    "reference": "la gravedad",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué se necesita para medir las interacciones gravitacionales de la Tierra?",
+    "reference": "un equipo muy preciso",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué escolar hizo registros de las tribus y de la geografía de Irlanda en 100CE?",
+    "reference": "Ptolomeo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién escribió sobre el príncipe irlandés exiliado?",
+    "reference": "Tácito",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué pasa cuando una chica usa técnicas para atraer la atención?",
+    "reference": "ignoradas.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Por qué motivo renunció Mustafa Kemal Ataturk al puesto de primer ministro?",
+    "reference": "Las diferencias de opinión con İnönü le llevaron a dejar el puesto en 25 de enero de 1939.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año se indultó a Bayar?",
+    "reference": "1974,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Por qué los voluntarios estaban trabajando en el extranjero?",
+    "reference": "guarnición del Imperio Británico.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿cuál es el significado de BEF?",
+    "reference": "fuerza expedicionaria británica",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Para qué se utiliza el símbolo $?",
+    "reference": "es un símbolo terminal especial para indicar el final de la pila y el final del flujo de entrada,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Durante qué década recircularon los pensamientos?",
+    "reference": "en los años 1970",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se reivindicaron los derechos de la mujer?",
+    "reference": "1792",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el mayor periodo de duración en el que puede ejercer un senador?",
+    "reference": "períodos de seis años,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué año data la Constitución de Australia?",
+    "reference": "1901,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué es el acoplamiento?",
+    "reference": "la interdependencia entre módulos,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuánto acero se agregó a la estructura?",
+    "reference": "350 toneladas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué lugar al sudeste se encuentra adjunto a Lorentz?",
+    "reference": "Nernst",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Para quién jugó Faubert por última vez?",
+    "reference": "Borneo",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué fruto se menciona en el nombre de esta serie de libros japoneses?",
+    "reference": "Banana",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál era el número del vuelo que se estrelló en Irán en 2011?",
+    "reference": "277",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuántas cabezas de familia han sido informadas?",
+    "reference": "12.961",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el porcentaje de gente con menos de 18 años?",
+    "reference": "31,40%",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Dónde se produce la síntesis de proteínas en una célula?",
+    "reference": "los ribosomas,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué significa el nombre Taipei?",
+    "reference": "área metropolitana,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuánto mide el Qixing?",
+    "reference": "1.120",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién debió elegir al primer director?",
+    "reference": "la Asamblea Popular Suprema",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo obtuvo Kamen su doctorado?",
+    "reference": "1936.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué década se hizo famosa Myrdal?",
+    "reference": "en la década de 1930",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo salió la canción \"Dream\"?",
+    "reference": "En enero de 2016,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo Franklin confesó el intento de asesinato de Larry Flint?",
+    "reference": "1978",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué explicación posible hay para la compresión de los pechos?",
+    "reference": "ropa y vestimentas apretadas, o sostenes de la medida incorrecta",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el precio estimado del proyecto de construcción?",
+    "reference": "21,4 mil millones de coronas danesas (precios de 1988),[3]​",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué era Moto Moto?",
+    "reference": "el hippopotamo.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año comenzó Jamaica a jugar en los Juegos Olímpicos de Invierno?",
+    "reference": "1988",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Por qué se conoce la biblioteca javascript?",
+    "reference": "creación de poderosas páginas web dinámicas y aplicaciones web.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué compañía integró las infraestructuras MVC y AJAX en una plataforma de desarrollo de artilugios?",
+    "reference": "Microsoft",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año fue creado finalmente?",
+    "reference": "2006",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿A dónde operan algunos vuelos desde París Orly?",
+    "reference": "a Oriente Medio y a los DOM-TOM (dependencias de ultramar francesas)",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Con qué se reemplazó el arma estándar?",
+    "reference": "subfusil F1",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo nació Guillotin?",
+    "reference": "28 de mayo de 1738",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo se anunció la creación del partido?",
+    "reference": "El 3 de abril de 2011,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuándo fue asesinado Kennedy?",
+    "reference": "1963,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Dónde nació Twombly?",
+    "reference": "Lexington (Virginia)",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de freno requiere?",
+    "reference": "un freno de boca con apagallamas",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién hizo los cálculos iniciales?",
+    "reference": "Wilhelm Launhardt",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿De qué manera se conocía Halimede antes de que se nombrara?",
+    "reference": "S/2002 N 1.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Desde qué años escribió Pariser Mode Blatter artículos?",
+    "reference": "De 1827 a 1846",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Quién es Stephen Miller?",
+    "reference": "activista político de extrema derecha[1]​[2]​ que se desempeña como consejero superior del presidente de los Estados Unidos para el presidente Donald Trump",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el porcentaje de niños menores de edad que viven en la pobreza?",
+    "reference": "12.3%",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es el costo de la bedaquilina durante medio año en los países más ricos?",
+    "reference": "$30.000 USD",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿En qué año encabezó Eddington la expedición?",
+    "reference": "1919",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo se le llamó a la gran emigración de cubanos?",
+    "reference": "El éxodo del Mariel",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cuál es la nacionalidad de Lee?",
+    "reference": "coreano",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué se fundó en la Universidad de Swarthmore?",
+    "reference": "estudiantes por la cultura libre",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Hace cuánto tiempo que existe el concepto subyacente de hipertexto?",
+    "reference": "tiene sus orígenes en viejos proyectos de la década de los 60,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué libro escribió Berners-Lee?",
+    "reference": "Weaving the Web",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Quién estaba relacionado con Crazy Horse?",
+    "reference": "Hehaka Sapa",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué se puede usar para encontrar una solución a la expresión de forma cerrada?",
+    "reference": "computadoras",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Cómo está estilizado el nombre?",
+    "reference": "Estadio flotante en Marina Bay,",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Cómo se conocía a Devi?",
+    "reference": "Amma",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué sistemas operativos son compatibles con Illustrator CS2?",
+    "reference": "Mac con tecnología Intel, como con Microsoft Windows XP",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "¿Qué tipo de operación será capaz de usar el modelo 2037 Bomber?",
+    "reference": "sin tripulación",
+    "response": "",
+    "retrieved_contexts": ""
+  }
+]

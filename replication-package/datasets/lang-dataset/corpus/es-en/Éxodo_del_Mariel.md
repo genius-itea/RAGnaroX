@@ -1,0 +1,1 @@
+Éxodo del Mariel: El éxodo del Mariel fue un movimiento en masa de cubanos, quienes partieron del puerto Mariel, en Cuba, hacia los Estados Unidos entre el 15 de abril y el 31 de octubre de 1980. A los inmigrantes o miembros de este éxodo se les conoce como los “Marielitos”.[1]​

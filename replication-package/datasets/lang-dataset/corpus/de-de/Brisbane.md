@@ -1,0 +1,1 @@
+Brisbane: Auf der Suche nach einem geeigneten Standort für eine neue Strafkolonie landete der Soldat und Entdecker John Oxley 1823 am Brisbane River. Die ursprüngliche Kolonie wurde 1824 in Redcliffe gegründet, doch ein Jahr später flussaufwärts auf das Gebiet des heutigen Stadtzentrums verlagert.

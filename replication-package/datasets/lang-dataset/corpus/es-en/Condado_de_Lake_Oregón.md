@@ -1,0 +1,1 @@
+Condado de Lake (Oregón): Para el censo de 2000 [2]​, habían 7.422 personas, 3.084 cabezas de familia, y 2.152 familias residiendo en el condado. La densidad de población era de 1 habitantes por milla cuadrada.

@@ -1,0 +1,1 @@
+Visrivier (Namibia): Tiene 650 kilómetros de largo, fluyendo de la represa Hardap cerca de Mariental. El flujo del río es estacional; en invierno puede secarse río arriba totalmente. A pesar de ello, se encuentra el espectacular Cañón del Río Fish, un cañón de 160 kilómetros de largo, y con puntos de hasta 550 metros de profundidad.

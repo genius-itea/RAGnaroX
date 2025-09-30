@@ -1,0 +1,1 @@
+Jad Kennedy: Jad Kennedy (heb.: יד קנדי, deutsch: Kennedy-Mahnmal), befindet sich im Mateh Jehuda Regionalverband bei Jerusalem, Israel. Es ist ein Monument für John F. Kennedy, den Präsidenten der USA, der 1963 einem Attentat zum Opfer fiel.

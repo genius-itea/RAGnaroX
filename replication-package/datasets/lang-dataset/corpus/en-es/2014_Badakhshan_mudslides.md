@@ -1,0 +1,1 @@
+2014 Badakhshan mudslides: On 2 May 2014, a pair of mudslides occurred in Argo District, Badakhshan Province, Afghanistan. The death toll is uncertain, the number of deaths varying from 350 to 2,700. Around 300 houses were buried and over 14,000 were affected. Rescuers responding to the initial mudslide were struck by a second mudslide, which hampered rescue efforts.

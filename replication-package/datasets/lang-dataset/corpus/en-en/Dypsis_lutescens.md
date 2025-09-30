@@ -1,0 +1,1 @@
+Dypsis lutescens: Dypsis lutescens grows 6–12 m (20–39 ft) in height. Multiple stems emerge from the base. The leaves are arched, 2–3 m (6 ft 7 in–9 ft 10 in) long, and pinnate, with 40-60 pairs of leaflets. It bears panicles of yellow flowers in summer. Offsets can be cut off when mature enough, as a propagation method.

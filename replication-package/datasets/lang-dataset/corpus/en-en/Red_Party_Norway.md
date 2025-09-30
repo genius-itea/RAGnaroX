@@ -1,0 +1,1 @@
+Red Party (Norway): The Red Party (Bokmål: Rødt, Nynorsk: Raudt, Northern Sami: Ruoksat) is a Norwegian far-left political party. The party was founded in March 2007 by a merger of the Workers' Communist Party and the Red Electoral Alliance. Bjørnar Moxnes is the Red Party's current leader.

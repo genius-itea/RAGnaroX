@@ -1,0 +1,1 @@
+Grover Furr: Born in Washington, D.C., Grover Furr graduated from McGill University in Montreal, Quebec, Canada, in 1965 with a BA in English. He received a Ph.D in Comparative literature from Princeton University in 1978. Since February 1970, he has been on the faculty at Montclair State University in New Jersey, where he specializes in medieval English literature.

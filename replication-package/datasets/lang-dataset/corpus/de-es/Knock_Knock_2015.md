@@ -1,0 +1,1 @@
+Knock Knock (2015): Knock Knock ist ein Erotik-Horrorthriller von Eli Roth. Der Film hatte seine Premiere am 23. September 2015 beim Sundance Film Festival 2015. Der Kinostart in Deutschland war am 10. Dezember 2015. Der Film ist eine Neuverfilmung von Death Game, einem Film von Peter Traynor aus dem Jahr 1977.

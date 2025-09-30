@@ -1,0 +1,1 @@
+Fahd of Saudi Arabia: Fahd bin Abdulaziz Al Saud, Custodian of the Two Holy Mosques (Arabic: فهد بن عبد العزيز آل سعود‎ Fahd ibn ‘Abd al-‘Azīz Āl Sa‘ūd; 1921 – 1 August 2005) was King of Saudi Arabia from 1982 to 2005. He was one of 45 sons of Saudi founder Ibn Saud and the fourth of his six sons who were kings (Saud, Faisal, Khalid, Fahd, Abdullah and Salman).

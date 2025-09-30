@@ -1,0 +1,1 @@
+Halimede (satélite): Halimede, o Neptuno IX, al igual que muchos de los satélites exteriores de Neptuno, debe su nombre a una de las Nereidas, hijas de Nereo y Doris. Antes del anuncio de su nombre el 3 de febrero de 2007, Halimede era conocido por la designación provisional S/2002 N 1.

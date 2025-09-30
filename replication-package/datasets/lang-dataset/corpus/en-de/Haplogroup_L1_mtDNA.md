@@ -1,0 +1,1 @@
+Haplogroup L1 (mtDNA): Haplogroup L1 is a human mitochondrial DNA (mtDNA) haplogroup. It is most common in Central Africa and West Africa. Haplogroup L1 is believed to have appeared approximately 110,000 to 170,000 years ago. Haplogroup L1 is a daughter of L1-6 and genetic marker changes are 3666, 7055, 7389, 13789, 14178 and 14560.

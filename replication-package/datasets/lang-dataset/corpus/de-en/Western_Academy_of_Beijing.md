@@ -1,0 +1,1 @@
+Western Academy of Beijing: Die WAB hat eine Kleinkindertagesstätte, eine Grundschule, eine Mittelschule und ein Gymnasium. Die Schule verfügt über drei Bibliotheken: die Bibliothek Sabina Brady, die Rote Schriftrolle und das Grüne Sky Studio. Der HUB ist das Sport-, Kunst- und Technologiezentrum der Mittelschüler und Gymnasium.

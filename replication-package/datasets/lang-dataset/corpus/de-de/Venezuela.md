@@ -1,0 +1,1 @@
+Venezuela: Venezuela (amtlich Bolivarische Republik Venezuela, spanisch República Bolivariana de Venezuela [venezolanische Aussprache reˈpuβlika βoliβaˈɾjana ðe βeneˈswela]) ist ein südamerikanischer Staat an der Karibikküste. Er grenzt im Süden an Brasilien, im Westen an Kolumbien und im Osten an Guyana.

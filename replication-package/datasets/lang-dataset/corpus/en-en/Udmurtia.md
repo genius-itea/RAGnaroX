@@ -1,0 +1,1 @@
+Udmurtia: According to the 2010 Census, Russians make up 62.2% of the republic's population, while the ethnic Udmurts only make up 28%. Other groups include Tatars (6.7%), Ukrainians (0.6%), Mari (0.6%), and a host of smaller groups, each accounting for less than 0.5% of the republic's total population.

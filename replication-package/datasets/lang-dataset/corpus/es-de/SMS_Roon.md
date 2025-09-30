@@ -1,0 +1,1 @@
+SMS Roon: El 10 de agosto, el Roon y el Prinz Heinrich, bombardearon posiciones rusas en Zerel. Había varios destructores rusos anclados en Zerel y los cruceros alemanes, los cogieron por sorpresa, y consiguieron dañar uno de ellos.[14]​

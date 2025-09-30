@@ -1,0 +1,1 @@
+Solomon Islands: For local government, the country is divided into ten administrative areas, of which nine are provinces administered by elected provincial assemblies and the tenth is the capital Honiara, administered by the Honiara Town Council.

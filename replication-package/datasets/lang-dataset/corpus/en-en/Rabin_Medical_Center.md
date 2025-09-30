@@ -1,0 +1,1 @@
+Rabin Medical Center: Rabin Medical Center (Hebrew: מרכז רפואי רבין‎) is a major hospital and medical center located in Petah Tikva, Israel. It is owned and operated by Clalit Health Services, Israel's largest health maintenance organization. In January 1996, Beilinson Hospital and Hasharon Hospital were merged and renamed Rabin Medical Center. It has a capacity of 1,300 beds.

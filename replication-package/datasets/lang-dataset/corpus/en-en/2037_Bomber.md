@@ -1,0 +1,1 @@
+2037 Bomber: The 2037 Bomber is the unofficial name given to a heavy strategic bomber planned by the United States Air Force, intended to serve as a replacement for the Northrop Grumman B-2 Spirit. The aircraft is projected to enter service in 2037 as a stealth, supersonic, long-range bomber aircraft with capability for unmanned operation.

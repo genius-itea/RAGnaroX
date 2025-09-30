@@ -1,0 +1,1 @@
+Persian Expedition of 1796: By mid-June, Zubov's troops overran without any resistance most of the territory of modern-day Azerbaijan, including three principal cities — Baku, Shemakha and Ganja. By November, they were stationed at the confluence of the Araks and Kura Rivers, poised to attack mainland Iran.

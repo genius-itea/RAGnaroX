@@ -1,0 +1,1 @@
+Carter Bays: Bays graduated from Wesleyan University in 1997. In the summer of 1996 Bays and Thomas were interns in the Development department of MTV.Bays became an intern at MTV in the Fall of 1996, which would later influence his writing.

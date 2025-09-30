@@ -1,0 +1,1 @@
+Sahn: In historic Persian garden design sahns were the location for private Paradise gardens. In traditional Persian architecture, the courtyard usually contained a howz or symmetrical pool, where wudu (Islamic ablutions) were performed.

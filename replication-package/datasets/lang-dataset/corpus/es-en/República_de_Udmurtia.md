@@ -1,0 +1,1 @@
+República de Udmurtia: Más de 100 diferentes nacionalidades viven dentro de la república, incluyendo un 60.1% de rusos, un 29.3% de udmurtios nativos, y un 7% de tártaros. Las lenguas más habladas son el ruso y el idioma udmurto, de origen ugrofinés, esto es, urálico. Más de dos terceras partes de la población mundial de udmurtios vive en Udmurtia.

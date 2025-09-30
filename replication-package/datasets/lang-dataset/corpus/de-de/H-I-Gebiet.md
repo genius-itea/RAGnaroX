@@ -1,0 +1,1 @@
+H-I-Gebiet: H-I-Gebiete (gesprochen: ha eins) sind interstellare Wolken aus atomarem, nicht ionisiertem Wasserstoff und molekularem Wasserstoff (H2). Der neutrale atomare Wasserstoff strahlt mit der charakteristischen 21-cm-Linie. Durch Beobachtung dieser Mikrowellen kann die Radioastronomie die großräumige Struktur der Milchstraße erforschen.

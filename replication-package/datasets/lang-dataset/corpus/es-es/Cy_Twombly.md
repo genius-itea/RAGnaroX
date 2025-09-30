@@ -1,0 +1,1 @@
+Cy Twombly: Twombly nació en Lexington (Virginia) el 25 de abril de 1928. El padre de Twombly, a quien también apodaban "Cy", era pitcher de los Chicago White Sox.[5]​ Ambos tenían el apodo por el jugador estrella Cy Young quien jugaba para los Saint Louis Cardinals, Boston Red Sox, Cleveland Indians y los Boston Braves.

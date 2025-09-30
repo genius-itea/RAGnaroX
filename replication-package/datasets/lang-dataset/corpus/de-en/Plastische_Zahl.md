@@ -1,0 +1,1 @@
+Plastische Zahl: Die Definition der Plastischen Zahl geht auf den niederländischen Architekten Hans van der Laan zurück. Die Bezeichnung Plastikzahl ist irreführend und entspricht nicht der Intention van der Laans, denn nicht das Material Plastik, sondern die räumliche Ausdehnung (in der Architektur) war bestimmend für die Namensgebung „plastisch“.

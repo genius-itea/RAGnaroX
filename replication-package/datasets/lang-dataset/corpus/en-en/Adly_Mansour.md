@@ -1,0 +1,1 @@
+Adly Mansour: Mansour was born in Cairo. He graduated from Cairo University Law School in 1967, earned a postgraduate degree in law in 1969, studied economics and earned a postgraduate degree in management science from Cairo University in 1970. He later attended France's École nationale d'administration (ENA) and graduated in 1977.

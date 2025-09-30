@@ -1,0 +1,1 @@
+Coat of arms of Manitoba: The helmet above the shield is gold and faces left, a symbol of Manitoba's co-sovereign status in Confederation. The mantling is in the national colours of Canada. The crest is a beaver, Canada's national animal, holding a prairie crocus, Manitoba's provincial flower. The crest is surmounted by a crown, representing royal sovereignty.Shield

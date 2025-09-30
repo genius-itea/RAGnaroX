@@ -1,0 +1,1 @@
+Juliaetta: En el 2000[5]​ la renta per cápita promedia del hogar era de $33,295, y el ingreso promedio para una familia era de $39,250. En 2000 los hombres tenían un ingreso per cápita de $31,875 contra $18,594 para las mujeres. El ingreso per cápita para la localidad era de $14,606. Alrededor del 12.3% de la población estaba bajo el umbral de pobreza nacional.[6]​

@@ -1,0 +1,1 @@
+Junioren-Fußballweltmeisterschaft 1999: Die 12. FIFA Junioren-Fußballweltmeisterschaft (offiziell: 10th FIFA World Youth Championship) fand vom 3. bis zum 24. April 1999 in Nigeria statt. 24 Mannschaften aus sechs Kontinentalverbänden, darunter auch der Titelverteidiger Argentinien und die deutsche Nachwuchsauswahl, nahmen am Turnier teil.

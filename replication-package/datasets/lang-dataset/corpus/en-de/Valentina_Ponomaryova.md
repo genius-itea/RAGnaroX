@@ -1,0 +1,1 @@
+Valentina Ponomaryova: Ponomaryova later worked in orbital mechanics at the Gagarin Training Center. Following this, she was a research scientist at the Institute of Natural Historic Sciences. She was awarded a Candidate of Technical Sciences degree in 1974.

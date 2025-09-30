@@ -1,0 +1,1 @@
+Celina Jaitley: Jaitley fue finalista del concurso de Miss Universo en 2001.[5]​ Además de su título de Miss India, CElina ganó los premios Miss Margo Beautiful Skin, el Indiatimes Surfer's Choice y el MTV's Most Wanted.

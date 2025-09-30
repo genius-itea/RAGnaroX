@@ -1,0 +1,1502 @@
+[
+  {
+    "user_input": "Was sind die Hauptfunktionen des Online Check-Outs in der CASABLANCA Hotelsoftware?",
+    "reference": "Der Online Check-Out in der CASABLANCA Hotelsoftware ermöglicht die digitale Übermittlung der Rechnung und bietet eine direkte Bezahlungsmöglichkeit mittels verschiedener Zahlungsmodalitäten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Transaktionen für Gastfreund in der CASABLANCA hotelsoftware einsehen und Zahlungen retour buchen?",
+    "reference": "Um die Transaktionen für Gastfreund in der CASABLANCA hotelsoftware einzusehen, gehen Sie zu Tools -> Transaktionen. Dort können Sie sehen, ob Zahlungen erfolgreich durchgeführt wurden oder nicht. Wenn eine Zahlung erfolgreich war, erhalten Sie eine E-Mail von Datatrans mit der Buchungsreferenz, um den Zahlungseingang auf dem Zimmerkonto zu prüfen. Für Rückbuchungen können Sie in den Transaktions-Details auf den Button 'Gutschreiben' klicken, um den Betrag dem Gast auf dessen Kreditkarte wieder gutzuschreiben. Beachten Sie, dass die Umbuchung in CASABLANCA manuell erfolgen muss.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die CASABLANCA hotelsoftwre und welche funktionen hat es?",
+    "reference": "Die CASABLANCA hotelsoftware bietet eine Vielzahl von Funktionen, darunter Benutzerverwaltung, Zimmerverwaltung, Buchungen, Raten- und Preiseingabe, Online Check-In, Korrespondenz und verschiedene Module wie die Gäste App und Housekeeping-App.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Informationen sind zur Anbindung der Seekda Schnittstelle in der CASABLANCA hotelsoftware verfügbar?",
+    "reference": "Die CASABLANCA hotelsoftware bindet die Seekda Schnittstelle über HRS Destination Solutions an. Es kann nur eine Rate zu HRS übermittelt werden, und Stornierungen sowie Änderungen zu bestehenden Buchungen müssen manuell durchgeführt werden. CASABLANCA erhält im Falle einer Buchungsänderung von HRS nur den Storno, nicht jedoch die geänderte Buchung, weshalb Buchungen manuell angepasst werden müssen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die Stornogebühr in der CASABLANCA Hotelsoftware verwendet?",
+    "reference": "Die Stornogebühr kann verwendet werden, wenn Gäste eine Buchung vor der Anreise gemäß den Stornierungsbedingungen stornieren, und der Hotelier die Stornokosten verrechnet. Sie wird als normaler Hotelumsatz mit 0% MWST verbucht und erscheint auch auf der Umsatzliste.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind Nächtigungsrabatte in der CASABLANCA hotelsoftware?",
+    "reference": "Nächtigungsrabatte in der CASABLANCA hotelsoftware ermöglichen es, Rabatte für Übernachtungen anzulegen, wie zum Beispiel bei Reisebüro Pauschalen, wo 7 Nächte zum Preis von 6 Nächten angeboten werden. Diese Rabatte können bei Zu- und Abschlägen in der Rate/Pauschale zugewiesen werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Newsletter Übersicht im CASABLANCA Channelmanager finden und was wird dort angezeigt?",
+    "reference": "Die Newsletter Übersicht kann im CASABLANCA Channelmanager geöffnet werden. In der Newsletter Übersicht werden alle versandten Newsletter dargestellt, einschließlich des Datums, des Betreffs, ob er bereits versandt wurde und einem Button zu den Details. Mit einem Klick auf Details kann die Auswertung des jeweiligen Newsletters betrachtet werden, die die Vorschau des Newsletters, die Öffnungsrate, die Anzahl der versandten und nicht versandten Newsletter sowie die Klickrate grafisch darstellt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert das Alloggiati Meldewesen in der CASABLANCA hotelsoftware?",
+    "reference": "Das Alloggiati Meldewesen in der CASABLANCA hotelsoftware wird über das Modul \"Meldewesen / Gruppennamen\" eingerichtet. Nach den Meldungen eines Tages kann ein CSV-Datei-Export über die Meldezettel-Liste generiert werden, der manuell im \"Portale Alloggiati\" hochgeladen werden muss. Eine automatische Übermittlung der Daten bei Anmeldung der Gäste findet nicht statt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Anzahlungsrichtlinien in CASABLANCA zuweisen?",
+    "reference": "In CASABLANCA können Anzahlungsrichtlinien genutzt werden, um festzulegen, ob und in welcher Höhe eine Anzahlung automatisch einer Reservierung zugeordnet wird. Zuerst muss eine Anzahlungsrichtlinie angelegt werden, indem man sich mit seinen Zugangsdaten anmeldet, im Reiter Preis/Artikelverwaltung auf Anzahlungsrichtlinien klickt und das + Symbol zum Erstellen einer neuen Richtlinie auswählt. Nach der Eingabe der Einstellungen für die Richtlinie kann sie einer spezifischen Rate zugewiesen werden, indem man im Reiter Preis/Artikelverwaltung > Raten die gewünschte Rate auswählt und die erstellte Anzahlungsrichtlinie der Rate zuweist.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind Parkplatzgebühren in Bezug auf Fixleistungen in CASABLANCA?",
+    "reference": "Parkplatzgebühren sind eine Art von Fixleistung, die in CASABLANCA hotelsoftware automatisch in den Preis der Rate integriert werden können, ähnlich wie Frühstück oder andere Dienstleistungen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist der Aufschlag für Halbpension in der Preisberechnung?",
+    "reference": "Der Aufschlag für Halbpension beträgt +10€ auf die Rate der Übernachtung Frühstück, was zu einem Gesamtpreis von 70€ für 2 Personen führt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich eine Excel-Datei aus der Reservierungssuche exportieren?",
+    "reference": "Um Suchresultate als Excel-Datei zu exportieren, klicken Sie auf das Symbol, das die Exportfunktion für Excel-Dateien darstellt. Diese Option befindet sich in der oberen Leiste der Reservierungssuche.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie ermöglicht CASABLANCA die Verwaltung der Zimmerverfügbarkeiten?",
+    "reference": "Der Menüpunkt \"Verfügbarkeiten\" in CASABLANCA ermöglicht die Verwaltung und Anzeige der Zimmerverfügbarkeiten. Änderungen in CASABLANCA Desktop, die die Verfügbarkeit beeinflussen, werden automatisch im XML-Format an CASABLANCA Online Systems übermittelt. Nutzer können den Zeitraum der abgebildeten Verfügbarkeiten einstellen und regelmäßig eine Überprüfung durchführen, um sicherzustellen, dass die Verfügbarkeiten in beiden Systemen identisch sind.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die leistungen, die im Kontomodul von CASABLANCA angezeigt werden?",
+    "reference": "Im Kontomodul von CASABLANCA werden alle aufgebuchten Leistungen angezeigt, die noch nicht abgerechnet wurden. Dazu gehören Informationen wie offene Beträge, Anzahlungen und Mehrwertsteuerdetails. Außerdem können Inklusiv/Package Leistungen und Arrangement-Anteile auf der Rechnung angezeigt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Änderungen werden bei der MWST in der Schweiz ab dem 1. Januar 2024 vorgenommen?",
+    "reference": "Ab dem 1. Januar 2024 wird der Standardsatz der schweizerischen Mehrwertsteuer auf 8,1 Prozent erhöht. Auch der reduzierte Satz steigt auf 2,6 Prozent und der Sondersatz für Beherbergung auf 3,8 Prozent. Maßgeblich für den anzuwendenden Steuersatz ist der Zeitpunkt der Leistungserbringung. Bis zum 31. Dezember 2023 erbrachte Leistungen unterliegen den bisherigen Steuersätzen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert der Check-In bei einer einzellreservierung?",
+    "reference": "Bei Reservierungen am heutigen Tag kann mit Rechtsklick auf die Reservierung eingecheckt werden. Öffnen Sie den Zimmerplan und wählen Sie die entsprechende Reservierung mit einem Rechtsklick aus. Klicken Sie auf Check-In. Da es sich um eine Einzelreservierung handelt, wird Ihnen kein Gruppenkonto zur Auswahl angeboten. Einzelreservierungen sind einfach zu handhaben, da keine zusätzlichen Gruppeneinstellungen erforderlich sind.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die FIAS-Schnittstellen in der CASABLANCA hotelsoftware?",
+    "reference": "Die FIAS-Schnittstellen in der CASABLANCA hotelsoftware umfassen das WiFi Interface, das KeyCard Interface und das Telephone Interface.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Informationen sind für Einzelzimmer im CASABLANCA Zimmerplan verfügbar?",
+    "reference": "Im CASABLANCA Zimmerplan werden für Einzelzimmer (EZ) verschiedene Informationen angezeigt, darunter die Zimmernummer, die Identifikationsnummer des Zimmers, sowie die Belegung, die angibt, wie viele Betten und Zustellbetten vorhanden sind. Zudem können Sie durch einen Rechtsklick auf die Zimmernummer die Zimmerbeschreibung und, falls vorhanden, ein Bild einsehen. Die Anpassung der Zimmerinformationen, wie Zimmertyp und Zusatzdetails, ist ebenfalls möglich.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Artikel und Leistungen im Kontomodul von CASABLANCA bearbeiten?",
+    "reference": "Im Kontomodul von CASABLANCA können Artikel und Leistungen flexibel angepasst werden. Um Änderungen vorzunehmen, öffnen Sie das gewünschte Konto, beispielsweise das Zimmerkonto, und doppelklicken Sie auf das Feld der gewünschten Leistung. Bestätigen Sie die Eingabe mit der Enter-Taste. Sie können Parameter wie Text, Datum, Menge, Preis und Rabatt bearbeiten. Es ist wichtig zu beachten, dass Leistungen storniert werden können, solange sie keine Rechnungsnummer besitzen. Markieren Sie die Zeile und klicken Sie auf den Stornieren-Button. Änderungen müssen mit dem Disketten-Symbol gespeichert werden, um wirksam zu werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Hauptfunktionen der Finanzprüfung in der CASABLANCA hotelsoftware?",
+    "reference": "Die Finanzprüfung in der CASABLANCA hotelsoftware ermöglicht es, umfassendere Prüfungen oder Berichte durchzuführen, da zusätzlich der Finanzbericht des ausgewählten Zeitraums exportiert wird. Die Funktion bietet die Möglichkeit, relevante Daten schnell und unkompliziert zu exportieren, indem der Benutzer die Kasse und den Zeitraum auswählt und die Exportmethode festlegt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Systemvoraussetzungen für das DesktopCloudFAQOnboarding in der CASABLANCA hotelsoftware?",
+    "reference": "Die Systemvoraussetzungen für das DesktopCloudFAQOnboarding in der CASABLANCA hotelsoftware sind nicht direkt im bereitgestellten Kontext aufgeführt. Der Kontext enthält jedoch Informationen über verschiedene Funktionen und Tutorials der Software, die für die Nutzung relevant sein könnten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie können Webdesigner Newslettervorlagen im CASABLANCA Channelmanager erstellen und bearbeiten?",
+    "reference": "Webdesigner können Newslettervorlagen im CASABLANCA Channelmanager auf zwei verschiedene Arten anlegen: entweder mit dem Button Editor Vorlage oder mit einem HTML Code über die Html Vorlage, wobei HTML Kenntnisse erforderlich sind. Mit dem HTML Editor können erfahrene Benutzer ohne Einschränkungen HTML Newsletter erstellen und HTML-Code aus anderen E-Mail-Editoren hineinkopieren. Für die einfache Erstellung eines Newsletters wird die Verwendung des visuellen Newsletter-Editors empfohlen, wo per drag & drop ein Newsletter aus vorgegebenen Bausteinen zusammengestellt werden kann. Nach Auswahl einer Vorlage muss der Vorlagenname eingegeben werden, und durch Klicken auf Erstellen wird die Vorlage generiert, die dann im Newsletter-Editor angepasst werden kann.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich in Microsoft Outlook eine Buchung in CASABLANCA anzeigen?",
+    "reference": "In Microsoft Outlook gibt es die Möglichkeit, die Buchung mit Rechtsklick -> \"Buchung in CASABLANCA anzeigen\" zu öffnen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Hauptfunktionen von DesktopCloud in der CASABLANCA hotelsoftware?",
+    "reference": "DesktopCloud bietet eine Vielzahl von Funktionen, darunter Benutzerverwaltung, Zimmerverwaltung, Buchungen, Raten- und Preiseingabe sowie Online Check-In. Es enthält auch Module wie den Anfragemanager, der die Anfragebeantwortung automatisiert und professionelle Angebote erstellt, sowie den Korrespondenzmanager für die Verwaltung von Angeboten und Buchungen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Informationen sollte ich meinem Steuerberater für die Berechnung des Fixkostenzuschusses I bereitstellen?",
+    "reference": "Für die Berechnung des Fixkostenzuschusses I sollten Sie Ihrem Steuerberater die Daten des Umsatzes für das Vorjahr und das aktuelle Jahr für den betroffenen Zeitraum bereitstellen. Diese Daten sollten in Form eines detaillierten Buchungsjournals vorliegen, das alle Buchungszeilen des berechneten Zeitraums enthält.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was kann ich auf der Homepage von CASABLANCA finden?",
+    "reference": "Auf der CASABLANCA Homepage finden Sie ausführliche Informationen über die Funktionen des Korrespondenzmanagers und die Möglichkeit, das Modul direkt zu bestellen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Kurtaxe in der CASABLANCA Hotelsoftware ändern und welche Schritte sind dafür erforderlich?",
+    "reference": "Um die Kurtaxe in der CASABLANCA Hotelsoftware zu ändern, müssen Sie zunächst den Betrag für die Kurtaxe zum gewünschten Stichtag eintragen. Bestehende Buchungen können nach der Eingabe aktualisiert werden, um den korrekten Betrag zu hinterlegen. Wählen Sie das Gebäude 'Alle' aus, wenn mehrere Betriebe mit unterschiedlichen Beträgen vorhanden sind. Das 'Von' Datum muss sich mit dem 'Bis' Datum der alten Kurtaxe überschneiden. Stellen Sie den Betrag für die pflichtige Personengruppe ein und speichern Sie die Änderungen. Bestätigen Sie die Meldung mit 'OK', um bestehende Buchungen mit dem neuen Wert zu aktualisieren, und schließen Sie die Reservierungssynchronisation ab, damit die neuen Beträge auch in den Online-Systemen angezeigt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Monats- & Jahresbelege in CASABLANCA?",
+    "reference": "Monats- und Jahresbelege sind gesetzlich verpflichtende Belege, die in CASABLANCA automatisch erstellt und im Datenexportprotokoll (DEP) gespeichert werden. Diese Belege dienen der Einhaltung der Registrierkassensicherheitsverordnung (RKSV) und sind entsprechend aufzubewahren. Monatsbelege werden automatisch erstellt, aber nicht an Finanz-Online übermittelt, während Jahresbelege automatisch erstellt und an Finanz-Online übermittelt werden müssen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich einen neuen Benutzer in der Benutzerverwaltung von CASABLANCA anlegen?",
+    "reference": "Um einen neuen Benutzer in der Benutzerverwaltung von CASABLANCA anzulegen, navigieren Sie zu Allgemein > Benutzerverwaltung. Klicken Sie auf + Hinzufügen, um einen neuen Benutzer anzulegen. Geben Sie die erforderlichen Benutzerdaten wie Benutzername, Vorname, Nachname, E-Mail, Sprache und Bemerkung ein. Weisen Sie dem neuen Benutzer ein Passwort zu und klicken Sie auf Ok, um den Benutzereintrag zu bestätigen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist das Kassengesetz und welche Anforderungen stellt es an Registrierkassen in Deutschland?",
+    "reference": "Das Kassengesetz, auch bekannt als KassenG, ist ein Gesetz, das neue Standards zur Verhinderung von Manipulationen an Registrierkassen vorschreibt. Es basiert auf der Kassensicherungsverordnung (KassenSichV) und verlangt, dass seit dem 01.04.2021 Registrierkassen, deren Bauart es technisch zulässt, mit einer technischen Sicherheitseinrichtung (TSE) ausgestattet sein müssen. Diese Sicherheitseinrichtung speichert die Transaktionen der Kasse und liefert einen Code zurück, der auf jedem Verkaufsbeleg gedruckt werden muss. Die Daten müssen in einem unveränderbaren Protokoll gespeichert werden, das für das Finanzamt exportierbar sein muss.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert die digitale Unterschrift im Workflow Check-In von CASABLANCA hotelsoftware?",
+    "reference": "Wenn Sie das Modul \"Digitale Unterschrift\" und \"Online Check-In\" erworben haben, wird automatisch die Unterschrift-Abfrage nach dem Online Check-In aktiviert. Nach dem Speichern der Gästedaten des Pre-Checkin wird pro Hauptgast die Unterzeichnung des Gästeblattes gefordert. Diese Unterschrift wird in CASABLANCA zur Erstellung des Gästeverzeichnisblattes (Meldescheins) zur Verfügung gestellt. Nachdem der Gast alle Adressdaten eingegeben hat, erscheint ein Button Weiter. Es wird automatisch die Anzahl der Gästeblätter berechnet, und der Gast kann mit dem Button Unterschreiben digital unterschreiben. Die Unterschrift wird bei der jeweiligen Reservierung hinterlegt und beim Anmelden der Gäste automatisch verwendet. Wenn eine Unterschrift vorhanden ist, ist dies durch zwei grüne Linien um das Hauptgast-Symbol ersichtlich. Der Meldezettel wird automatisch an das Meldeamt übertragen und lokal als PDF-Datei abgelegt, ohne dass der Gast ihn unterschreiben oder ausdrucken muss.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was versteht man unter der Preisbasis in der CASABLANCA hotelsoftware?",
+    "reference": "Die Preisbasis in der CASABLANCA hotelsoftware bezieht sich auf die Methode, wie die Preise für zusätzliche Erwachsene und Kinder bei abgeleiteten Raten berechnet werden. Es gibt zwei Einstellungsmöglichkeiten: die Preisbasis Aktuelle Rate, bei der die Berechnung wie bei einer normalen Rate erfolgt, und die Preisbasis Übergeordnete Rate, bei der der Preis der übergeordneten Rate verwendet wird und Ab-/Aufschläge hinzugefügt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was kann ich sagen über American Express Anbindung in CASABLANCA hotelsoftware, und wie funktioniert das genau?",
+    "reference": "Die American Express Anbindung ist Teil des CASABLANCA Onlinezahlungssystems über Datatrans. Es ermöglicht die Verarbeitung von Zahlungen über American Express, was für Hotels wichtig ist, um eine Vielzahl von Zahlungsmethoden anzubieten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen unterstützt die CASABLANCA Hotelsoftware im Zahlungsprozess?",
+    "reference": "Die CASABLANCA Hotelsoftware unterstützt verschiedene Funktionen im Zahlungsprozess, darunter die Erstellung von Rechnungen, die Durchführung von Zahlungen über Kreditkartenterminals, die Stornierung von Zahlungen, die Vorautorisierung von Beträgen sowie das Buchen von Gutschriften über das Terminal.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die sprache auf Englisch in CASABLANCA ändern?",
+    "reference": "Um die Standard-Sprache für die Korrespondenz in CASABLANCA anzupassen, können Sie die Sprache auswählen, in der der Text-Block verfasst werden soll. Dies geschieht im entsprechenden Abschnitt, wo Sie den gewünschten Text in das Eingabefeld schreiben können.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Risiken sind mit der Nutzung von verbundenen Zimmern in der CASABLANCA Hotelsoftware verbunden, insbesondere im Hinblick auf Überbuchungen?",
+    "reference": "In der CASABLANCA Hotelsoftware besteht eine generelle Gefahr von Überbuchungen, wenn verbundene (virtuelle) sowie die dazugehörigen physischen Zimmer gemeinsam im Channelmanager an einen Kanal freigemeldet werden. Wenn im Channelmanager eingestellt wird, dass im jeweiligen Buchungskanal immer alle Zimmertypen im selben Buchungsprozess für den Gast buchbar sind, können bei verbundenen und abhängigen Zimmern Überbuchungen resultieren. Es kann beispielsweise nur ein Appartement ODER ein Doppelzimmer gebucht werden, da es sich faktisch um dasselbe Zimmer handelt. CASABLANCA Hotelsoftware weist ausdrücklich auf diese Gefahr hin und übernimmt keinerlei Haftung für Überbuchungen, die durch diese Einstellung im Channelmanager entstehen können.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich benutzerdefinierte Profile in der CASABLANCA hotelsoftware anlegen und welche Schritte sind dafür erforderlich?",
+    "reference": "In der CASABLANCA hotelsoftware können Sie benutzerdefinierte Profile anlegen, indem Sie die folgenden Schritte befolgen: 1. Klicken Sie auf das Blatt-Diskette-Symbol, um ein neues Profil anzulegen. 2. Es öffnet sich ein neues Fenster, in dem Sie den gewünschten Profilnamen eingeben. 3. Bestätigen Sie die Eingabe mit Ok. 4. Klicken Sie links auf das Sieb-Symbol, um den Zeitraum festzulegen. 5. Berechnen Sie das gewünschte Startdatum vom aktuellen Datum aus, indem Sie den Offset eingeben. 6. Speichern Sie die Auswahl dauerhaft im Profil mit Ok. 7. Klicken Sie auf das Profil speichern-Symbol, um den Zeitraum im Profil zu übernehmen. 8. Wiederholen Sie den Vorgang für das Enddatum. 9. Passen Sie ggf. die Einstellungen für Kassen und Komprimierung an. 10. Speichern Sie die Eingaben mit dem Profil speichern-Button. Das benutzerdefinierte Profil kann anschließend in der Liste ausgewählt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Vereinbarung über Auftragsverarbeitung nach Art. 28 DSGVO in Bezug auf CASABLANCA hotelsoftware und wie kann man den Vertrag digital unterzeichnen?",
+    "reference": "Die \"Vereinbarung über eine Auftragsverarbeitung nach Art. 28 DSGVO\" regelt die Beziehung zwischen einem Verantwortlichen und einem Auftragsverarbeiter, in diesem Fall CASABLANCA hotelsoftware GmbH. Diese Vereinbarung ist notwendig, wenn personenbezogene Daten durch einen Auftragsverarbeiter im Auftrag des Verantwortlichen verarbeitet werden. Um den Vertrag digital zu unterzeichnen, wechselt man in der Hotelsoftware auf den Reiter \"DSGVO\" und klickt auf den Button \"ADV-Vereinbarung (Art28)\". Ein Formular öffnet sich, in dem alle fehlenden Daten ergänzt werden müssen. Über den Button \"Jetzt unterzeichnen\" wird der Vertrag generiert und unterzeichnet. Der Vertrag kann auch im PDF-Format heruntergeladen werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die Silvretta Premium Card in der CASABLANCA Hotelsoftware verwaltet?",
+    "reference": "In der CASABLANCA Hotelsoftware wird die Silvretta Premium Card als Artikel angelegt, indem man im Reiter Preis/Artikelverwaltung einen neuen Datensatz erstellt. Der Artikel wird mit 0% MwSt. als Hotelumsatz angelegt und kann dann bei den Raten in allen gültigen Zeiträumen als Fixleistung hinterlegt werden. Es ist wichtig, die Einstellungen zu bestätigen und sicherzustellen, dass die Silvretta Premium Card im hinterlegten Preis korrekt berücksichtigt wird.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich mit CASABLANCA hotelsoftware ein Konto aufbuchen für einen Gast, bevor er ankommt, und was muss ich dabei beachten?",
+    "reference": "Um ein Konto mit CASABLANCA hotelsoftware aufzubuchen, navigieren Sie im Zimmerplan oder in der Reservierungsübersicht zur gewünschten Reservierung. Klicken Sie mit der rechten Maustaste auf die Reservierung, um das Kontextmenü zu öffnen, und wählen Sie die Option Aufbuchen. Sie können dann festlegen, ob die Leistungen auf ein Zimmerkonto oder ein Gruppenkonto gebucht werden sollen. Wenn Sie eine Rechnung vorab erstellen möchten, können Sie dies nach dem Aufbuchen der Reservierung im Bereich Rechnungsübersicht tun. Speichern Sie die vorgenommenen Änderungen, um die Buchung abzuschließen. Diese Funktion ist besonders nützlich, wenn Gäste vorab eine Anzahlung leisten oder Reisebüros eine Sammelrechnung benötigen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist Tramino und wie wird es in der CASABLANCA Hotelsoftware verwendet?",
+    "reference": "Tramino wird in der CASABLANCA Hotelsoftware im Zusammenhang mit dem Meldewesen erwähnt. Es ist Teil der Dokumentation, die sich auf die Erstellung der Gästekarte bezieht. Tramino ist in der Liste der Funktionen aufgeführt, die mit dem Meldewesen und der Gästekartei verbunden sind, jedoch werden keine spezifischen Details zu Tramino selbst im Kontext bereitgestellt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich eine Rate in CASABLANCA anlegen?",
+    "reference": "Um eine Rate in CASABLANCA anzulegen, melden Sie sich mit Ihren Zugangsdaten an. Klicken Sie im Reiter Preis/Artikelverwaltung auf Raten. Klicken Sie auf + Hinzufügen und wählen Sie Rate, um eine neue Rate anzulegen. Geben Sie die Details der Rate ein und klicken Sie anschließend auf Ok. Stellen Sie sicher, dass die Rate aktiv ist, damit sie auf der Reservierungsmaske angezeigt wird.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie werden debitoren in der CASABLANCA hotelsoftware verwaltet?",
+    "reference": "Die Abrechnung erfolgt über ein Debitorkonto. Um einen Debitor einzurichten, gibt man die komplette Rechnungs-Adresse des Reisebüros ein und setzt den Haken für die Ortstaxe aufs Zimmerkonto, bevor man alles speichert.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie aktiviere ich die Gästekartei für Stornogründe?",
+    "reference": "Die Einstellung zur Aktivierung befindet sich in der Gästekartei unter: Gästekartei → Optionen → \"Angabe eines Stornogrundes für eine Reservierung\". Optional kann zudem die Option \"Ein Grund MUSS angegeben werden\" aktiviert werden, um die Angabe eines Stornierungsgrundes verpflichtend zu machen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist der Anfragemanager in der CASABLANCA hotelsoftware?",
+    "reference": "Der Anfragemanager in der CASABLANCA hotelsoftware beinhaltet sämtliche Funktionen des Korrespondenzmanagers und ermöglicht die automatisierte Angebotslegung. Gäste können über ein Online-Anfrage-Formular direkt auf der Hotel-Website eine Anfrage stellen, und der Anfragemanager erstellt auf Basis der eingegebenen Daten ein individuelles Angebot, das automatisch per E-Mail an den Gast gesendet wird.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was macht die Gäste-App in der CASABLANCA hotelsoftware und wie hilft sie den Gästen?",
+    "reference": "Die Gäste-App ist ein Modul, das dazu dient, Buchungsprozesse zu optimieren und den Gästen ein komfortables Buchungserlebnis zu bieten. Sie lässt sich nahtlos in das System integrieren und hilft, den Komfort für die Gäste zu steigern und gleichzeitig effizienter zu arbeiten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert die Seminar-, Bankett- und Kongressverwaltung auf www.casablanca.at?",
+    "reference": "Die Seminar-, Bankett- und Kongressverwaltung von CASABLANCA ermöglicht eine präzise Planung, lückenlose Koordination und reibungslose Durchführung von Veranstaltungen. Das Modul deckt alle Phasen des Veranstaltungsmanagements ab, von der Planung und Ressourcenkoordination über die Durchführung bis hin zur Abrechnung. Alle verfügbaren Ressourcen, wie Seminar- und Veranstaltungsräume, technische Ausstattung und Catering, können zentral verwaltet werden. Zudem ermöglicht es die Erstellung detaillierter Zeitpläne und bietet eine umfassende Checklisten-Funktion, um sicherzustellen, dass alle Aspekte der Veranstaltung berücksichtigt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird entschieden, ob eine Liste im Hochformat oder Querformat ausgedruckt wird, und was sind die spezifischen Anforderungen für den Hochformat-Druck?",
+    "reference": "Die Entscheidung, ob eine Liste im Hochformat oder Querformat ausgedruckt wird, basiert auf der Summe der Spaltenbreiten. Wenn die Summe der Spaltenbreiten klein genug ist, um im Hochformat Platz zu finden, wird die Liste im Hochformat ausgegeben. Die maximale Breite für einen Ausdruck im Hochformat beträgt 176 mm. Wenn die Summe aller Spaltenbreiten größer als 176 mm ist, wird die Liste automatisch im Querformat ausgedruckt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie werden die Verpflegungseinstellungen in der CASABLANCA hotelsoftware definiert?",
+    "reference": "In den Verpflegungseinstellungen der CASABLANCA hotelsoftware wird definiert, an welchen Tagen des Aufenthalts der Gast die Verpflegung erhält. Es öffnet sich ein Fenster mit allen bereits vorhandenen Verpflegungen, wo beispielsweise hinterlegt werden kann, dass der Gast bei der Anreise kein Frühstück bekommt, aber während des Aufenthalts und am Abreisetag ein Frühstück erhält.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Kreditkartendetails einsehen, wenn ich Datatrans benutze?",
+    "reference": "Die Kreditkartendetails zu einer Buchung können über die CASABLANCA Online Systems eingesehen werden. Zuerst muss das anzuzeigende Gerät am Tag über ein E-Mail freigeschaltet werden. Jedes Mal, wenn Kreditkarten-Daten angezeigt werden sollen, sind die Login-Daten des angemeldeten Benutzers erforderlich. Nach der Anmeldung erhält der Benutzer eine E-Mail von Datatrans mit einem Aktivierungscode, um das Gerät zu verifizieren. Nach der Verifizierung kann die Kreditkartennummer und der CVV-Code angezeigt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die Altersspanne einer Personengruppe in der CASABLANCA hotelsoftware definiert und welche Beispiele gibt es dafür?",
+    "reference": "Die Altersspanne einer Personengruppe in der CASABLANCA hotelsoftware wird im Feld 'Alter' definiert, wo beispielsweise für Erwachsene eine Altersspanne von 18 bis 99 angegeben werden kann. Diese Definition ermöglicht es, Gästegruppen wie Erwachsene, Kinder oder Jugendliche spezifisch zu kategorisieren.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Bedeutung von RKSV-Kassa im Zusammenhang mit dem Tagesabschluss?",
+    "reference": "Die RKSV-Kassa ist zwingend notwendig, dass jedes Konto bereits fix einer RKSV-Kassa zugewiesen wird, sobald Leistungen darauf verbucht werden. Die Zuteilung der RKSV-Kassa zum Konto erfolgt automatisch, wenn diese eindeutig ist. Ist die Zuteilung nicht eindeutig, wird der Benutzer beim Öffnen des Kontos aufgefordert, das Konto einer RKSV-Kassa zuzuordnen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist CASABLANCA hotelsoftware?",
+    "reference": "CASABLANCA hotelsoftware ist eine Softwarelösung, die verschiedene Funktionen für die Hotelverwaltung bietet, einschließlich Infrastrukturabgabe, Artikelverwaltung und Raten-Fixleistungen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Brutto Auswertungen in Bezug auf die Epidemiegesetz Anträge?",
+    "reference": "Bei den berechneten Beträgen handelt es sich um \"Brutto\" Auswertungen, die für die Stornierungen durch Corona erstellt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was bedeutet das €-Zeichen bei einer Reservierung am Zimmerplan?",
+    "reference": "Das €-Zeichen bei einer Reservierung am Zimmerplan bedeutet, dass auf einem Konto ein Betrag noch offen ist (\"nicht auf 0\") – unabhängig davon, ob verrechnet wurde, oder wo die Reservierung eingecheckt wurde.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich eine bereits abgeleitete Rate erneut ableiten in der CASABLANCA hotelsoftware?",
+    "reference": "Um eine bereits abgeleitete Rate erneut abzuleiten, melden Sie sich mit Ihren Zugangsdaten in CASABLANCA an. Klicken Sie im Reiter Preis/Artikelverwaltung auf Raten. Bei der abgeleiteten Rate, die erneut abgeleitet werden soll, klicken Sie auf den Button Rate ableiten. Wählen Sie als Basis Abgeleitete Rate und klicken Sie auf Ok. Anschließend können Sie die Rateneinstellungen anpassen und die Bezeichnung sowie Kurzbezeichnung für die Rate eingeben. Um die Preise der Rate festzulegen, klicken Sie im Rateneintrag auf Preisliste. Die Preisberechnung erfolgt ähnlich wie bei der übergeordneten Rate, wobei ein Aufschlag zum Preis der übergeordneten Rate eingegeben werden kann.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was bedeutet die Fehlermeldung, dass der Meldeschein schon im Status \"Abgereist\" gespeichert wurde, wenn man CASABLANCA hotelsoftware verwendet?",
+    "reference": "Die Fehlermeldung, dass der Meldeschein schon im Status \"Abgereist\" gespeichert wurde, bedeutet, dass die Abmeldung der Gäste am Abreisetag nicht korrekt durchgeführt wurde. Diese Meldung tritt auf, wenn Gäste nicht am Abreisetag abgemeldet und gesendet werden. Im Feratelsystem kann eingestellt sein, dass Meldescheine X Tage nach der Abreise automatisch als abgemeldet gespeichert werden, sofern die Abmeldung noch nicht über die Schnittstelle erfolgt ist. Wenn die Meldung von der Meldebehörde (TVB) selbst auf \"Abgereist\" umgestellt wurde, kann die Abmeldung über CASABLANCA nachträglich nicht mehr gesendet werden, da die Meldescheine dann nicht mehr vom Hotelprogramm aktualisiert werden können und nur von der Meldebehörde bearbeitet werden dürfen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Informationen sind zur Pitztal Sommer Card in der CASABLANCA hotelsoftware dokumentiert?",
+    "reference": "Die Pitztal Sommer Card ist Teil der Gästekarten / Tourismusangebote in der CASABLANCA hotelsoftware. Die Preise und Gültigkeitszeiträume sind in der Software hinterlegt, wobei die Gültigkeit für den Sommer 2025 festgelegt ist. Erwachsene zahlen € 6,50, Kinder (Jahrgänge 2010 bis 2018) € 3,25, und Kinder bis Jahrgang 2019 haben freien Eintritt. Die Hinterlegung der Preise erfolgt in den Raten, wobei verschiedene Varianten zur Einbeziehung der Pitztal Sommer Card in die Preisgestaltung angeboten werden. Die Software ermöglicht es, die SSC als inkludierte oder exklusive Leistung zu hinterlegen, je nach den Vorgaben des Vermieters.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Hauptmerkmale der Casablanca hotelsoftware und wie ist die Dokumentation strukturiert?",
+    "reference": "Die Dokumentation der Casablanca hotelsoftware ist in zwei Hauptgruppen unterteilt: \"Cloud Systeme\" und \"Casablanca Desktop\", wobei jede Gruppe zwei Unterteilungen hat: \"Module\" und \"Schnittstellen\". Diese Struktur ermöglicht eine klare Übersicht über die bereits beschriebenen Module und Schnittstellen. Zudem bietet die Software verschiedene Funktionen wie die Umstellung der gesetzlichen Mehrwertsteuersätze, die Erstellung von Statistiklisten, Reservierungslisten und die Nutzung einer digitalen Gäste-App für einen kontaktlosen Hotelaufenthalt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich mich bei booking.casablanca.at anmelden?",
+    "reference": "Um sich bei booking.casablanca.at anzumelden, müssen Sie zunächst einen Account registrieren. Nach der Registrierung können Sie sich mit Ihrem Benutzernamen und Passwort einloggen. Bei der Anmeldung müssen Sie zusätzlich einen Sicherheitscode eingeben, der Ihnen per SMS oder Anruf an die hinterlegte Telefonnummer gesendet wird, oder Sie verwenden eine Authenticator-App, um den Code zu erhalten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Gutscheinverwaltung in CASABLANCA benutzen?",
+    "reference": "Um die Gutscheinverwaltung in CASABLANCA zu benutzen, melden Sie sich in der CASABLANCA Cloud an und klicken Sie auf das Apps-Symbol in der Benutzeroberfläche. Wählen Sie die App Gutscheinverwaltung aus der Liste der verfügbaren Apps aus. Auf der Seite Gutscheine sehen Sie die Gutscheinliste, wo Sie nach Gutscheinen suchen und diese verwalten können. Sie können Gutscheinvorlagen erstellen, Übersetzungen verwalten und Gutscheinsysteme konfigurieren. Für die Einrichtung dieses Moduls bietet CASABLANCA ein praktisches In-App-Training an.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich mich als Online-Benutzer in CASABLANCA registrieren, um den Preiskalender nutzen zu können?",
+    "reference": "Um sich als Online-Benutzer in CASABLANCA zu registrieren, müssen Sie zunächst sicherstellen, dass bei Ihrem Benutzer eine E-Mail-Adresse hinterlegt ist. Falls dies nicht der Fall ist, klicken Sie im Login-Fenster auf 'Neu registrieren'. Geben Sie Ihre Nutzerdaten ein und klicken Sie auf 'Registrieren'. Bestätigen Sie die Anmeldung mit 'Ok'. Anschließend wird an die angegebene E-Mail-Adresse eine E-Mail mit einem Aktivierungslink geschickt. Nachdem die E-Mail-Adresse bestätigt wurde, können Sie in CASABLANCA den Preiskalender öffnen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was kann ich über Südtirol im Zusammenhang mit dem Meldewesen und der CASABLANCA hotelsoftware wissen?",
+    "reference": "Im Kontext der CASABLANCA hotelsoftware wird Südtirol im Zusammenhang mit dem Meldewesen erwähnt, insbesondere in Bezug auf die Kurtaxenpflichtigkeit und die Meldung von Gästen. Die Software bietet Funktionen zur Verwaltung von Meldescheinen, die für die Registrierung von Gästen in Südtirol erforderlich sind.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Codes für die Übermittlung von kurtaxenbefreiten Personen über die Feratel Schnittstelle abfragen?",
+    "reference": "Bei einer Feratel Meldewesen-Schnittstelle können die möglichen \"Codes\" für die Übermittlung über die \"Feratel Stammdaten\" abgefragt werden. Anschließend sind diese unter \"Codes\" zu hinterlegen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was muss mit dem Swissbit USB-Stick bei einer Kündigung von CASABLANCA gemacht werden?",
+    "reference": "Bei einer Kündigung von CASABLANCA muss die ursprünglich von Fiskaltrust erhaltene TSE-Einheit, meist ein Swissbit USB-Stick, an Fiskaltrust zurückgesendet werden. Dies erfolgt nach der Außerbetriebnahme der KassenSichV-Kassa durch CASABLANCA.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie bekommt Gast Buchungsbestätigung?",
+    "reference": "Der Gast bekommt den Link zur Gäste App in der Buchungsbestätigung oder über ein Automailing mitgeteilt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Schritte sind erforderlich, um eine Rechnung für Frau Wegner Carola zu erstellen, nachdem sie bereits abgereist ist?",
+    "reference": "Da Frau Wegner Carola bereits abgereist ist, aber noch keine Rechnung erstellt wurde, ist es erforderlich, eine Rechnung zu erstellen. Dies kann durch den Zugriff auf das entsprechende Konto über die Umsatzliste erfolgen, wo die offenen Rechnungen angezeigt werden. Über einen Rechtsklick auf das jeweilige Konto kann die Rechnung erstellt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was macht die Kontingentverwaltung für Reiseveranstalter in der CASABLANCA hotelsoftware?",
+    "reference": "Die Kontingentverwaltung von CASABLANCA bietet eine benutzerfreundliche und effiziente Lösung zur Verwaltung von Zimmerkontingenten für Reiseveranstalter, Reisegruppen oder Firmenkunden. Sie unterstützt dabei, vereinbarte Kontingente mühelos zu planen und zu überwachen, wobei ein Kontingent eine festgelegte Anzahl von Zimmern bezeichnet, die für einen bestimmten Zeitraum reserviert und blockiert werden können.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Google Maps-Karte in der Gäste-App von CASABLANCA nutzen, um die Adresse des Betriebs zu finden?",
+    "reference": "In der Gäste-App findet der Gast eine Google Maps-Karte. Über den Button 'In Google Maps öffnen' öffnet sich die Google Maps-App mit den hinterlegten Betriebsdaten als Zieladresse.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird Microsoft Office in der CASABLANCA hotelsoftware verwendet?",
+    "reference": "In der CASABLANCA hotelsoftware wird Microsoft Office, insbesondere Outlook, in der Funktion \"Nur Text\" verwendet.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie erstellt man eine Anzahlungsrechnung in CASABLANCA?",
+    "reference": "Um eine Anzahlungsrechnung in CASABLANCA zu erstellen, muss zunächst die Anzahlungsforderung auf dem Konto des Gastes verbucht werden. Anschließend wird eine Rechnung mit einer Nummer erstellt und dem Gast die \"offene Rechnung\" zugesendet. Nach der Bezahlung des Gastes wird die Rechnung mit einer normalen \"Bankzahlung\" ausgeglichen, und der Artikel \"Bank-Anzahlung 10%\" wird wieder auf dem Konto mit dem Betrag der Anzahlung verbucht.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist JustIN Mobile und wie funktioniert es?",
+    "reference": "JustIN Mobile ist eine App, die es Gästen ermöglicht, mit einem Code, der per SMS mitgeteilt wird, ihr Zimmer zu betreten. Diese Funktion ist Teil des SALTO KeyCard Systems, das in Verbindung mit der Gäste-App von CASABLANCA verwendet wird.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die DesktopCloudFAQOnboardingSystemvoraussetzungen für CASABLANCA?",
+    "reference": "Die DesktopCloudFAQOnboardingSystemvoraussetzungen umfassen eine Übersicht über verschiedene Module und Funktionen der CASABLANCA hotelsoftware, wie Benutzerverwaltung, Zimmerplan, Gästekartei, Raten / Preiseingabe, Artikelverwaltung, Reservierungsvorgang und viele weitere Aspekte der Hotelverwaltung.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Preise für die Junior Suite (JS) in der CASABLANCA hotelsoftware kopieren?",
+    "reference": "Um die Preise für die Junior Suite (JS) in der CASABLANCA hotelsoftware zu kopieren, melden Sie sich zunächst mit Ihren Zugangsdaten an. Klicken Sie dann im Reiter Preis/Artikelverwaltung auf Raten. In der Zeile der gewünschten Rate klicken Sie auf Preisliste. Im Fenster Zimmertypen oben rechts klicken Sie auf Kopieren. Es öffnet sich eine Auswahlmaske, in der Sie definieren können, in welchen Zimmertypen die Preise eingefügt werden sollen. Wählen Sie den Zimmertyp, dessen Preise überschrieben werden sollen, oder erstellen Sie einen leeren Zimmertyp. Klicken Sie auf Ok, und nach Bestätigung sind alle Preise vom Zimmertyp \"Einzelzimmer (EZ)\" zum Zimmertyp \"Junior Suite (JS)\" kopiert worden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist das Dashboard im Zusammenhang mit dem Newsletter Management System von CASABLANCA?",
+    "reference": "Das Dashboard ist ein Analysetool zur genauen Bewertung der Kampagnen, das Informationen wie Öffnungsrate, Klickrate, Linkklicks und Bouncemanagement bereitstellt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Funktion von ASTAT in der CASABLANCA hotelsoftware?",
+    "reference": "ASTAT wird in der CASABLANCA hotelsoftware im Zusammenhang mit der Tagesmeldung (LTS) verwendet, die Teil des Meldewesens ist.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Informationen sind bezüglich der Seilbahn Komperdell GmbH in der Super.Sommer.Card enthalten?",
+    "reference": "Die Seilbahn Komperdell GmbH hat Zugriff auf die persönlichen Daten, die zur Ausstellung und Nutzung der Super. Sommer. Card verarbeitet werden. Diese Daten sind erforderlich für die amtliche Gästeanmeldung und werden an die Gemeinden weitergegeben. Zudem können die Daten zur Identifikation innerhalb des Card-Systems verwendet werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird eine Gruppenreservierung in der CASABLANCA hotelsoftware erstellt?",
+    "reference": "Die Erstellung einer Gruppenreservierung erfolgt ähnlich wie bei einer normalen Reservierung, jedoch mit einigen zusätzlichen Schritten. Zuerst ziehen Sie die gewünschten Zimmer am Zimmerplan auf, indem Sie die Shift-Taste gedrückt halten. Nach dem Loslassen der Maustaste öffnet sich die Reservierungsmaske, in der Sie einen Hauptgast aus der Gästekartei auswählen und mit Ok bestätigen. Anschließend klicken Sie auf Zimmer hinzufügen, um die Reservierung zu erstellen. In der Reservierungsmaske können Sie die Preise und die Anzahl der Personen pro Zimmer anpassen und bei Bedarf weitere Zimmer hinzufügen. Schließlich speichern Sie die Reservierung mit Ok oder durch Klicken auf das Disketten-Symbol.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind Artikelgruppen im Zusammenhang mit Banketten in der CASABLANCA hotelsoftware?",
+    "reference": "Artikelgruppen dienen der logischen Zusammenfassung ähnlicher Artikel, und im Kontext von CASABLANCA können Artikelgruppen wie \"Bankett\" erstellt werden, um Artikel thematisch zu bündeln.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was macht Seekda mit CASABLANCA hotelsoftware?",
+    "reference": "Seekda ist eine Schnittstelle, die es den Gästen ermöglicht, den CASABLANCA Online Check-In sowie die Live-Rechnungsübersicht direkt über Gastfreund aufzurufen. Diese Integration stellt sicher, dass alle Informationen zu dem Aufenthalt des Gastes bereitgestellt werden, ohne dass zwischen unterschiedlichen Apps gewechselt werden muss.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich einen Zimmertyp in CASABLANCA für einen kurzen Zeitraum sperren?",
+    "reference": "Um einen Zimmertyp einer Rate für einen kurzen Zeitraum in CASABLANCA zu sperren, müssen Sie sich mit Ihren Zugangsdaten im CASABLANCA Online Portal anmelden, im linken Hauptmenü den Punkt Preise auswählen, dann die Option Raten wählen und in der Zeile der gewünschten Rate auf Preisliste klicken. Dort können Sie einen benutzerdefinierten Zeitraum hinzufügen, indem Sie auf Hinzufügen klicken, Benutzerdefiniert auswählen und den zu sperrenden Zeitraum einstellen. Anschließend müssen Sie den zu sperrenden Zimmertyp hinzufügen, indem Sie in der Zeile der Rate auf Preisliste klicken, den benutzerdefinierten Zeitraum auswählen und auf Zimmertyp hinzufügen klicken. Nach dem Speichern ist dieser Zimmertyp in diesem Zeitraum für diese Rate nicht mehr verfügbar.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich leistungen storniren in CASABLANCA?",
+    "reference": "Eine markierte Zeile kann mit dem „Stornieren“-Button storniert werden. Es können nur Leistungen storniert werden, die noch KEINE Rechnungsnummer besitzen. Wollen diese dennoch storniert werden: Rechtsklick auf Leistung(en) > Rechnungsnummer stornieren > ändern > neue Rechnung erstellen. Es können auch mehrere Leistungen gleichzeitig storniert werden, indem die STRG-Taste gehalten und die gewünschten Zeilen gleichzeitig ausgewählt werden. Falls ein Stornogrund angegeben werden muss, tragen Sie im Pop-up Fenster den Stornogrund ein und klicken Sie auf Ok. Diese Markierung der Zeilen symbolisiert eine Stornierung. Endgültig wird die Aktion erst, nachdem die Änderungen erneut gespeichert wurden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die E-Mail-Adresse appartements@casablanca.at im Zusammenhang mit dem Automail in CASABLANCA verwendet?",
+    "reference": "Die E-Mail-Adresse appartements@casablanca.at wird im Zusammenhang mit dem Automail in CASABLANCA verwendet, um die Tagesgästeliste und Zimmerreinigungsliste zu versenden. Diese Listen werden zusätzlich auch an die E-Mail-Adresse sporthotel@casablanca.at gesendet.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Homepage eines Gastes in der Gästekartei hinzufügen?",
+    "reference": "Um die Homepage eines Gastes in der Gästekartei hinzuzufügen, öffnen Sie die Gästekartei, indem Sie auf den gelben Smiley klicken. Tippen Sie die ersten Buchstaben des Familiennamens ein, um die Maske für den gewünschten Gast zu öffnen. Öffnen Sie den Reiter Zusatzdaten 2. Klicken Sie in der jeweiligen Zeile auf das Bleistift-Icon, um ein Feld für die Homepage zu definieren. Geben Sie die gewünschte Bezeichnung ein und klicken Sie auf Ok. Anschließend geben Sie im Feld den gewünschten Wert ein, z. B. eine URL für die Homepage, und speichern Sie die Daten, indem Sie auf Ok klicken oder das Disketten-Symbol für die Zwischenspeicherung verwenden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Hauptunterschiede zwischen der Version 1 und Version 2 der ABM WebsLine Schnittstelle?",
+    "reference": "Die Hauptunterschiede zwischen der Version 1 und Version 2 der ABM WebsLine Schnittstelle liegen in den erweiterten Funktionen und der Flexibilität der Version 2. In Version 2 können Buchungsänderungen direkt im PMS importiert werden, während in Version 1 dies nicht möglich ist. Zudem ermöglicht Version 2 die direkte Buchung von Anzahlungen im PMS, was in Version 1 nicht vorgesehen ist. Die Importzeit wurde in Version 2 auf ein 1-Minuten-Intervall verkürzt, was eine schnellere Datenübertragung ermöglicht. Außerdem werden in Version 2 die Preise für Erwachsene und Kinder korrekt übernommen, während in Version 1 Kinder immer mit 0 € eingetragen werden. Des Weiteren bleibt in Version 2 die Integrität der Gästedaten bei Änderungen erhalten, was in Version 1 nicht der Fall ist.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie hilft der Preiskalender bei der Verwaltung von Zimmerpreisen?",
+    "reference": "Der Preiskalender ist ein zentraler Bestandteil von CASABLANCA Online Systems, der dabei hilft, Zimmerpreise und Verfügbarkeiten effizient zu verwalten, Reaktionszeiten zu minimieren und die Gästezufriedenheit durch aktuelle und transparente Preisgestaltung zu maximieren. Er zeigt eine kalenderbasierte Übersicht über die Zimmerpreise und Verfügbarkeiten, ermöglicht individuelle Anpassungen für bestimmte Tage oder Zeiträume und synchronisiert Änderungen sofort online, sodass Gäste immer die aktuellen Preise sehen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert das Überleiten von Leistungen in der CASABLANCA hotelsoftware?",
+    "reference": "Das Überleiten von Leistungen in der CASABLANCA hotelsoftware ermöglicht es, Leistungen schnell von einem Konto auf ein anderes zu übertragen, insbesondere nützlich bei Gruppenreservierungen. Um Leistungen zu überleiten, öffnet man das Konto mit den Leistungen, die übergeleitet werden sollen, wählt die entsprechenden Leistungen mit einem Rechtsklick aus, und wählt die Option Überleiten. Anschließend wählt man das Zielkonto aus, beispielsweise ein Zimmerkonto, und speichert die Einstellungen. Ein blauer Pfeil am Konto zeigt an, dass die Leistung übergeleitet wurde.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet das Modul \"Live-Rechnungsübersicht\" in der CASABLANCA hotelsoftware für die Anzeige von Rechnungen am Tablet?",
+    "reference": "Das Modul \"Live-Rechnungsübersicht\" ermöglicht es, an der Rezeption am Tablet den aktuellen Kontostand der Gäste darzustellen. Dazu muss das jeweilige Konto in CASABLANCA geöffnet und auf den Button Online Kontenübersicht geklickt werden. Die Rechnungsübersicht kann dann durch Betätigung des entsprechenden Buttons an das Tablet übermittelt werden. Es gibt zwei Varianten der Darstellung: die direkte Anzeige am Tablet, bei der die Rechnungsübersicht dem Gast zur Kontrolle übergeben wird, und die Anzeige eines QR-Codes, den der Gast scannen kann, um die Rechnungsübersicht auf seinem eigenen Handy zu sehen. Wichtig ist, dass nach der Kontrolle oder dem Scannen des QR-Codes der Schließen-Button am Tablet geklickt werden muss, bevor die nächste Rechnung übermittelt werden kann.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Optionen gibt es für die Stornobedingung im CASABLANCA Online Portal?",
+    "reference": "Im CASABLANCA Online Portal können Sie bei der Erstellung einer neuen Rate die passenden Stornobedingungen auswählen, wie z.B. nicht stornierbar oder kostenlose Stornierung bis 24 Stunden vorher. Um einen neuen Eintrag zu erstellen, klicken Sie auf + Stornobedingung hinzufügen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Systemvoraussetzungen für das DesktopCloudFAQOnboarding?",
+    "reference": "Die Systemvoraussetzungen für das DesktopCloudFAQOnboarding sind nicht direkt im bereitgestellten Kontext aufgeführt. Der Kontext beschreibt jedoch verschiedene Funktionen und Schnittstellen der CASABLANCA hotelsoftware, die für die Nutzung des Systems relevant sein könnten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Änderungen an der Korrespondenz in der CASABLANCA hotelsoftware vornehmen, insbesondere bezüglich Vorlagen und Text-Blöcken?",
+    "reference": "Um Änderungen an der Korrespondenz in der CASABLANCA hotelsoftware vorzunehmen, sollten Sie zunächst in der linken Navigationsleiste den Menüpunkt Korrespondenz > Vorlagen auswählen. Hier können Sie ein Backup erstellen, bevor Sie Änderungen vornehmen. Um eine neue Vorlage hinzuzufügen, empfiehlt es sich, eine bestehende Vorlage zu kopieren und dann abzuändern. Um den Betreff einer Vorlage zu ändern, klicken Sie in der Spalte Betreff auf Bearbeiten und hinterlegen den gewünschten Text. Für Text-Blöcke in Vorlagen klicken Sie in der Spalte Inhalt auf Bearbeiten, wählen die verwendete Sprache und speichern die Änderungen. Achten Sie darauf, dass der Wortlaut ident ist, damit die Verknüpfungen im Hintergrund stimmen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert der Dokumenten Scanner in der CASABLANCA hotelsoftware und welche Rolle spielt Anyline dabei?",
+    "reference": "Der Dokumenten Scanner in der CASABLANCA hotelsoftware ermöglicht es Gästen, ihr Reisedokument direkt in der Gäste App abzufotografieren. Die erkannten Gast-Informationen des Ausweises, wie Name, Adresse und Ausweisnummer, werden im Pre-Check-In Formular übernommen. Die Aktivierung des Scanners kann auch erfolgen, wenn nur der Online Check-In aktiv ist. Der Gast meldet sich über den Link beim Online Check-In an und kann die fehlenden Daten ergänzen. Mit einem Klick auf 'Reisedokument scannen' wird der Vorgang gestartet, wobei die Kamera des Endgerätes verwendet wird, um das Dokument abzufotografieren. Alle erkannten Daten werden angezeigt und können mit dem Button 'Scan bestätigen' in das Formular übernommen werden. Sollte etwas nicht korrekt ausgelesen werden, kann der Gast die Daten manuell anpassen oder ein vorhandenes Foto hochladen. Die Umsetzung des Dokumenten Scanners erfolgt in Zusammenarbeit mit der Firma Anyline, die eine Liste aller für den Scan möglichen Dokumente bereitstellt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert der Button Gutschein in der CASABLANCA hotelsoftware?",
+    "reference": "Der Button Gutschein in der CASABLANCA hotelsoftware ermöglicht es, Gutscheine aus Fremdsystemen über das Konto einzulösen. Durch einen Klick auf den Button kann die Gutscheinnummer eingegeben werden, um den Gutschein im Fremdsystem abzufragen. Mit einem Klick auf das Lupen-Symbol wird der Gutschein gesucht und die Werte im Fenster dargestellt. Wenn der Gutschein gefunden wird, kann er mit einem Klick auf 'Einlösen' auf dem Konto verbucht werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie sieht die Gmail-App die E-Mail von CASABLANCA aus?",
+    "reference": "Die Ansicht über die Gmail-App zeigt, dass der Gast die E-Mail, welche an die @booking.com Mail Adresse gesendet wird, auch an seine private E-Mail Adresse weitergeleitet bekommt. Der Link kann auch angeklickt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Raten in der CASABLANCA hotelsoftware?",
+    "reference": "Die Raten in der CASABLANCA hotelsoftware beziehen sich auf die Verwaltung von Preisraten, die für unterschiedliche Zeiträume oder Zimmerkategorien festgelegt werden können. Dazu gehören auch Pauschalen, Zuschläge, Abschläge, Nächtigungs-Rabatte, Anzahlungsregelungen und Stornobedingungen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich doppelte Gäste in der CASABLANCA hotelsoftware zusammenführen?",
+    "reference": "Doppelte Gäste können gefiltert und zusammengeführt werden, indem Sie im Hauptmenü zum Punkt Listen navigieren und die Gästeliste auswählen. Klicken Sie auf den Smiley, um doppelte Gäste zu suchen, und legen Sie die Kriterien fest, ab wann ein Gast als doppelt gilt. Bestätigen Sie mit Ok. Wählen Sie dann mit der rechten Maustaste den Hauptgast aus und wählen Sie die Option Gast zusammenführen. Es werden alle relevanten Gäste angezeigt, und Sie können die Gäste auswählen, die mit dem Hauptgast vereint werden sollen, und auf Aktualisieren klicken, um die Gäste zu vereinen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie behandelt CASABLANCA hotelsoftware die Anforderungen der DSGVO in Bezug auf die Auftragsverarbeitung?",
+    "reference": "CASABLANCA hotelsoftware bietet einen Vertrag über die Auftragsverarbeitung gemäß Art. 28 DSGVO an, um die Anforderungen der Datenschutz-Grundverordnung zu erfüllen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was beschreibt das Handbuch zur Datensicherung in der CASABLANCA Hotelsoftware?",
+    "reference": "Das Handbuch zur Datensicherung in der CASABLANCA Hotelsoftware beschreibt die Anforderungen der Registrierkassensicherheitsverordnung (RKSV) 2017, die vorschreibt, dass das vollständige Datenerfassungsprotokoll (DEP) mindestens vierteljährlich auf einem elektronischen, externen Medium unveränderbar gesichert werden muss. Es erklärt auch, wie das Datenexport-Protokoll (DEP) generiert, angezeigt und exportiert werden kann, sowie die Schritte zur manuellen Sicherung und die Nutzung der automatischen Erinnerungsfunktion von CASABLANCA.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie erfolgt die Verwaltung von Kreditkarten in der CASABLANCA Hotelsoftware?",
+    "reference": "Die Verwaltung der Kreditkarten bzw. der Kreditkarten-Konten erfolgt über \"Allgemein -> Kreditkarten\". Kreditkarten-Konten können nur über Artikel angelegt werden. In der Maske zur Verwaltung der Kreditkarten kann das jeweilige Konto aufgerufen oder sichtbar/unsichtbar gestellt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die Leerbettengebühr im Hotelumsatz verbucht?",
+    "reference": "Die Leerbettengebühr wird als normaler Hotelumsatz mit 0% MWST verbucht und erscheint somit auf der Umsatzliste. Sie kann verwendet werden, wenn Gäste bereits angereist sind, jedoch vorzeitig wieder abreisen, um die restlichen Nächte korrekt zu verrechnen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die Stornogebühr in der CASABLANCA hotelsoftware verwaltet und verbucht?",
+    "reference": "Die Stornogebühr kann verwendet werden, wenn Gäste eine Buchung vor der Anreise stornieren. Der Hotelier verrechnet die Stornokosten, die als normaler Hotelumsatz mit 0% MWST verbucht werden. Um einen Artikel \"Stornogebühr\" anzulegen, klickt man unter \"Preis / Artikelverwaltung -> Artikel\" und gibt die Bezeichnung ein, wählt die Kategorie \"Hotelumsatz\" und den Steuersatz \"0% MWST\". Wenn eine Anzahlung einbehalten wird, kann das Konto mit dem Artikel \"Stornogebühr\" auf 0 gestellt werden. Eine Rechnung kann auch ohne bestehende Anzahlung erstellt werden. Nach der Buchung kann der Status auf \"unsichtbar\" geändert werden, sodass das Zimmer wieder frei ist, während die Rechnung korrekt verbucht bleibt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich E-Mails über die CASABLANCA hotelsoftware versenden?",
+    "reference": "Um einem Gast eine E-Mail zu senden, öffnen Sie die Reservierung des Gastes, klicken Sie in der Reservierungsmaske auf den Button Schriftverkehr, überprüfen Sie den Inhalt, die Anhänge und die Empfänger-Adresse, und klicken Sie auf E-Mail senden, um die E-Mail abzuschicken.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Anforderungen und Abläufe im Zusammenhang mit dem Epidemiegesetz in der CASABLANCA hotelsoftware?",
+    "reference": "Im Kontext der CASABLANCA hotelsoftware wird das Epidemiegesetz in Bezug auf Anträge und Steuer-Anpassungen erwähnt. Es gibt spezifische Abläufe, die sich auf die Übernahme von Anzahlungen beziehen, insbesondere wenn ein Gast nicht anreisen kann und seine Anzahlung für einen späteren Aufenthalt verwenden möchte. Die Software ermöglicht es, \"geparkte Anzahlungen\" auf eine neue Reservierung zu übernehmen, wobei eine Meldung zur Übernahme jener Anzahlung beim Speichern der neuen Reservierung erscheint. Es ist wichtig, dass die Buchungen auf denselben Gast eingetragen sind und die Anzahlung als \"offene Anzahlung\" gilt. Zudem gibt es Regelungen für Buchungen mit sichtbarem und unsichtbarem Status, die die Übernahme der Anzahlungen beeinflussen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die DesktopCloudFAQOnboardingSystemvoraussetzungen für den Preiskalender?",
+    "reference": "Um den Preiskalender verwenden zu können, muss bei Ihrem Benutzer eine E-Mail-Adresse hinterlegt sein, die Online einem Benutzer zugewiesen ist. Falls dies nicht der Fall ist, erscheint in CASABLANCA Desktop ein Fenster, in dem Sie sich sofort registrieren können.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Rolle spielt Wintop im Meldevorgang der CASABLANCA hotelsoftware?",
+    "reference": "Wintop ist eine Schnittstelle, die es ermöglicht, Gäste direkt über die CASABLANCA hotelsoftware elektronisch anzumelden. Um dies zu tun, müssen in den Gruppennamen alle Gäste der Reservierung eingetragen werden, und es sind bestimmte Daten wie Vorname, Nachname, Adressdaten und Reisedokumentdaten des Hauptgastes erforderlich.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird das Zahlungs- und Stornomanagement in der CASABLANCA hotelsoftware konfiguriert?",
+    "reference": "Das Zahlungs- und Stornomanagement in der CASABLANCA hotelsoftware wird konfiguriert, indem man zu Preise > Zu-/Abschläge, Nächtigungs-Rabatte, Anzahlung oder Stornobedingungen geht und die entsprechenden Informationen eingibt. Man kann Zuschläge oder Abschläge hinzufügen, Rabatte basierend auf der Anzahl der Nächte gewähren, Anzahlungen festlegen und Stornobedingungen definieren, die die Bedingungen für Stornierungen und anfallende Gebühren festlegen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie speichert man Änderungen in Microsoft Word während der Bearbeitung von Textbausteinen?",
+    "reference": "In Microsoft Word klicken Sie auf Speichern und schließen Sie das Dokument. Im Bearbeitungsfenster klicken Sie auf den Button Speichern. In CASABLANCA klicken Sie auf Ok, um die Änderungen zu übernehmen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was bedeutet \"R.-Rezeption\" in der CASABLANCA hotelsoftware?",
+    "reference": "\"R.-Rezeption\" steht für Reservierungsbemerkungen, die in der Reservierungsmaske hinterlegt werden und pro Reservierung separat gespeichert werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist CASABLANCA?",
+    "reference": "CASABLANCA ist eine hotelsoftware, die verschiedene Module zur Verwaltung von Konten, Reservierungen, Check-In, Rechnungslegung und weiteren Aspekten des Hotelbetriebs bietet. Es ermöglicht eine schnelle und übersichtliche Berechnung von Konten zu Paymaster, Kreditkarten und Debitoren.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Hauptmerkmale der CASABLANCA hotelsoftware?",
+    "reference": "Die CASABLANCA hotelsoftware bietet eine umfassende Übersicht über die technischen Spezifikationen, Konfigurationsmöglichkeiten und Integrationsoptionen des Systems. Sie dient als Leitfaden für die Implementierung, den Betrieb und die kontinuierliche Weiterentwicklung der Software.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Buchungen in CASABLANCA hotelsoftware verwalten?",
+    "reference": "Das CASABLANCA Online-System ermöglicht Ihnen die einfache Verwaltung von Buchungen. Sie können Buchungen einsehen, bearbeiten und weitere Aktionen durchführen. Um eine Buchung im Detail anzusehen, klicken Sie auf Details. Hier sehen Sie alle relevanten Informationen zur Buchung und haben die Möglichkeit, zusätzliche Aktionen durchzuführen, wie den Zimmerplan anzeigen, Drucken, die Gäste-App anzeigen, Korrespondenz öffnen oder die Buchung an CASABLANCA Desktop übermitteln.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die KassenSichV und wo gilt sie?",
+    "reference": "Die KassenSichV, kurz für Kassensicherungsverordnung, tritt in Deutschland in Kraft und regelt die Fiskalisierung von erstellten Rechnungen bzw. von verbuchten Leistungen. Sie ist relevant für Betriebe, die in Deutschland tätig sind.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Daten aus dem Ereignis-Protokoll in Microsoft Excel exportieren?",
+    "reference": "Sie können die Liste im Ereignis-Protokoll in Microsoft Excel exportieren. Es stehen zwei Export-Formate zur Auswahl: xls und csv.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Zahlungsbedingungen in der CASABLANCA Hotelsoftware?",
+    "reference": "Die Zahlungsbedingungen können in den Rechnungseinstellungen flexibel angepasst werden. Dazu gehören Optionen wie das Hinzufügen von Zahlungsbedingungen und individuellen Texten, um jede Abrechnung präzise und vollständig zu gestalten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet die CASABLANCA hotelsoftware zur Verwaltung von Zimmerbelegungen?",
+    "reference": "Die CASABLANCA hotelsoftware bietet eine Vielzahl von Funktionen zur Verwaltung von Zimmerbelegungen, darunter die Belegungs- Umsatzstatistik pro Zimmer Rückschau, die einen Überblick über die Belegung und den Umsatz des Hotels pro Zimmer gibt. Diese Liste kann nur für die Vergangenheit verwendet werden und berücksichtigt nur Reservierungen, die eingecheckt oder aufgebucht wurden. Zudem gibt es die Belegungs- Umsatzstatistik pro Zimmer Vorschau, die für die Zukunft verwendet werden sollte und nur Reservierungen mit einem sichtbaren Status berechnet. Weitere Funktionen umfassen die detaillierte Belegungsstatistik, die die Belegung und Verpflegung pro Personengruppe darstellt, sowie die komprimierte Belegungsstatistik, die die Belegung und Verpflegung pro Tag berechnet.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Rolle spielt das Epidemiegesetz in Bezug auf die Steueranpassungen in Deutschland?",
+    "reference": "Im Kontext der Steueranpassungen in Deutschland wird das Epidemiegesetz erwähnt, jedoch sind keine spezifischen Details zu seiner Rolle oder Auswirkungen auf die Steueranpassungen im bereitgestellten Kontext enthalten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wann wird die Rechnung für Herrn Kinzel Didrich erstellt?",
+    "reference": "Die Rechnung für Herrn Kinzel Didrich wird erst im Februar erstellt, da er am 02.02.2021 abreist.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist der Zweck des Online Check-Ins in der CASABLANCA hotelsoftware?",
+    "reference": "Der Online Check-In in der CASABLANCA hotelsoftware optimiert Buchungsprozesse und bietet den Gästen ein komfortables Buchungserlebnis. Es lässt sich nahtlos in das System integrieren und hilft, den Komfort für die Gäste zu steigern und gleichzeitig effizienter zu arbeiten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist ein Zuschlag in CASABLANCA?",
+    "reference": "Ein Zuschlag in CASABLANCA ist ein zusätzlicher Betrag, der auf Buchungen mit einer kurzen Aufenthaltsdauer angewendet wird, um die höheren Kosten für kürzere Buchungen auszugleichen. Er kann prozentual oder als fixer Betrag berechnet werden und wird automatisch zur Reservierung hinzugefügt, sobald die definierten Bedingungen erfüllt sind.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Informationen werden in den Bounce-Mails von bounces@notifications.casablanca.at bereitgestellt und wie wird der Versand der Korrespondenz an Gäste organisiert?",
+    "reference": "Die Bounce-Mails von bounces@notifications.casablanca.at enthalten Fehlermeldungen, die automatisch an die hinterlegte Betriebs-E-Mail-Adresse gesendet werden, wenn es Probleme beim Versand der Korrespondenz gibt. Beispiele für solche Probleme sind, wenn das Postfach des Empfängers voll ist oder die E-Mail-Adresse nicht existiert. Der Versand der Casablanca Korrespondenz an den Gast erfolgt über den Anbieter 'mailgun', wodurch es nicht mehr notwendig ist, einen SPF-Eintrag für den Erhalt von Bounce-Mails beim Mail-Provider zu hinterlegen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird TeamViewer im Zusammenhang mit dem Support der CASABLANCA Hotelsoftware verwendet?",
+    "reference": "TeamViewer wird für den Remote-Zugriff auf den Server oder Client-Haupt-PC verwendet, auf dem die CASABLANCA Hotelsoftware installiert und eingerichtet ist. Dieser Remote-Zugriff ist erforderlich, um Updates, Wartungen oder Hilfe bei Problemen schneller und einfacher durchführen zu können. Es ist wichtig, dass der Benutzer, der den Zugriff ermöglicht, über administrative Berechtigungen verfügt, um einen reibungslosen und schnellen Support bieten zu können.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was kann man machen mit Betriebe in CASABLANCA hotelsoftware?",
+    "reference": "In den Einstellungen können Sie verschiedene Standorte oder Unternehmen organisieren, die mit Ihrem Account verknüpft sind. Dies umfasst grundlegende Informationen, Zusatzdaten, Bilder und allgemeine Geschäftsbedingungen (AGB). Sie können bestehende Betriebe einsehen und neue hinzufügen, indem Sie auf + Betrieb hinzufügen klicken und die Informationen für Ihren Betrieb eintragen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen unterstützt die Kreditkarten Terminal-Schnittstelle von CASABLANCA?",
+    "reference": "Die Kreditkarten Terminal-Schnittstelle von CASABLANCA unterstützt die Funktionen Zahlung, Storno und Gutschrift. Bei aktivierter Schnittstelle steht im Fenster 'Zahlungsarten' die Option 'Terminal-Schnittstelle' zur Verfügung, die es ermöglicht, den eingegebenen Betrag an das Zahlungsterminal zu übertragen. Zudem können Zahlungen, die manuell am Terminal durchgeführt werden, nicht automatisch in CASABLANCA übernommen werden und müssen manuell nachgebucht werden. Weitere Funktionen wie Tagesabschluss, Belegwiederholung und Trinkgeld sind abhängig vom Gerät und Hersteller.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Hauptfunktionen des E-Display in der CASABLANCA hotelsoftware und wie wird es verwendet?",
+    "reference": "Das E-Display ist ein vielseitiges Instrument in CASABLANCA, das verschiedene Funktionen unterstützt, um den Ablauf effizienter zu gestalten. Es wird für folgende Hauptfunktionen genutzt: digitale Unterschrift für das Meldewesen, Online-Check-In an der Rezeption über das Tablet und Live-Rechnungsübersicht an der Rezeption über das Tablet. Um das E-Display zu nutzen, wird auf dem Tablet an der Rezeption ein spezifischer Link geöffnet, der konstant bleibt und als Verknüpfung auf dem Startbildschirm des Tablets platziert werden kann.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Meldezettelliste in Excel exportieren?",
+    "reference": "Um die Meldezettelliste in Excel zu exportieren, können Sie den Button \"Excel Export\" verwenden, der in der Menüleiste der Meldezettelliste verfügbar ist.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie lange dauert die Saison, die am 31. August 2026 endet, und was sind die Schritte, um sie in CASABLANCA anzulegen?",
+    "reference": "Die Saison, die am 31. August 2026 endet, könnte beispielsweise von 1. Juni 2026 bis 31. August 2026 laufen und die Sommermonate abdecken. Um eine Saison in CASABLANCA anzulegen, melden Sie sich mit Ihren Zugangsdaten an, klicken Sie im Reiter Preis/Artikelverwaltung auf Saisonszeiten, und es öffnet sich ein Fenster, in dem Sie die Details der Saison eintragen können. Klicken Sie auf + Hinzufügen, um eine neue Saison anzulegen, geben Sie Namen und Kurzbezeichnung ein, und definieren Sie das Start- und Enddatum der Saison. Klicken Sie anschließend auf Ok, um Ihren Eintrag zu speichern.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die wichtigsten Informationen zur Pitztal Sommer Card?",
+    "reference": "Die Pitztal Sommer Card ist eine Gästekarte, die in der Region Pitztal gültig ist. Sie bietet verschiedene Vorteile und Ermäßigungen für Gäste, die in der Region übernachten. Die genauen Details zur Gültigkeit, Preisen und den enthaltenen Leistungen sind jedoch nicht im bereitgestellten Kontext enthalten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Homepagebuchungsmaske in Bezug auf die Infrastrukturabgabe?",
+    "reference": "Die CASABLANCA Homepagebuchungsmaske (IBE) muss darauf achten, dass exklusive Fixleistungen nicht in den Preis miteingerechnet werden. Der Gast sollte durch Hinzufügen eines Textes vor der IBE über die Preise der Infrastrukturabgabe informiert werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist HQ revenue und wie wird es in der CASABLANCA hotelsoftware verwendet?",
+    "reference": "HQ revenue ist ein Fremdsystem, das in der CASABLANCA hotelsoftware über eine Statistikliste eingebunden werden kann. Es ermöglicht die Berechnung und den Export von Werten in eine Excel-Datei, die dann im Fremdsystem eingespielt werden können.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist Gästekartei in CASABLANCA?",
+    "reference": "Die Gästekartei in CASABLANCA ist ein zentrales Element zur Verwaltung und Pflege von Gästedaten. Sie dient als digitale Datenbank, in der sämtliche Informationen zu Ihren Gästen gespeichert und organisiert werden. Dies ermöglicht Ihnen, Gästeprofile effizient abzurufen, zu bearbeiten und für zukünftige Reservierungen oder Marketingaktivitäten zu nutzen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Hompagebuchung?",
+    "reference": "Die Homepagebuchung von CASABLANCA macht Ihre Hotel-Website zum direkten Buchungsportal für Ihre Gäste. Dank der nahtlosen Integration der Buchungsmaschine (IBE) in Ihre Website greifen Verfügbarkeiten und Kontingente stets auf Echtzeitdaten Ihrer Hotelsoftware zurück.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird das Epidemiegesetz in der CASABLANCA hotelsoftware behandelt?",
+    "reference": "Das Epidemiegesetz wird in der CASABLANCA hotelsoftware im Zusammenhang mit Anträgen behandelt, die auf der FAQ-Seite zu finden sind. Es gibt spezifische Informationen und Hilfe zu diesem Thema, die den Nutzern zur Verfügung stehen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Datatrans für die PayPal-Anbindung in CASABLANCA aktivieren?",
+    "reference": "Um PayPal bei Ihrem Datatrans Account zu aktivieren, müssen Sie dem CASABLANCA Support Team unter technik@casablanca.at Bescheid geben. CASABLANCA kann dann das Hinzufügen des neuen Zahlungsmittels bei Datatrans beantragen. Sie müssen die Merchant-ID und die beim PayPal-Händlerkonto verwendete E-Mail Adresse angeben. Nach der Aktivierung in Datatrans müssen Sie das Artikel-Mapping in CASABLANCA Online Systems unter Einstellungen -> Stammdaten -> Artikel -> Mapping durchführen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet das Online Automailing auf www.casablanca.at?",
+    "reference": "Das Online Automailing ermöglicht es, vorab definierte E-Mail-Vorlagen automatisch zu versenden, und zwar zu dem Zeitpunkt, der für die jeweilige Situation am sinnvollsten ist. Zu den gängigsten Anwendungsfällen gehören Erinnerungen vor der Anreise, Begrüßungsmails nach der Anreise, und Dankesmails nach der Abreise. Es spart Zeit und Ressourcen und minimiert das Risiko von Fehlern im Kommunikationsprozess.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die MWST bei Anzahlungsrechnungen in der CASABLANCA Hotelsoftware korrekt ausgewiesen?",
+    "reference": "Wenn die Buchhaltung wünscht, dass Anzahlungen korrekt mit dem 10% MWST Steuersatz ausgewiesen werden, muss bei jedem Gast, welcher eine Anzahlung zu begleichen hat, eine Anzahlungsrechnung erstellt werden. Um eine Anzahlungsrechnung zu erstellen, werden zwei Artikel benötigt: Anzahlungsforderung und Bank-Anzahlung 10%. Die Anzahlungsforderung wird auf dem Konto des Gastes verbucht, und eine Rechnung mit Nummer wird erstellt und dem Gast zugesendet. Nach Zahlung des Gastes wird die Rechnung mit normaler Bankzahlung ausgeglichen, und der Artikel Bank-Anzahlung 10% wird auf dem Konto mit dem Betrag der Anzahlung verbucht. Dies stellt sicher, dass die Anzahlungen korrekt versteuert werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Geräte unterstützen die Nutzung des Online Zimmerplans, insbesondere Android?",
+    "reference": "Der Online Zimmerplan ist plattformunabhängig und funktioniert auf allen gängigen Endgeräten, einschließlich Android, iOS, Windows, MacOS, Smartphones, Tablets und Laptops.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Aufgaben umfasst die Inspektion in der Housekeeping-App von CASABLANCA?",
+    "reference": "Die Inspektion umfasst Aufgaben zur Überprüfung und Qualitätssicherung. Inspektionen sind notwendig, um sicherzustellen, dass das Zimmer für den Gast bereit ist und um die Sauberkeit sowie den Zustand des Zimmers nach der Abreise zu prüfen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Spalten in der Zimmerreinigungsliste bearbeiten?",
+    "reference": "Im Untermenü \"Spalten bearbeiten\" können die Zimmerbemerkungen der Reservierung und des Gastes als eigene Zeile ausgegeben werden. Auch der Aufenthaltstyp kann hier hilfreich sein. In diesem Fall wurden die Standardspalten \"Geburtstag\" und \"Rate\" deaktiviert.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Kurtaxe in der CASABLANCA hotelsoftware ändern?",
+    "reference": "Um die Kurtaxe in der CASABLANCA hotelsoftware zu ändern, navigieren Sie zu Preis/Artikelverwaltung > Kurtaxe. Verkürzen Sie die bestehende Kurtaxe auf den Stichtag und klicken Sie auf das Blatt+ Symbol, um eine neue Kurtaxe hinzuzufügen. Wählen Sie im Feld Gebäude 'Alle' aus. Das 'Von' Datum muss sich mit dem 'Bis' Datum der alten Kurtaxe überschneiden. Stellen Sie den Betrag für die Kurtaxe für die pflichtige Personengruppe ein und klicken Sie auf das Disketten-Symbol, um die Einträge zu speichern. Bestätigen Sie die folgenden Meldungen mit Ok, um sicherzustellen, dass bestehende Buchungen mit dem neuen Wert upgedatet werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet das Modul zur Direktzahlung in der CASABLANCA Gäste-App?",
+    "reference": "Das Modul zur Direktzahlung in der CASABLANCA Gäste-App ermöglicht es dem Gast, seine Leistungen direkt über die App zu bezahlen. Ein Button \"Jetzt Bezahlen\" wird in der Rechnungsübersicht angezeigt. Nach der Bezahlung erstellt CASABLANCA automatisch eine (signierte) Rechnung, die dem Gast zum Download bereitgestellt wird oder alternativ per E-Mail gesendet werden kann.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich eine Ehefrau als Kontaktperson in der Gästekartei hinzufügen?",
+    "reference": "Um eine Ehefrau als Kontaktperson in der Gästekartei hinzuzufügen, öffnen Sie die Gästekartei durch Klick auf den Smiley. Suchen Sie nach dem Hauptgast und öffnen Sie dessen Eintrag. Im Gastfenster klicken Sie auf den Reiter Kontaktpersonen. Klicken Sie im unteren Bereich auf das Symbol Kontaktperson hinzufügen (Smiley). Wählen Sie in der rechten Spalte die Verbindungsart 'Ehefrau' aus und geben Sie die Daten der Kontaktperson ein. Falls die Kontaktperson bereits in der Kartei vorhanden ist, kann sie über den Nachnamen gesucht und mit einem Doppelklick übernommen werden. Nach Abschluss des Eintrags klicken Sie auf Ok, um die Einstellungen zu speichern. Die Ehefrau ist nun dem Hauptgast zugewiesen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet das Kassenbuch in der CASABLANCA hotelsoftware?",
+    "reference": "Das Kassenbuch dient zur Nachverfolgung von Bargeldbewegungen in CASABLANCA, ermöglicht die lückenlose Dokumentation des Bargeldflusses und kann optional in die Finanzbuchhaltung exportiert werden. Es kann benutzerbezogen, abteilungsbezogen oder als Gesamtbetriebskassenbuch eingerichtet werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die steuer anpassungen in der schweiz für 2024?",
+    "reference": "Der Standardsatz der schweizerischen Mehrwertsteuer wird ab dem Jahr 2024 (also mit 01.01.2024) auf 8,1 Prozent angehoben. Auch der reduzierte sowie der Sondersatz steigen an.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist das Belegungsmodell in Bezug auf Kinderpreise?",
+    "reference": "Die Berechnung der Kinderpreise hängt von den getroffenen Einstellungen und dem Preismodell (Belegungsmodell oder Personenmodell) ab. Kinderpreise können entweder mit einem fixen Betrag oder mit einer prozentuellen Berechnung eingegeben werden. Bei fixen Beträgen wird einfach der angegebene Preis verwendet. Bei prozentueller Berechnung wird zuerst der Preis für eine Person berechnet und von diesem Preis ausgehend der Kinderpreis. Wichtig ist, dass Kinderpreise erst über der Standardbelegung wirken.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was kann ich über die Anzahlungen in CASABLANCA hotelsoftware sagen, wenn ich viele Fragen habe?",
+    "reference": "Die Verwaltung von Anzahlungen ist mit CASABLANCA einfach und übersichtlich. Anzahlungsrichtlinien können bereits in der Rate hinterlegt werden, sodass sie bei neuen Reservierungen automatisch aktiviert sind. Man kann Anzahlungsforderungen manuell für einzelne Reservierungen festlegen und das Datum sowie die Höhe der Anzahlung wird automatisch berechnet. Wenn eine Anzahlung nicht bis zum vorgegebenen Datum bezahlt wird, wird eine Liste der offenen Anzahlungen angezeigt. Bei der Rücküberweisung einer Anzahlung muss eine Rechnung erstellt werden, um die Buchhaltung nachvollziehbar zu halten. CASABLANCA ermöglicht auch die Übernahme von Anzahlungen für zukünftige Reservierungen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die wichtigsten Systemvoraussetzungen für die CASABLANCA hotelsoftware, und warum sind sie wichtig?",
+    "reference": "Die wichtigsten Systemvoraussetzungen für die CASABLANCA hotelsoftware umfassen sowohl Server- als auch Client-Spezifikationen. Für den Server wird ein aktueller Multi-Core-Prozessor mit mindestens 4 Kernen und einer Basisfrequenz von 2,2 GHz, mindestens 16 GB RAM, eine SSD mit mindestens 50 GB freiem Speicherplatz und eine stabile Internetverbindung von mindestens 20 MBit/s Up-/Download benötigt. Für den Client sind ein Multi-Core-Prozessor mit mindestens 2 Kernen, 8 GB RAM, eine SSD mit mindestens 20 GB freiem Speicherplatz und eine FullHD Auflösung von 1920x1080p erforderlich. Diese Anforderungen sind wichtig, um eine stabile und leistungsfähige Ausführung der Hotelsoftware zu gewährleisten, da die Software kontinuierlich auf Server- und Client-Ressourcen zugreift und eine stabile Netzwerkverbindung benötigt, um die Programmdateien effizient zu laden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie verwaltet man Zimmertypen in der CASABLANCA hotelsoftware?",
+    "reference": "Der Menüpunkt \"Zimmertypen\" in der CASABLANCA hotelsoftware dient zur Verwaltung der verschiedenen Kategorien von Zimmern. Hier können neue Zimmertypen erstellt, bestehende bearbeitet und nicht mehr benötigte entfernt werden. Um einen Zimmertyp anzulegen, meldet man sich im CASABLANCA Online Portal an, navigiert zu den Einstellungen, wählt die Option Zimmertypen und klickt auf + Hinzufügen. Man gibt dann den Zimmer-Code und die Zimmer-Details ein, speichert die Informationen und kann weitere Eigenschaften festlegen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist das E-Mail Modul in CASABLANCA?",
+    "reference": "Das E-Mail Modul in CASABLANCA ermöglicht eine effiziente Verwaltung der E-Mail-Kommunikation direkt in der Hotelsoftware. Es erlaubt den Import von E-Mails aus Microsoft Outlook, das Versenden von E-Mails sowie die Zuordnung von E-Mails zu Gästen. Ein großer Vorteil besteht darin, dass die gesamte Korrespondenz eines Gastes in der Detail-History hinterlegt wird, was eine schnelle Suche und Übersicht über die Kommunikation ermöglicht.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie unterstützt die CASABLANCA Objektverwaltung den Ski- und E-Bike-Verleih in einem Hotelbetrieb?",
+    "reference": "Die CASABLANCA Objektverwaltung ermöglicht es Hotelbetrieben, sämtliche Objekte und Ressourcen, einschließlich eines hauseigenen Verleihs wie Ski- und E-Bike-Verleih, professionell und einfach zu verwalten. Sie bietet eine optimale Lösung zur effizienten Planung, Organisation und Dokumentation der Angebote. Zudem ist die Verwaltung vollständig individualisierbar, sodass Hotels die Verwaltung an ihre spezifischen Bedürfnisse anpassen können, einschließlich der Definition von Zeiteinheiten und Berücksichtigung saisonaler Verfügbarkeiten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert der Newsletter Editor in der CASABLANCA hotelsoftware und welche Funktionen bietet er?",
+    "reference": "Der Newsletter Editor in der CASABLANCA hotelsoftware ist nach einem intuitiven Baukastenprinzip aufgebaut, das es ermöglicht, eine Newslettervorlage schnell und einfach zusammenzustellen. Im linken Bereich des Editors wird eine Vorschau der Vorlage angezeigt, während der Einstellungs-Bereich auf der rechten Seite Anpassungen und das Hinzufügen neuer Bausteine ermöglicht. Änderungen werden erst durch einen Klick auf den Speichern-Button gespeichert. Vor dem Versenden des Newsletters sollte ein Test versendet werden, um die Vorlage an die eigene E-Mail zu senden. Bausteine können mittels Drag & Drop hinzugefügt, bearbeitet oder gelöscht werden. Allgemeine Eigenschaften wie die Breite der E-Mail-Vorlage und die Schriftart können ebenfalls angepasst werden. Der Editor bietet eine Vielzahl von Bausteinen, darunter Überschrift, Absatz, Bilder, Buttons und Teaser, die alle individuell konfiguriert werden können.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert die Gästeselektion in der CASABLANCA hotelsoftware und welche Rolle spielen Motive dabei?",
+    "reference": "Motive helfen bei einer raschen, sauberen Gästeselektion, die u.a. für Post- und Newslettersendungen hilfreich ist. Es gibt 2 Arten von Motiv-Zuweisungen: Ein Gastmotiv, wenn einem Gast dauerhaft ein Motiv zugeordnet werden soll, und ein Reservierungsmotiv, wenn es sich um eine Reservierung handelt. Die Zuweisung von Motiven ist wichtig für Selektionen, da man beispielsweise allen Stammgästen eine Postkarte schicken kann, indem man alle Gäste herausfiltert, die das Motiv Stammgast hinterlegt haben.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind Umsatzgruppen in CASABLANCA und wie werden sie erstellt?",
+    "reference": "Umsatzgruppen in CASABLANCA ermöglichen eine übersichtliche Darstellung von Umsätzen in der Umsatzliste. Sie fassen Leistungen oder Artikel zusammen, sodass sie in der Umsatzliste als eine Summe dargestellt werden. Um eine neue Umsatzgruppe zu erstellen, navigiert man zu Preis > Artikelverwaltung > Umsatzgruppen, klickt auf das Blatt+ Symbol, gibt den Namen und die Sortiernummer ein und klickt auf OK, um die Umsatzgruppe zu speichern.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist Epidemiegesetz in CASABLANCA?",
+    "reference": "Im Kontext von CASABLANCA hotelsoftware wird das Epidemiegesetz erwähnt in Bezug auf Anträge, jedoch gibt es keine detaillierte Beschreibung oder Erklärung zu diesem Gesetz in der bereitgestellten Dokumentation.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Einschränkungen gelten für Buchungen mit Anreisedatum vor dem 07.01.2021?",
+    "reference": "Buchungen mit einem Anreisedatum in der Vergangenheit, wie dem 07.01.2021, können nicht mehr eingecheckt oder aufgebucht werden. Wenn ein Gast nur einen Tag später angereist ist, muss die Buchung auf den aktuellen Tag verkürzt und eine neue Buchung eingetragen werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Informationen bietet das Meldewesen für Italien in der CASABLANCA hotelsoftware?",
+    "reference": "Das Meldewesen für Italien in der CASABLANCA hotelsoftware umfasst die elektronische Meldung direkt aus dem PMS, die für eine effiziente, fehlerfreie und gesetzeskonforme Datenübermittlung entscheidend ist. Es ermöglicht die Bearbeitung von Gästedaten nach der Anmeldung, die automatische Übermittlung von Änderungen an Tramino, und die Bereitstellung des Meldezettels bzw. der Gästekarte im PDF-Format nach der Anmeldung.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wo kann ich mehr Informationen über die Spa- und Wellnessverwaltung von CASABLANCA finden, wenn ich die Homepage besuche?",
+    "reference": "Weitere Informationen über die Spa- und Wellnessverwaltung von CASABLANCA finden Sie auf der CASABLANCA Homepage. Dort können Sie sich ausführlich über die Funktionen informieren und das Modul direkt bestellen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich ein Kassenbuch einrichten?",
+    "reference": "Um ein Kassenbuch in CASABLANCA einzurichten, navigieren Sie im Hauptmenü zu Kassenbuch. Klicken Sie auf das Zahnräder-Symbol, um die Einstellungen zu öffnen. Im Kassenbuch-Fenster klicken Sie auf das Blatt+ Symbol, um einen neuen Datensatz anzulegen. Wählen Sie die Option Kassenbuch und bestätigen Sie mit Ok. Sie können auswählen, für welche Person oder Gruppe das Kassenbuch angelegt werden soll: Benutzer, Gesamt oder Abteilung. Konfigurieren Sie die Einstellungen rechts im Fenster und klicken Sie auf Ok, um die Einstellungen zu speichern.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich nach raten in CASABLANCA gruppieren?",
+    "reference": "Um nach der Standardspalte \"Rate\" in CASABLANCA zu gruppieren, muss die Spaltenüberschrift mit der Maus in den Gruppierungsbereich in der blauen Zeile gezogen werden. Die Gruppierung wird dann in die blaue Zeile eingefügt und ist aktiv.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Unterschiede in der Fiskalisierung bei CASABLANCA hotelsoftware für Österreich und Deutschland?",
+    "reference": "Die Fiskalisierung von erstellten Rechnungen bzw. von verbuchten Leistungen in CASABLANCA hotelsoftware kann sich je nach Betriebsstandort unterscheiden. In Österreich muss die Fiskalisierung nach den Richtlinien der Registrierkassensicherheitsverordnung (RKSV) erfolgen, während in Deutschland die KassenSicherungsVerordnung (KassenSichV) in Kraft tritt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist Check-In in CASABLANCA?",
+    "reference": "Check-In ist ein Teil des Reservierungsvorgangs in der CASABLANCA hotelsoftware, der es ermöglicht, Gäste bei ihrer Ankunft im Hotel zu registrieren.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Preise für Erwachsene in CASABLANCA ändern?",
+    "reference": "Um die Preise für Erwachsene in CASABLANCA zu ändern, klicken Sie in der Preismodell-Sektion auf das Bleistift-Icon (Bearbeiten). Der Standardpreis ist im Belegungsmodell der feste Preis für die erste Person im Zimmer bis zur Standardbelegung. Sie können entweder einen fixen Betrag mit dem Vorzeichen „=“ festlegen oder mit „-“ einen Abschlag definieren. Außerdem kann ein frei definierbarer Prozentsatz festgelegt werden, wobei die Berechnung bei Prozentsatz erfolgt, indem die Standardrate durch die Standardbelegung geteilt und der gewählte Prozentsatz abgezogen wird.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist Kurtaxenpflichtigkeit?",
+    "reference": "Die Kurtaxenpflichtigkeit bezieht sich auf die Berechnung der Kurtaxe nach dem Geburtsdatum, um eine fehlerhafte Anmeldung zu vermeiden, vorausgesetzt, die Stammdaten sind korrekt hinterlegt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich eine Rate in CASABLANCA ableiten?",
+    "reference": "Um eine Rate in CASABLANCA abzuleiten, melden Sie sich mit Ihren Zugangsdaten an. Klicken Sie im Reiter Preis/Artikelverwaltung auf Raten. Wählen Sie in der Zeile der gewünschten Rate den Button Rate ableiten. Wählen Sie als Basis Aktuelle Rate und klicken Sie auf Ok. Geben Sie Bezeichnung und Kurzbezeichnung für die Rate ein und passen Sie die Details für die abgeleitete Rate an. Klicken Sie auf Ok, um die abgeleitete Rate zu speichern.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist der Unterschied zwischen der Anreiseliste und der Abreiseliste in der CASABLANCA hotelsoftware?",
+    "reference": "Die Anreiseliste gibt nur die Anreisen des aktuellen Tages aus, gruppiert nach Gruppenname und mit einer Zusammenfassung. Im Gegensatz dazu listet die Abreiseliste alle Abreisen des aktuellen Tages auf, ebenfalls gruppiert nach Gruppennamen, und enthält eine Zusammenfassung am Ende.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Steuerrückstellung in Deutschland?",
+    "reference": "Die Steuerrückstellung in Deutschland bezieht sich auf die Umsatzsteuer, die seit dem 1. Juli 2020 für Restaurant- und Verpflegungsdienstleistungen nur 7 statt 19 Prozent beträgt. Diese Umsatzsteuersenkung ist jedoch bis Ende 2023 befristet, und ab dem 01. Januar 2024 wird der Umsatzsteuersatz wieder auf 19 Prozent erhöht.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Funktion von Buchungsverwaltung in der CASABLANCA hotelsoftware?",
+    "reference": "Die Buchungsverwaltung in der CASABLANCA hotelsoftware ermöglicht es, einer Reservierung ein zuvor angelegtes Kontingent zuzuweisen. Sie zeigt die Übersicht der verfügbaren Zimmer in der Reservierungsmaske an und ermöglicht die Zuweisung von Zimmern, selbst wenn die Anzahl der angefragten Zimmer die tentativen oder definitiven Verfügbarkeiten überschreitet. Zudem werden bei Überbuchungen unterschiedliche Farben und Warnmeldungen angezeigt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Bank Rücküberweisung?",
+    "reference": "Der Artikel \"Bank Rücküberweisung\" kann verwendet werden, wenn der Hotelier dem Gast eine Zahlung zurücküberweist, wie z.B. eine Anzahlung. Er wird als Bankzahlung verbucht und erscheint somit auch auf der Umsatzliste als solche.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was muss ich machen um die Leistungen und Pauschalen richtig in CASABLANCA zu mappen, wenn ich nicht weiß was die ID´s sind?",
+    "reference": "Um die Leistungen bzw. Pauschalen bei Buchungsübermittlung korrekt in CASABLANCA einzutragen, ist es notwendig, ein Mapping dazu einzurichten. Wenn die ID´s der jeweiligen Leistungen oder Pauschalen nicht bekannt sind, sollte man sich an den Support von ABM websLine wenden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet die CASABLANCA hotelsoftware für die Verwaltung von Hoteloperationen?",
+    "reference": "Die CASABLANCA hotelsoftware bietet eine Vielzahl von Funktionen zur Verwaltung von Hoteloperationen, darunter Benutzerverwaltung, Zimmerplan, Gästekartei, Raten- und Preiseingabe, Artikelverwaltung, Reservierungsvorgang, Check-In, Check-Out, Rechnungslegung, Kassenbuch, Tagesabschluss und Fiskalisierung. Zudem umfasst sie Module für Finanzberichte und Datensicherung.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet die CASABLANCA hotelsoftware in Verbindung mit Booking.com?",
+    "reference": "Die CASABLANCA hotelsoftware bietet in Verbindung mit Booking.com folgende Funktionen: Übermittlung der Verfügbarkeiten pro Kategorie, Übermittlung der Erwachsenen-Preise inkl. hinterlegten Restriktionen, sowie die Möglichkeit zwischen dem StandardPricing-Model und dem OccupancyBasedPricing-Model zu wählen. Zudem ist es wichtig, dass die gewünschten Kategorien und Raten bereits in Booking.com angelegt sind, um eine korrekte Zuordnung mit dem CASABLANCA Channel-Manager zu gewährleisten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was kann ich mit CASABLANCA machen für Gästekarten?",
+    "reference": "Mit CASABLANCA können Sie Tourismus-Gästekarten, wie die Ötztal Summer Card oder die Silvretta Premium Card, ganz einfach verwalten und in Ihre Abläufe integrieren. Diese Karten bieten Ihren Gästen attraktive Zusatzleistungen und machen Ihren Betrieb noch attraktiver.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Informationen sind im Kontingente-Fenster für das Reisebüro TUI in der CASABLANCA hotelsoftware verfügbar?",
+    "reference": "Im Kontingente-Fenster für das Reisebüro TUI können folgende Informationen eingesehen werden: Kurzbezeichnung (z. B. \"TUI\"), vollständiger Name des Reisebüros (z. B. \"Reisebüro TUI\"), Cut-off-Tage, Cut-off-Datum, Rate, und eine interne Beschreibung des Kontingents. Zudem können neue Zimmertypen hinzugefügt werden, und es wird angegeben, ob es sich um ein vorläufiges oder definitives Kontingent handelt, sowie der Zeitraum, in dem das Kontingent gültig ist, und die Anzahl der verfügbaren Zimmer.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Informationen bietet die CASABLANCA hotelsoftware bezüglich des Epidemiegesetzes?",
+    "reference": "Die CASABLANCA hotelsoftware bietet Informationen zu Anträgen im Zusammenhang mit dem Epidemiegesetz in ihrem FAQ-Bereich.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Informationen sind zur Ötztal Summer Card in der CASABLANCA hotelsoftware Dokumentation enthalten?",
+    "reference": "In der CASABLANCA hotelsoftware Dokumentation wird die Ötztal Summer Card zusammen mit anderen Karten wie der Pitztal Sommer Card und der Silvretta Premium Card erwähnt. Es gibt jedoch keine spezifischen Details oder Informationen zu den Vorteilen oder Funktionen der Ötztal Summer Card in dem bereitgestellten Kontext.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Voraussetzungen müssen erfüllt sein, um Datatrans für die EPS Überweisung Anbindung zu nutzen?",
+    "reference": "Damit Datatrans die Anbindung von EPS Überweisungen vornehmen kann, benötigen Sie selbst einen Händleraccount bei EPS. Zur Anbindung werden folgende Daten aus dem EPS-Händleraccount benötigt: BIC, IBAN, Merchant User ID und Secret Key.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die DSGVO in Bezug auf die Auftragsverarbeitung im Kontext der Steuerrückstellung Österreich 2022 berücksichtigt?",
+    "reference": "Im Kontext der Steuerrückstellung Österreich 2022 wird die DSGVO durch den Vertrag über die Auftragsverarbeitung gemäß Art. 28 berücksichtigt. Dieser Vertrag regelt die Verarbeitung personenbezogener Daten im Rahmen der Hotelsoftware und stellt sicher, dass die Anforderungen der DSGVO eingehalten werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Verfügbarkeiten für bestimmte Zimmer in der CASABLANCA hotelsoftware sperren?",
+    "reference": "Um die Verfügbarkeiten für bestimmte Zimmer in der CASABLANCA hotelsoftware zu sperren, gehen Sie wie folgt vor: Klicken Sie auf das Kalender-Symbol, dann auf das Blatt+ Symbol (Neuer Eintrag). Stellen Sie den Typ \"Freimeldung Sperre\" ein und definieren Sie den gewünschten Zeitraum für die Sperre. Wählen Sie im Bereich rechts die gewünschten Zimmer aus, die gesperrt werden sollen. Klicken Sie auf Ok und bestätigen Sie den Eintrag. Die Freimeldungs-Sperre wird dann am Zimmerplan für die ausgewählten Zimmer sichtbar sein.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert die Berechnung des Fixkostenzuschusses I im Rahmen des Corona Hilfs-Fonds und welche Schritte sind dabei zu beachten?",
+    "reference": "Die Berechnung des Fixkostenzuschusses I im Rahmen des Corona Hilfs-Fonds erfolgt durch die Abgrenzung der Leistungen nach Leistungszeitraum. In der CASABLANCA Hotelsoftware kann diese Berechnung mithilfe des Buchungsjournals durchgeführt werden. Zunächst muss der Umsatz für das Vorjahr und das aktuelle Jahr berechnet werden. Der genaue Zeitraum für die Berechnung sollte mit dem Steuerberater abgestimmt werden. Eine Anleitung zur Berechnung umfasst folgende Schritte: 1. Den Zeitraum für das Vorjahr eingeben, 2. den Gesamtumsatz-Restaurant ausschalten, 3. die Berechnung mit dem \"Aktualisieren-Button\" starten. Nach der Berechnung sollte die Ausgabe als PDF gespeichert werden. Zudem sollte eine detaillierte Auswertung bereitgestellt werden, indem das \"Detaillierte Buchungsjournal\" exportiert wird. Diese Schritte sind für den zweiten Zeitraum zu wiederholen, und die gesammelten Daten sind dem Steuerberater zur Einreichung des Antrags bereitzustellen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die DesktopCloudFAQOnboardingSystemvoraussetzungen für die CASABLANCA hotelsoftware?",
+    "reference": "Die DesktopCloudFAQOnboardingSystemvoraussetzungen für die CASABLANCA hotelsoftware sind nicht explizit im bereitgestellten Kontext aufgeführt. Der Kontext beschreibt jedoch verschiedene Funktionen und Module der Software, wie Benutzerverwaltung, Zimmerplan, Gästekartei, Raten-/Preiseingabe und viele andere, die für den Betrieb der Software relevant sind.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die Gästekartei im Reservierungsprozess verwendet?",
+    "reference": "Im Reservierungsfenster erscheint die Gästekartei, in der der Benutzer einen bereits vorhandenen Gast auswählen oder die erforderlichen Informationen für neue Gäste eingeben kann.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist KassenSichV?",
+    "reference": "KassenSichV ist ein Begriff, der im Zusammenhang mit der Fiskalisierung und den Anforderungen an Kassensysteme steht, wie sie in der Dokumentation von CASABLANCA hotelsoftware erwähnt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert die Zuweisung von Gästen zu Zimmern in der CASABLANCA hotelsoftware?",
+    "reference": "In der CASABLANCA hotelsoftware kann das Modul 'Meldewesen / Gruppennamen' pro Reservierung über einen Rechtsklick auf den Reservierungspfeil aufgerufen werden. Hier werden alle Gästedaten eingegeben und an den elektronischen Meldewesen-Server übermittelt. Die Gästedaten können direkt in die jeweiligen Felder eingetragen werden, und es gibt Optionen, um Nachname und Adresse von einem anderen Gast zu übernehmen. Zudem können weitere Gästedaten eingegeben und Kontaktpersonen zugewiesen werden. Die Software ermöglicht auch den Import und Export von Gästedaten über Excel-Dateien.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Listen in CASABLANCA exportieren?",
+    "reference": "In CASABLANCA können generierte Listen exportiert werden, indem Sie auf den Button Exportieren klicken, den gewünschten Speicherort auswählen und mit einem Klick auf Speichern bestätigen. Die Liste wird dann am gewählten Speicherort als Excel-Datei gesichert.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert die Abrechnung von Hochzeiten mit dem Paymaster in der CASABLANCA Hotelsoftware?",
+    "reference": "In der CASABLANCA Hotelsoftware können Hochzeiten über Paymaster-Konten abgerechnet werden. Diese Konten ermöglichen die Abrechnung von Sammelrechnungen, wobei mehrere Aufenthalte auf ein Paymaster-Konto eingecheckt und später gesammelt abgerechnet werden können. Bei Veranstaltungen wie Hochzeiten können spezifische Einstellungen vorgenommen werden, um die Abrechnung zu erleichtern, und es ist möglich, die Ortstaxe und andere Leistungen gesondert mit den Gästen abzurechnen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Firewall-Anforderungen für die Casablanca Hotelsoftware?",
+    "reference": "Die Firewall-Anforderungen für die Casablanca Hotelsoftware beinhalten, dass alle Clients und Server Zugriff auf das Internet über HTTPS Port 443 benötigen. Es müssen auch bestimmte Verzeichnisse und Daten, wie das komplette Casablanca Installationsverzeichnis und verschiedene ausführbare Dateien, zu den Ausnahmen der verwendeten Anti-Viren-Programme und Firewalls hinzugefügt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Raten im Managementbericht?",
+    "reference": "Im Managementbericht wird die Rate als Summe des Arrangement-Umsatzes angezeigt. Dieser Abschnitt zeigt den Umsatz für den ausgewählten Tag und Zeitraum, aufgeschlüsselt in verschiedene Kategorien, einschließlich der Rate.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Rolle von HotelNetSolutions in der Gutschein-Schnittstelle von CASABLANCA?",
+    "reference": "HotelNetSolutions ist eine der Schnittstellen, die in der CASABLANCA hotelsoftware Dokumentation erwähnt wird. Es ermöglicht die Einlösung von Gutscheinen aus dem Fremdsystem über das Konto in CASABLANCA.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich eine Excel-Datei aus der Reservierungsfixleistungen-Liste in CASABLANCA exportieren?",
+    "reference": "Die Liste kann als Excel-Datei exportiert und versendet werden. Weitere Informationen dazu finden Sie im Abschnitt 'Listen exportieren und versenden'.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist das Problem mit Microsoft Office Update vom 29. November 2023 in Bezug auf Casablanca Hotelsoftware?",
+    "reference": "Das Problem mit dem Microsoft Office Update vom 29. November 2023 (Version 2311, Build 17029.20068) besteht darin, dass die aus Casablanca generierten Textvorlagen teilweise im \"Nur-Text\" Format in Outlook geöffnet werden, wodurch die Formatierung (Absätze, Bilder etc.) nicht mehr korrekt dargestellt wird.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist das Standart Profil in der Küchenliste?",
+    "reference": "Das \"Standard\" Profil wird ausgewählt, wenn die Liste geöffnet wird. Standardmäßig ausgewählt sind die nächsten 14 Tage (Heute bis + 13 Tage). Es wird pro Tag gruppiert. Darunter werden die Daten pro Basis-Personengruppe berechnet. Die Anzahl der Verpflegungen wird in den Spalten dargestellt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist das Standard-Profil in der CASABLANCA hotelsoftware?",
+    "reference": "Das \"Standard\" Profil wird ausgewählt, wenn die Liste geöffnet wird. Hier werden alle Meldezettel des letzten Monats geladen. Ausgewählt sind alle Meldezettel-Status und alle Reservierungsstatus. Ausgenommen sind unsichtbare Status und Storno-Status.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was beinhaltet der Check-Out Prozess in der CASABLANCA hotelsoftware?",
+    "reference": "Der Check-Out Prozess in der CASABLANCA hotelsoftware ist Teil der Buchungsverwaltung und ermöglicht eine effiziente Abrechnung und Verwaltung der Gästeauscheckungen. Die Software bietet eine benutzerfreundliche Oberfläche, die es Mitarbeitern erlaubt, den Check-Out schnell und einfach durchzuführen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist eine Pauschale in der CASABLANCA hotelsoftware?",
+    "reference": "Eine Pauschale ist eine Kombination aus Unterkunft (z. B. eine bestimmte Zimmerkategorie) und zusätzlichen Leistungen, die als Gesamtpaket zu einem festen Preis angeboten wird. Die Pauschale hat einen Gesamtpreis, unabhängig davon, wie die einzelnen Leistungen intern kalkuliert werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird das Trinkgeld in der CASABLANCA Hotelsoftware in Verbindung mit Protel verwaltet und verbucht?",
+    "reference": "In der CASABLANCA Hotelsoftware kann das Trinkgeld über die Restaurantkasse auf zwei Arten abgewickelt werden. Entweder behält der Kellner das Trinkgeld direkt ein, wobei das Trinkgeld automatisch im Kassenbuch als Auslage ausgebucht wird, oder die Kellner erhalten das Trinkgeld wöchentlich oder monatlich von einem Mitarbeiter oder Chef ausbezahlt. In diesem Fall kann die Trinkgeldverwaltung im CASABLANCA verwendet werden. Bei der Schnittstelle \"Novacom/Amadeus/Protel\" gibt es eine Zusatzoption, bei der das Trinkgeldfeld verwendet werden kann. Wenn dieser Haken gesetzt ist, muss die Kassa das Trinkgeld beim Tagesabschluss im dafür vorgesehenen Feld in der XREDUCT.dat Buchungsdatei mitübermitteln. Eine Warengruppe mit der Bezeichnung \"Trinkgeld\" muss angelegt werden, und die zugeordneten Artikel werden dann für das Verbuchen verwendet, wobei die Artikel entsprechend als Hotelumsatz oder Barzahlung eingestellt werden müssen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie können Newsletter in der CASABLANCA Hotelsoftware mit Google Kampagnen Tracking URLs versehen werden?",
+    "reference": "Verlinkungen auf Newsletter-Vorlagen sollten mit Google Kampagnen Tracking URLs versehen werden. Details zum Newsletter werden in CASABLANCA bereits protokolliert und können in den CASABLANCA Online Systems eingesehen werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert die Gutscheinverwaltung in der CASABLANCA Hotelsoftware?",
+    "reference": "Mit dem Modul 'Gutscheinverwaltung' können Sie Gutscheine schnell und unkompliziert erstellen, verwalten und abrechnen. Relevante Informationen wie Ausstellungsdatum, Gutscheinwert, eingelöste Beträge und Restwerte werden zentral an einem Ort verwaltet. Sie können einen neuen Gutschein mit wenigen Klicks erstellen, den Wert, Gültigkeitszeitraum und weitere Details individuell festlegen. Der Gutschein kann direkt ausgedruckt oder digital versendet werden, und beim Einlösen wird der Gutscheinwert automatisch auf die Gästerechnung gebucht.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die Kurtaxenpflichtigkeit in Südtirol berechnet?",
+    "reference": "Die Kurtaxenpflichtigkeit in Südtirol kann über das Alter der Gäste berechnet werden. Dazu muss in den Stammdaten das Alter, ab welchem die Kurtaxe zu entrichten ist, sowie der Stichtag festgelegt werden. Wenn ein Stichtag hinterlegt ist, berechnet das System das Alter der Person an diesem Stichtag. Wenn das Kind an diesem Stichtag noch unter dem kurtaxenpflichtigen Alter liegt, wird keine Kurtaxe verrechnet.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die DesktopCloudFAQOnboardingSystemvoraussetzungen?",
+    "reference": "Die DesktopCloudFAQOnboardingSystemvoraussetzungen umfassen eine Übersicht über verschiedene Funktionen wie Dashboard, Benutzerverwaltung, Betriebe, Personengruppen, Zimmerverwaltung, Stammdaten, Buchungen, Raten / Preiseingabe, Online Check-In, Pre-Check-In, digitale Unterschrift, Dokumentenscanner und Kontaktformular.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die DSGVO in Bezug auf den Vertrag über die Auftragsverarbeitung gemäß Art. 28 berücksichtigt?",
+    "reference": "Der Vertrag über die Auftragsverarbeitung gemäß Art. 28 DSGVO ist in der Dokumentation der CASABLANCA hotelsoftware enthalten, was darauf hinweist, dass die Software die Anforderungen der DSGVO in Bezug auf die Verarbeitung personenbezogener Daten berücksichtigt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Raten und Preise für Buchungen auf Booking.com verwalten und anpassen?",
+    "reference": "Raten und Preise spielen eine zentrale Rolle in der Verwaltung von Zimmerangeboten und Buchungen. Raten sind spezifische Preisstrukturen oder Angebotsarten, die Gäste buchen können. Sie beinhalten nicht nur den reinen Zimmerpreis, sondern auch Bedingungen und Zusatzleistungen. Raten können Mindestaufenthalte, Stornierungsbedingungen oder Vorauszahlungsanforderungen enthalten. Abgeleitete Raten eignen sich ideal, um unterschiedliche Zielgruppen oder Buchungskanäle individuell anzusprechen. Änderungen an der Hauptrate wirken sich automatisch auf die abgeleiteten Raten aus. Raten und Preise werden in CASABLANCA zentral verwaltet und können über Channel-Management-Systeme direkt an Buchungsplattformen wie Booking.com oder Expedia weitergeleitet werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die wichtigsten Datenfelder im Bereich Umsatz?",
+    "reference": "Im Bereich \"Umsatz\" werden Felder zur Berechnung von Umsätzen dargestellt. Die wichtigsten Datenfelder sind: \"Ratenumsätze\", die alle Umsätze der Raten berechnen, \"Leistungen\", die alle Umsätze darstellen, die nicht unter Ratenumsätze fallen, und \"Gesamtumsätze\", die die Summe aller Umsätze (Leistungen + Ratenumsätze) zeigen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was zeigt das Verfügbarkeitsfenster in der Kontingentverwaltung?",
+    "reference": "Das Verfügbarkeitsfenster zeigt eine übersichtliche Darstellung aller aktuellen Verfügbarkeiten, Kontingente und bereits gebuchten Zimmer an. Es informiert über Gesamtkapazitäten pro Zimmertyp, die Anzahl der zugewiesenen Kontingente (definitiv und tentativ) und die Anzahl der bereits über ein Kontingent gebuchten Reservierungen. Zudem unterstützt es eine schnelle Analyse der Belegungssituation und Verfügbarkeiten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird die aktuelle Rate in der CASABLANCA Hotelsoftware festgelegt?",
+    "reference": "Bei der Preisbasis \"Aktuelle Rate\" werden eingegebene Preise bei Zusätzlich und Kinder übernommen und bei der Standardbelegung +0€ hinterlegt. Bei der Preisbasis kann beim Standardbelegungspreis ein Aufschlag angegeben werden. Die Preisberechnung von Zusätzlich und Kinder ist gleich wie bei der Originalrate, wobei der Preis für eine Person berechnet und diesem Preis der Aufschlag hinzugefügt wird.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Könnten Sie mir bitte die Anzahlungsrichtlinien im Zusammenhang mit der CASABLANCA hotelsoftware erläutern?",
+    "reference": "Die Anzahlungsrichtlinien sind ein Teil der CASABLANCA hotelsoftware, die es ermöglicht, spezifische Richtlinien für Anzahlungen zuzuweisen. Diese Funktion ist wichtig für die Verwaltung von Buchungen und Zahlungen im Hotelbetrieb.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich eine Personengruppe für jugendliche in CASABLANCA anlegen und verwalten?",
+    "reference": "Um eine Personengruppe für Jugendliche in CASABLANCA anzulegen, navigieren Sie zu Preis/Artikelverwaltung > Basis Personengruppen. Klicken Sie auf + Neuer Datensatz, um eine neue Personengruppe anzulegen. Geben Sie im Feld Kurzbez. eine eindeutige Kurzbezeichnung für die Personengruppe ein, z. B. \"JU\" für Jugendliche. Im Feld Langbezeichnung geben Sie den vollen Namen ein, z. B. \"Jugendliche\". Definieren Sie die Altersspanne der Personengruppe, z. B. von 14 bis 17 Jahren für Jugendliche. Achten Sie darauf, dass die Altersgruppen nicht überschneiden. Sie können auch spezifische Einstellungen und Rabatte für diese Gruppe festlegen und klicken Sie auf Speichern, um die neue Personengruppe anzulegen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was bietet die CASABLANCA hotelsoftware für Steuerberater?",
+    "reference": "Die CASABLANCA hotelsoftware ermöglicht Steuerberatern den direkten Export und Versand aller Listen rund um die Umsatzliste. Steuerberater erhalten in der Regel eine direkt generierte Liste aus der Software, die alle Erlöse und Zahlungswege auf Rechnung übersichtlich darstellt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird der Zimmerplan beim Check-Out aktualisiert?",
+    "reference": "Beim Check-Out wechselt die Farbe im Zimmerplan zu dunkelblau, und der Status der Reservierung wird auf Ausgecheckt geändert. Das Zimmer wird für neue Reservierungen freigegeben und ist wieder buchbar.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet das Pauschalen-Widget in der CASABLANCA hotelsoftware?",
+    "reference": "Das Pauschalen-Widget ermöglicht es, Pauschalangebote optisch ansprechend und übersichtlich darzustellen. Es ist ideal, um spezielle Angebote und Arrangements hervorzuheben, indem es verfügbare Pauschalangebote mit Bildern, Beschreibungen und Preisen präsentiert. Zudem bietet es einen direkten Zugang zur Buchung über einen integrierten Buchungsbutton, sodass Gäste attraktive Angebote auf einen Blick erkennen und direkt buchen können.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Gästekartei in der CASABLANCA hotelsoftware und wie hilft sie bei der Verwaltung von Reservierungen?",
+    "reference": "Die Gästekartei in der CASABLANCA hotelsoftware ist ein wichtiges Modul, das Ihnen hilft, Informationen über die Gäste zu verwalten. Sie ermöglicht es Ihnen, Reservierungen zu erstellen, zu bearbeiten und detaillierte Informationen zu den Buchungen, wie Gastnamen und Buchungsdaten, zu erhalten. Dies erleichtert die Verwaltung und Planung von Zimmerkapazitäten und sorgt dafür, dass alle relevanten Informationen schnell und effizient zugänglich sind.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist der umsatz pro monat in CASABLANCA?",
+    "reference": "Der Umsatz pro Monat wird in CASABLANCA berechnet, indem alle sichtbaren Buchungen berücksichtigt werden. Unsichtbare Status wie 'Angebot' und Zimmer ohne zugeteilter Zimmernummer werden nicht in dieser Statistik berücksichtigt. Leistungen, die als 'Hotelumsatz' oder 'Durchläufer' eingestellt sind, werden ebenfalls berechnet, jedoch nur die, die in der Reservierungsmaske als Zimmer- oder Fixleistungen bei der Personengruppe angezeigt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie verbessert die Housekeeping-App die Kommunikation zwischen Reinigungskräften und der Rezeption im CASABLANCA Hotelsoftware-System?",
+    "reference": "Die Housekeeping-App optimiert die Kommunikation zwischen Reinigungskräften, Rezeption und Hausmeister, indem sie es ermöglicht, dass die zu reinigenden Zimmer in Echtzeit über Smartphone oder Tablet eingesehen und als gereinigt gemeldet werden. Der aktuelle Reinigungsstatus wird in Echtzeit an die Rezeption übermittelt und direkt im Zimmerplan sowie in der Check-in-Liste angezeigt, was eine direkte Kommunikation zwischen Reinigungskräften und der Rezeption ermöglicht und unnötige Rückfragen vermeidet.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die Pitztal Sommer Card?",
+    "reference": "Die Pitztal Sommer Card ist eine Leistung, die in die Reservierung integriert werden kann, um zusätzliche Vorteile während des Aufenthalts zu bieten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Preise und Restriktionen in der CASABLANCA DesktopCloud ändern?",
+    "reference": "Um Preise und Restriktionen in der CASABLANCA DesktopCloud zu ändern, melden Sie sich mit Ihren Zugangsdaten im CASABLANCA Online Portal an. Im linken Hauptmenü finden Sie den Punkt Preise und wählen die Option Raten. Klicken Sie in der Zeile der gewünschten Rate auf + Preiskalender. Wählen Sie den Zeitraum aus, für den die Preise bzw. Restriktionen angepasst werden sollen, und klicken Sie auf den Tag oder ziehen Sie die Maus von Start- bis Enddatum. Nachdem der Tag ausgewählt wurde, können Sie die Einstellungen im Fenster bearbeiten, einschließlich Zimmertyp, Personengruppe und Restriktionen. Klicken Sie auf Speichern, um die Änderungen zu sichern.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie gewähre ich zugrif auf Fiskaltrust Account?",
+    "reference": "Um den Zugriff auf Ihren Fiskaltrust Account zu gewähren, loggen Sie sich mit Ihrem bestehenden Account im Fiskaltrust Portal ein, wechseln Sie im linken Menü auf PosOperator > Händler/Berater suchen und suchen Sie nach 'Casablanca' Hotelsoftware. Danach sollte die Zuordnung mit 'Full (Schreiben/Lesen, Verträge unterzeichnen)' unter Zugriffsrechte erfolgen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet die CASABLANCA hotelsoftware in der Schulversion?",
+    "reference": "Die CASABLANCA hotelsoftware in der Schulversion bietet Funktionen wie Benutzerverwaltung, Zimmerplan, Gästekartei, Raten-/Preiseingabe, Artikelverwaltung, Reservierungsvorgang, Check-In, Korrespondenz, Buchungsverwaltung, Check-Out, Rechnungslegung, Kassenbuch, Tagesabschluss, Fiskalisierung, Steuerumstellungen sowie Module und Schnittstellen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird das Trinkgeld in der Kassenbuchverwaltung von CASABLANCA behandelt und was sind die Schritte zur korrekten Erfassung?",
+    "reference": "In der Kassenbuchverwaltung von CASABLANCA wird das Trinkgeld durch eine spezielle Schnittstelle automatisch aus dem Kassenbuch ausgetragen, wenn die Kellner am Ende des Tages weniger Bargeld abgeben, entsprechend dem Trinkgeld, das sie eingenommen haben. Um dies zu ermöglichen, muss ein neuer Artikel angelegt und der Warengruppe Trinkgeld in der Restaurant-Schnittstelle zugewiesen werden. Es ist wichtig, dass bei diesem Artikel die Kategorie 'Barzahlung' ausgewählt wird. Nach der Zuweisung muss der neue Artikel auch den Warengruppen zugeordnet werden, um sicherzustellen, dass das Trinkgeld korrekt erfasst wird.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie werden Kinderpreise im Personenmodell in der CASABLANCA hotelsoftware berechnet und welche Faktoren beeinflussen diese Berechnung?",
+    "reference": "Kinderpreise im Personenmodell verhalten sich ähnlich wie im Belegungsmodell. Bei der prozentuellen Berechnung wird der Preis im Feld Standard-Belegung verwendet. Zum Beispiel, bei einem Doppelzimmer mit einer Standard-Belegung von 2 wird der Preis im Feld für 2 Personen von 200€ verwendet. Dieser Preis wird durch die Standardbelegung dividiert (200 / 2 = 100€), und anschließend werden die hinterlegten Prozente abgezogen (100€ - 50€ -> Kind kostet 50€).",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie können die Druckoptionen in der CASABLANCA hotelsoftware angepasst werden?",
+    "reference": "In der CASABLANCA hotelsoftware können die Druckoptionen über den Button Vorlagen angepasst werden. Um dies zu tun, öffnen Sie das gewünschte Konto in CASABLANCA, gehen Sie zur Registerkarte Einstellungen und klicken Sie auf den Button Vorlagen. Dort werden alle vorhandenen Vorlagen in der linken Spalte angezeigt. Sie können eine Vorlage auswählen oder eine neue Vorlage erstellen. Anschließend passen Sie die Druckoptionen unterhalb der Vorlagenauswahl an und speichern die Einstellungen mit Ok oder durch Klicken auf das Disketten-Symbol.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was zeigt Bild2 in der Dokumentation von CASABLANCA hotelsoftware?",
+    "reference": "Bild2 ist in der Dokumentation von CASABLANCA hotelsoftware enthalten, jedoch wird im Kontext nicht spezifiziert, was genau Bild2 darstellt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie optimiert das Modul \"Digitale Unterschrift\" das Meldewesen in einem Hotel und welche Vorteile bietet es für die Gäste?",
+    "reference": "Das Modul \"Digitale Unterschrift\" optimiert das Meldewesen in Ihrem Hotel, indem es den Gästen ermöglicht, den Meldezettel bequem und unkompliziert auf allen digitalen Endgeräten zu unterschreiben, sei es am Rezeptionstablet oder bereits von zu Hause aus beim Online-Check-in. Zustimmungserklärungen im Rahmen des Datenschutzes werden digital erfasst und automatisch in das System eingespielt. Dies spart Zeit und Ressourcen, während gleichzeitig der Komfort für die Gäste erhöht wird. Der gesamte Workflow wird volldigitalisiert, da die Meldewesen-Daten entweder durch das Hotelpersonal oder direkt vom Gast erfasst werden, und der signierte Meldezettel wird automatisch an das zuständige Meldeamt übermittelt, ohne dass ein manueller Eingriff erforderlich ist.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich den TAR-Export für eine Finanzprüfung in CASABLANCA hotelsoftware durchführen?",
+    "reference": "Um den TAR-Export für eine Finanzprüfung in CASABLANCA hotelsoftware durchzuführen, loggen Sie sich zunächst mit Ihren Zugangsdaten im Fiskaltrust Portal ein. Wechseln Sie im linken Menü auf Konfiguration > Queue und führen Sie einen Export durch. Wählen Sie dann im Export-Menü den Exporttyp 'TAR' aus und klicken Sie auf 'Export starten'. Nach einigen Minuten wird der Export bereitgestellt, und Sie können die Daten als ZIP-Datei für die Prüfung herunterladen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wo kann ich mehr über die Homepage von CASABLANCA hotelsoftware erfahren?",
+    "reference": "Weitere Informationen über die Homepage von CASABLANCA hotelsoftware finden Sie auf der CASABLANCA Homepage. Dort können Sie sich ausführlich über die Funktionen informieren und das Modul direkt bestellen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet die Gästekartei in der CASABLANCA hotelsoftware zur Verwaltung von Gastdaten?",
+    "reference": "Die Gästekartei in CASABLANCA dient zur zentralen Verwaltung und Pflege von Gastdaten. Sie ermöglicht die Erstellung, Bearbeitung und Organisation von Gastinformationen sowie die Verknüpfung von Kontakten und die Verwaltung von Korrespondenz. Die allgemeinen Felder der Gästekartei speichern grundlegende Gastinformationen, wie Anrede, Nachname, Vorname und E-Mail-Adresse. Zudem können zusätzliche Daten wie Geburtsdatum oder Nationalität hinzugefügt werden. Die Gästekartei bietet auch Suchfunktionen, einschließlich einer Autosuche und einer erweiterten Suche, um die Daten effizient zu verwalten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet das Sporthotel Casablanca in Bezug auf die Reservierungsverwaltung?",
+    "reference": "Das Sporthotel Casablanca bietet eine Vielzahl von Funktionen zur Reservierungsverwaltung, darunter die Möglichkeit, Reservierungen nach Datum, Aufenthaltstypen (Anreisen, Abreisen, Im Haus) und Zimmerwechsel zu filtern. Zudem können Reservierungsbemerkungen angezeigt werden, und es besteht die Option, freie Zimmer sowie Geburtstagsreservierungen anzuzeigen. Die Gruppierung von Reservierungen nach verschiedenen Kriterien und die Anpassung der Spalten für Ausdrucke sind ebenfalls möglich.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist HRS im Zusammenhang mit dem CASABLANCA Onlinezahlungssystem?",
+    "reference": "HRS wird im Kontext des CASABLANCA Onlinezahlungssystems erwähnt, jedoch werden keine spezifischen Informationen zu HRS bereitgestellt. Es ist Teil der Liste von Schnittstellen und Modulen, die mit dem System verbunden sind.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Kreditkartendetails über Datatrans einsehen, wenn ich die CASABLANCA hotelsoftware benutze?",
+    "reference": "Die Kreditkartendetails zu einer Buchung können über die CASABLANCA Online Systems eingesehen werden. Zuerst muss das anzuzeigende Gerät am Tag über ein E-Mail freigeschaltet werden. Jedes Mal, wenn Kreditkarten-Daten angezeigt werden sollen, sind die Login-Daten des angemeldeten Benutzers erforderlich. Über 'Online-Buchungsdetails' bei der Buchung kann die Buchung schnell in der Buchungsübersicht geöffnet werden. Um die Kreditkartendetails anzuzeigen, muss der Benutzer nach der Anmeldung auf 'Daten anzeigen' klicken. Das Gerät, auf dem die Daten angezeigt werden sollen, muss ebenfalls verifiziert werden, indem ein Aktivierungscode von Datatrans eingegeben wird. Nach der Verifizierung kann die Kreditkartennummer und der CVV-Code angezeigt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen bietet die Korrespondenz-Funktion in der CASABLANCA hotelsoftware zur Verbesserung der Kommunikation mit Gästen?",
+    "reference": "Die Korrespondenz-Funktion in CASABLANCA ist ein zentrales Werkzeug zur professionellen und effizienten Kommunikation mit Gästen, Partnern und anderen Kontakten. Sie ermöglicht die Erstellung und Verwaltung von Textvorlagen für häufig benötigte Schreiben, die Personalisierung durch Platzhalter, die Unterstützung mehrerer Sprachen, das direkte Versenden von E-Mails aus dem System, die Automatisierung des Versands bestimmter Nachrichten, sowie die individuelle Anpassung von Texten und Layouts an das Corporate Design des Hotels. Zudem können multimediale Inhalte in E-Mails eingebunden werden, was für Marketingzwecke nützlich ist. Diese Funktionen tragen zur Zeitersparnis, Professionalität, Effizienz, Personalisierung und Transparenz im Hotelbetrieb bei.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Rechnungsverwaltung in CASABLANCA nutzen?",
+    "reference": "In der Rechnungsverwaltung von CASABLANCA können Sie vergangene Rechnungen verwalten, erneut öffnen oder drucken und offene Konten suchen und bearbeiten. Die Rechnungen werden in drei Kategorien unterteilt: Storniert, Offen und Bezahlt. Sie können Rechnungen auswählen und mit einem Klick auf Aktualisieren die Leistungen anzeigen. Zudem gibt es verschiedene Suchmöglichkeiten, um Rechnungen nach Kassen, Namen des Gastes oder Rechnungsnummer zu filtern.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert der Check-Out-Prozess in der CASABLANCA hotelsoftware?",
+    "reference": "Der Check-Out-Prozess in der CASABLANCA hotelsoftware wird nicht direkt im Kontext beschrieben. Es wird jedoch erwähnt, dass die Gutscheinverwaltung ein kostenpflichtiges Zusatzmodul ist, das es Nutzern ermöglicht, Gutscheine zu erstellen, zu verwalten und effizient zu bearbeiten. Für spezifische Informationen zum Check-Out-Prozess wäre es notwendig, die entsprechenden Abschnitte der Softwaredokumentation zu konsultieren.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie unterstützt CASABLANCA das Meldewesen für Hotels?",
+    "reference": "Das Meldewesen in CASABLANCA ist ein zentrales Tool, das die Erfassung und Verwaltung aller meldepflichtigen Gästedaten erleichtert. Es unterstützt die gesetzlichen Vorgaben zur Gästemeldung effizient und fehlerfrei, indem alle relevanten Informationen automatisch während des Check-ins erfasst und in den entsprechenden Formularen hinterlegt werden. Das System generiert zudem automatisch die erforderlichen Meldescheine und digitale Meldeformulare, die direkt exportiert oder an die zuständigen Behörden übermittelt werden können.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert die Gutscheinverwaltung in der CASABLANCA hotelsoftware und welche Möglichkeiten bietet sie für die Integration mit Kassen-Systemen?",
+    "reference": "Die Gutscheinverwaltung in der CASABLANCA hotelsoftware ist ein Zusatzmodul, das es ermöglicht, Wertgutscheine auszustellen und zu verwalten. Wenn ein Kassen-System an CASABLANCA angebunden ist, können die Gutscheine für dieses Kassen-System exportiert werden. Bei der Einlösung von Gutscheinen im Kassen-System kann CASABLANCA über eine Schnittstelle informiert werden, vorausgesetzt, der Kassen-Hersteller hat die Schnittstelle zur Gutscheinverwaltung implementiert. Sollte die Verwaltung der Gutscheine bereits in einem Fremdsystem erfolgen, können Wertgutscheine direkt in CASABLANCA eingelöst werden, indem eine Schnittstelle zur jeweiligen Gutscheinverwaltung genutzt wird. Über CASABLANCA können Gutscheine abgefragt und eingelöst werden, wobei verschiedene Gutschein-Systeme wie apro Kassensysteme, Brandnamic, e-guma, GastroDigital, incert und websLINE angebunden werden können.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was macht die CASABLANCA hotelsoftware für Reinigungskräfte?",
+    "reference": "Die CASABLANCA hotelsoftware bietet Reinigungskräften eine Übersicht aller Aufgaben, die für den jeweiligen Tag anstehen. Sie können Aufgaben wie Reinigung oder Inspektion auswählen und die Zimmer nach Belegungsstatus filtern. Die Zimmerliste wird automatisch nach den entsprechenden Kriterien gefiltert, und es gibt eine detaillierte Zimmeransicht mit Informationen zu Zuständigkeiten, Aufgaben, Belegung und Zimmerbemerkungen. Reinigungskräfte können den Reinigungsstatus dokumentieren und Berichte für Hausmeister erstellen, wenn Probleme festgestellt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist ABM und wie wird es in CASABLANCA verwendet?",
+    "reference": "ABM ist eine Schnittstelle, die in der CASABLANCA Hotelsoftware verwendet wird, um Leistungen, Zu- und Abschläge, Raten/Pauschalen und Anzahlungen korrekt bei Buchungsübermittlungen einzutragen. Bei Version 2 der ABM Schnittstelle wird das komplette Mapping im ABM konfiguriert, wobei WebsLine Informationen wie Artikel, Raten/Pauschalen, Zimmer und Zimmertypen aus CASABLANCA benötigt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Funktionen werden in der Übersicht der Statistikliste der CASABLANCA hotelsoftware erklärt?",
+    "reference": "In der Übersicht der Statistikliste werden alle Funktionen der Liste erklärt, ausgenommen die Einstellungen, mit denen eine neue Liste zusammengesetzt werden kann. Zu den Funktionen gehören das Laden des ausgewählten Profils, die Auswahl des Zeitraums über einen Kalender, das Drucken und Exportieren der geladenen Liste, die Auswahl und Speicherung von Profilen sowie das Importieren und Exportieren von Profilen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Anforderungen der DSGVO in Bezug auf die Auftragsverarbeitung, die in der CASABLANCA hotelsoftware dokumentiert sind?",
+    "reference": "In der CASABLANCA hotelsoftware wird ein Vertrag über die Auftragsverarbeitung gemäß Art. 28 DSGVO erwähnt, der die Anforderungen der DSGVO in Bezug auf die Verarbeitung personenbezogener Daten regelt.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Preise in der CASABLANCA hotelsoftware kopieren und für andere Zimmertypen verwenden?",
+    "reference": "Um Preise in der CASABLANCA hotelsoftware zu kopieren, melden Sie sich mit Ihren Zugangsdaten im CASABLANCA Online Portal an. Im linken Hauptmenü des Portals finden Sie den Punkt Preise und wählen dort die Option Raten. Klicken Sie in der Zeile der gewünschten Rate auf Preisliste. In der Sektion Zimmertypen klicken Sie auf Kopieren und wählen den Zimmertyp, dessen Preise überschrieben werden sollen. Alternativ können Sie auch einen leeren Zimmertyp erstellen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Welche Zahlungsmethoden unterstützt die CASABLANCA hotelsoftware?",
+    "reference": "Die CASABLANCA hotelsoftware unterstützt verschiedene Zahlungsmethoden über den Drittanbieter 'Datatrans', darunter Direktzahlungen bei IBE, bei Buchungen mit dem Online-Buchungs-Button, bei Anzahlungsaufforderungen über die Korrespondenz sowie die Direktzahlung der Rechnung in der Gäste-App.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie werden Kinderpreise in den Preismodellen von CASABLANCA hotelsoftware berechnet?",
+    "reference": "Kinderpreise werden erst über der Standardbelegung verwendet. Beispielsweise kostet 1 Erwachsener und 1 Kind 150€, da die Standardbelegung 2 ist. Bei 2 Erwachsenen und 1 Kind kostet es 150€ plus den Kinderpreis für das letzte Kind. Wenn die Standardbelegung und die Maximalbelegung gleich sind, kann nur ein Preis für die Standardbelegung eingegeben werden, da zusätzliche Preise nicht benötigt werden.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert die Integration von DATEV in die CASABLANCA hotelsoftware?",
+    "reference": "Die Anbindung an Systeme wie DATEV ermöglicht die automatische Übertragung von Rechnungs- und Buchhaltungsdaten, was die Reduzierung von manuellen Buchungsfehlern und die Erleichterung der Einhaltung gesetzlicher Vorschriften zur Folge hat.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist CASABLANCA und wie hilft es bei Steuersenkungen?",
+    "reference": "CASABLANCA ist eine hotelsoftware, die ein Tool entwickelt hat, um die Steuersenkung in Österreich 2020 zu erleichtern. Das Tool öffnet sich automatisch beim Starten von CASABLANCA und ermöglicht es den Hotels, die betroffenen Artikel manuell auszuwählen und die Steuersätze anzupassen.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was ist die saison für sommer 2026?",
+    "reference": "Eine Saison, wie z.B. \"Sommer 2026\", umfasst einen festgelegten Zeitraum im Jahr, in dem das Hotel spezielle Preise, Raten und Verfügbarkeiten definiert. Die Saison könnte beispielsweise von 1. Juni 2026 bis 31. August 2026 laufen und die Sommermonate abdecken, die in vielen Regionen eine Zeit mit hoher Nachfrage sind.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich trinkgeld verbuchen in der CASABLANCA hotelsoftware?",
+    "reference": "Der Artikel \"Trinkgeld\" kann auf dem Konto verbucht werden, wenn vom Gast gewünscht. Es ist wichtig, das Verbuchen des Artikels \"Trinkgeld\" vor der Rechnungserstellung durchzuführen. Wenn der Artikel als \"Hotel Umsatz\"-Artikel eingestellt wurde, erscheint er auf der Umsatzliste beim Hotelumsatz mit 0% MWST. Wenn er als \"Barzahlung\"-Artikel eingestellt wurde, erscheint er bei den Barzahlungen/Barauslagen auf der Umsatzliste. Zusätzlich wird das Trinkgeld automatisch als Ausgabe im Kassenbuch verbucht.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Kontingente für die Reisebüro Tour im Verfügbarkeitsfenster von CASABLANCA hotelsoftware bearbeiten oder erstellen?",
+    "reference": "Im Verfügbarkeitsfenster von CASABLANCA hotelsoftware können Benutzer Kontingente für die Reisebüro Tour bearbeiten oder erstellen, indem sie die folgenden Schritte ausführen: 1. Zeitraum oder Kontingent markieren: Wählen Sie den gewünschten Zeitraum oder das Kontingent in der Tabelle auf der linken Seite aus. 2. Kontingent auswählen: Im Dropdown-Menü kann das zu bearbeitende Kontingent gewählt werden, z. B. 'Reisebüro TUI' oder 'Reisebüro Tour'. 3. Zimmeranzahl /Zeitraum anpassen: Die Zimmeranzahl für jede Kategorie kann im rechten Bereich direkt bearbeitet werden. 4. Speichern oder Änderungen übernehmen: Über den speichern Button im oberen Bereich des Fensters können die Änderungen gespeichert werden. Neue Kontingente können ebenfalls für den gewählten Zeitraum definiert werden, und Änderungen an Kontingenten wirken sich sofort auf die Verfügbarkeiten aus.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die Hauptfunktionen von CASABLANCA Desktop?",
+    "reference": "Die Hauptfunktionen von CASABLANCA Desktop umfassen den Zimmerplan, die Gästekartei, die Reservierungsverwaltung und die Abrechnung, die alle darauf ausgelegt sind, einen reibungslosen Ablauf im täglichen Hotelbetrieb zu gewährleisten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie funktioniert der Check-Out in CASABLANCA?",
+    "reference": "Der Check-Out ist ein Teil des Buchungsprozesses in CASABLANCA, der es ermöglicht, die Abrechnung und den Abschluss des Aufenthalts eines Gastes zu verwalten. Nach dem Anlegen von Artikeln können diese in einer Reservierung entweder direkt auf ein Konto gebucht oder als Fixleistung einer Rate zugewiesen werden. Es ist wichtig, dass Zahlungsartikel korrekt konfiguriert sind, da sie häufig direkt mit buchhalterischen Prozessen verknüpft sind.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich Daten aus dem Finanz-Bericht in Microsoft Excel exportieren und was sind die Schritte dafür?",
+    "reference": "Um Daten aus dem Finanz-Bericht in Microsoft Excel zu exportieren, klicken Sie in der Hauptleiste auf den Button Excel-Export. Es öffnet sich ein Export-Fenster, in dem Sie zwischen zwei Formaten wählen können: xls-Format oder csv-Format. Wählen Sie das gewünschte Format aus, und nach Auswahl des Formats öffnet sich die Export-Datei automatisch in Microsoft Excel.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie wird der Steuersatz in der CASABLANCA Hotelsoftware angelegt?",
+    "reference": "Um den Steuersatz in der CASABLANCA Hotelsoftware anzulegen, muss zuerst in den Stammdaten der Steuersatz erstellt werden. Dazu öffnet man die Preis / Artikelverwaltung und wählt die Steuersätze aus. In dem sich öffnenden Fenster fügt man mit dem Erstellen-Symbol eine neue Zeile hinzu, gibt den Namen (z. B. '5% MWST') und den Steuersatz (z. B. '5') ein und schließt das Fenster mit Ok.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie erstelle ich einen Jahresbeleg für die RKSV in CASABLANCA?",
+    "reference": "In CASABLANCA wird der Jahresbeleg der RKSV-Kasse automatisch bei der Erstellung der ersten Rechnung im neuen Jahr generiert und auf FinanzOnline geprüft. Der Jahresbeleg wird wie eine Rechnung abgelegt und kann nach Erstellung unter 'Rechnungen' gefunden und gedruckt werden. Um sicherzustellen, dass die Erstellung und Prüfung des Belegs korrekt durchgeführt werden kann, muss die Systemzeit des PCs korrekt eingestellt sein.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Was sind die DesktopCloudFAQOnboardingSystemvoraussetzungen für die Anzahlungsverwaltung?",
+    "reference": "Die Anzahlungsverwaltung mit CASABLANCA ermöglicht es, Anzahlungen für Reservierungen zu organisieren und zu verwalten. Sie erlaubt es, automatische Anforderungen zu erstellen, Zahlungen zu verbuchen, Bestätigungen zu versenden und offene oder verfallene Anzahlungen im Blick zu behalten, um einen reibungslosen Ablauf bei der Zahlungsabwicklung zu gewährleisten.",
+    "response": "",
+    "retrieved_contexts": ""
+  },
+  {
+    "user_input": "Wie kann ich die Rechnungsadresse in CASABLANCA ändern?",
+    "reference": "Nach dem Öffnen der Rechnungsmaske können Sie die Rechnungsadresse anpassen: Rechts können Sie zwischen den Rechnungsadressen wechseln, falls beim Gast eine Firma hinterlegt wurde. Mit Klick auf 'Andere' wird eine leere Gästekartei geöffnet, die frei bearbeitet werden kann.",
+    "response": "",
+    "retrieved_contexts": ""
+  }
+]

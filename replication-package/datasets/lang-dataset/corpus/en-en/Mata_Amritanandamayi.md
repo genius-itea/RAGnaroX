@@ -1,0 +1,1 @@
+Mata Amritanandamayi: Mātā Amritānandamayī Devī (born Sudhamani Idamannel; 27 September 1953), better known simply as Amma ("Mother"), is a Hindu spiritual leader and guru who is revered as a saint by her followers.

@@ -1,0 +1,1 @@
+Sarawak Stadium: Das Sarawak Stadium ist ein multifunktionelles Stadion in Kuching, Malaysia. Es wird hauptsächlich für Fußballspiele verwendet. Es hat eine Kapazität von 40.000 Plätzen und ist das Heimstadion des Sarawak FA, der in der Malaysia Super League spielt. Hier wurden außerdem Spiele der Junioren-Fußballweltmeisterschaft 1997 ausgetragen.

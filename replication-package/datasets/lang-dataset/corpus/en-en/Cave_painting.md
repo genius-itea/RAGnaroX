@@ -1,0 +1,1 @@
+Cave painting: Pigments used include red and yellow ochre, hematite, manganese oxide and charcoal. Sometimes the silhouette of the animal was incised in the rock first, and in some caves all or many of the images are only engraved in this fashion, taking them somewhat out of a strict definition of "cave painting".

@@ -1,0 +1,1 @@
+Newfoundland (island): The St. John's census metropolitan area includes 12 suburban communities, the largest of which are the city of Mount Pearl and the towns of Conception Bay South and Paradise. The province's third-largest city is Corner Brook, which is situated on the Bay of Islands on the west coast of the island. This was recorded as a discovery by Captain James Cook.

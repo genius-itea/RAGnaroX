@@ -1,0 +1,1 @@
+Osechi-ryōri: Der Begriff osechi bezog sich ursprünglich auf o-sechi, eine Jahreszeit oder einen wichtigen Zeitabschnitt. Der Neujahrstag war eines der fünf jahreszeitlichen Feste (節句 Sekku) am kaiserlichen Hof in Kyōto. Dieser Brauch, bestimmte Tage zu feiern, kam von China nach Japan.
