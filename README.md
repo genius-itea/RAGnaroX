@@ -48,4 +48,4 @@ Docker Compose will take several minutes to start all services.
 - URL: http://localhost:10000/
 
 ## Video Demo
-[![Demo Video](./RAGnaroX-anonymised.MP4)]
+![Demo Video](./RAGnaroX-anonymised.MP4)
