@@ -1,0 +1,1 @@
+JEdit: Durch die Plug-ins lässt sich jEdit an die Bedürfnisse des Benutzers anpassen. Es ist z. B. möglich ihn als komplette IDE zu konfigurieren. Mit Compiler, Quellcode-Vervollständigung, kontextabhängiger Hilfe, Debugging, Syntaxhervorhebung und sprachspezifischen Tools. Weiterhin können Arbeitsabläufe als Makros aufgezeichnet und in BeanShell bearbeitet werden.

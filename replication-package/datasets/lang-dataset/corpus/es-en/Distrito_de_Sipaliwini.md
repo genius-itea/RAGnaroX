@@ -1,0 +1,1 @@
+Distrito de Sipaliwini: La región ha sido testigo durante varias décadas de las luchas entre tropas de Guyana y Surinam por conflictos fronterizos en la zona sudoeste. Igualmente, la zona sureste del distrito (la comprendida entre los ríos Litani y Marouini -nombre francés de Marowijne-) ha supuesto numerosos conflictos entre el país con su vecina la Guayana Francesa.

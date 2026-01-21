@@ -1,0 +1,1 @@
+Malvik: Malvik (en noruego y oficialmente Malvik Kommune) es una localidad y un municipio de la provincia de Trøndelag, en el centro de Noruega. Forma parte de la región de Trondheim. El centro administrativo del municipio es la localidad de Hommelvik. Otras localidades de Malvik son Muruvika, Smiskaret, Sneisen, Vikhammer y Hundhammeren.[2]​

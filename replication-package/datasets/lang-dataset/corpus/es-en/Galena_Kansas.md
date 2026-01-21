@@ -1,0 +1,1 @@
+Galena (Kansas): Galena es una ciudad ubicada en el de condado de Cherokee en el estado estadounidense de Kansas. En el año 2010 tenía una población de 3085 habitantes y una densidad poblacional de 259,24 personas por km².[2]​

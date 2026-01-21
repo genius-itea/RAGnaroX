@@ -1,0 +1,1 @@
+Venera 10: The orbiter entered Venus orbit on October 23, 1975. Its mission was to serve as a communications relay for the lander and to explore cloud layers and atmospheric parameters with several instruments and experiments:

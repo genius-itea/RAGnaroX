@@ -1,0 +1,1 @@
+Julien Faubert: Julien Faubert (Le Havre, 1° de agosto de 1983) es un futbolista francés que juega en el Borneo F.C. de la Liga 1 de Indonesia.[2]​ Puede desempeñarse en toda la banda derecha, tanto de extremo, su posición habitual, como de lateral.

@@ -1,0 +1,1 @@
+Kim Jong-un: Am 11. April 2012 wurde er auf der IV. Parteikonferenz der Partei der Arbeit Koreas zum Ersten Sekretär und damit offiziell zum Parteiführer gewählt. Am 13. April 2012 wählte ihn die Oberste Volksversammlung der DVRK zum Ersten Vorsitzenden des Nationalen Verteidigungskomitees der DVRK.

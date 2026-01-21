@@ -1,0 +1,1 @@
+Commewijne District: One of the most populated of Suriname's districts, Commewijne relies primarily on agriculture for its income, with plantations dating back to the first Dutch colonisation of the area in the 17th century.

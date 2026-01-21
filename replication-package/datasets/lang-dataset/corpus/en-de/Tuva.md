@@ -1,0 +1,1 @@
+Tuva: There are over 8,000 rivers in the republic. The area includes the upper course of the Yenisei River, the fifth longest river in the world. Most of the republic's rivers are Yenisei tributaries. There are also numerous mineral springs in the area.

@@ -1,0 +1,1 @@
+Sahn: Casi todas las mezquitas, casas y otros edificios en áreas pertenecientes al mundo islámico contienen un sahn, los que se encuentran rodeados en todos sus lados por una arcada. En la arquitectura persa, el sahn contiene generalmente un howz; es decir, una piscina simétrica, donde se realizan las abluciones. Algunos también contienen fuentes para beber.

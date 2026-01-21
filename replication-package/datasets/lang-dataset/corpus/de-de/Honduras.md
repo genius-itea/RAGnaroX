@@ -1,0 +1,1 @@
+Honduras: In Honduras sind zahlreiche Tierarten beheimatet, u. a. Insekten, Krokodile, Schlangen, Echsen, Schildkröten, Hirsche, Affen (z. B. der Weißschulterkapuziner, Honduras' kleinster Affe) und Kojoten. Ferner leben hier Raubkatzen wie Jaguar, Puma und Ozelot sowie verschiedene Reptilien, Vögel und Meerestiere.

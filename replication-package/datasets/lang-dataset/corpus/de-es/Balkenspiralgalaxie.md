@@ -1,0 +1,1 @@
+Balkenspiralgalaxie: Edwin Hubble stufte diese Arten der Spiralgalaxien als „SB“ (englisch „Spiral Barred“) ein, und unterteilte sie nach der Ausprägung des Balkens und der Spiralarme in drei Unterkategorien:

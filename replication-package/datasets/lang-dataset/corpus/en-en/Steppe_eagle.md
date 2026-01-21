@@ -1,0 +1,1 @@
+Steppe eagle: The steppe eagle breeds from Romania east through the south Russian and Central Asian steppes to Mongolia. The European and Central Asian birds winter in Africa, and the eastern birds in India. It lays 1–3 eggs in a stick nest in a tree. Throughout its range it favours open dry habitats, such as desert, semi-desert, steppes, or savannah.

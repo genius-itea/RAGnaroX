@@ -1,0 +1,1 @@
+Nangarhar Province: Nangarhār (Pashto: ننګرهار‎; Persian: ننگرهار‎), also called Nangrahar or Ningrahar, is one of the 34 provinces of Afghanistan, located in the eastern part of the country. It is divided into twenty-two districts and has a population of about 1,436,000. The city of Jalalabad is the capital of Nangarhar province.

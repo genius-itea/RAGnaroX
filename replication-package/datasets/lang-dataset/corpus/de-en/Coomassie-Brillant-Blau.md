@@ -1,0 +1,1 @@
+Coomassie-Brillant-Blau: Der Name des ursprünglich als Wollfarbstoff entwickelten Coomassie-Brillant-Blau stammt von der afrikanischen Stadt Kumasi in Ghana. Er wurde zur Erinnerung an die britische Besetzung der damaligen Aschanti-Hauptstadt Coomassie – heute Kumasi – im Jahr 1896 gewählt. Coomassie® ist eine registrierte Marke der Imperial Chemical Industries.

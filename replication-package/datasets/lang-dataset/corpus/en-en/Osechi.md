@@ -1,0 +1,1 @@
+Osechi: The term osechi originally referred to o-sechi, a season or significant period. New Year's Day was one of the five seasonal festivals in the Imperial Court in Kyoto. This custom of celebrating particular days was introduced from China into Japan.

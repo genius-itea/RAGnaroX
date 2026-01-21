@@ -1,0 +1,1 @@
+Stephen Miller (political advisor): Stephen Miller (born August 23, 1985) is an American far-right political activist who serves as a senior advisor for policy for President Donald Trump. He was previously the communications director for then-Senator Jeff Sessions. He was also a press secretary for Republican representatives Michele Bachmann and John Shadegg.

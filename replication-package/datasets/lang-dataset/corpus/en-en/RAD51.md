@@ -1,0 +1,1 @@
+RAD51: In mammals, seven recA-like genes have been identified: Rad51, Rad51L1/B, Rad51L2/C, Rad51L3/D, XRCC2, XRCC3, and DMC1/Lim15. All of these proteins, with the exception of meiosis-specific DMC1, are essential for development in mammals. Rad51 is a member of the RecA-like NTPases.

@@ -1,0 +1,1 @@
+Numerology: Scientific theories are sometimes labeled "numerology" if their primary inspiration appears to be a set of patterns rather than scientific observations. This colloquial use of the term is quite common within the scientific community and it is mostly used to dismiss a theory as questionable science.

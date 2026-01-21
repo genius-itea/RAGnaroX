@@ -1,0 +1,1 @@
+Lee Kun-hee: En 2014, Lee fue nombrada la persona más poderosa del mundo en el puesto 35, y el coreano más poderoso por la Lista de la personas más poderosas del mundo de la revista Forbes, junto con su hijo Lee Jae-yong. En mayo de 2014 es hospitalizado tras tener un ataque de corazón.[3]​

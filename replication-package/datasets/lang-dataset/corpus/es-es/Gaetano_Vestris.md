@@ -1,0 +1,1 @@
+Gaetano Vestris: Vestris se casó con una bailarina de origen alemán, Anna Heinel (1753-1808), que tuvo un gran éxito en la ópera. Vestris reapareció en escena con setenta y un años con motivo del debut de su nieto.

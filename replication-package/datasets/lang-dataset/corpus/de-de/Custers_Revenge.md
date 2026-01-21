@@ -1,0 +1,1 @@
+Custer’s Revenge: In einer von Playaround unter dem Namen General Retreat veröffentlichten Variante des Spiels, ist es die nackte Frau, die versucht mit Custer Sex zu haben. Die Pfeile wurden in dieser Fassung durch Kanonenkugeln ausgetauscht.

@@ -1,0 +1,1 @@
+Akshay Venkatesh: Akshay Venkatesh (* 21. November 1981 in Neu-Delhi) ist ein indisch-australischer Mathematiker, der sich mit Zahlentheorie, Ergodentheorie und automorphen Formen beschäftigt. 2018 erhielt er die Fields-Medaille.

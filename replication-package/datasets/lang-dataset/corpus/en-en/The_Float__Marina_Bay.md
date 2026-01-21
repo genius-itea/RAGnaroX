@@ -1,0 +1,1 @@
+The Float @ Marina Bay: The Float at Marina Bay, stylised as The Float@Marina Bay and also known as the Marina Bay Floating Platform, is the world's largest floating stage. It is located on the waters of the Marina Reservoir, in Marina Bay, Singapore.

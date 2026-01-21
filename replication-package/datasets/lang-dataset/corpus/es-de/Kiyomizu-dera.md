@@ -1,0 +1,1 @@
+Kiyomizu-dera: El Kiyomizu-dera fue fundado a comienzos del Periodo Heian.[2]​ El templo data del año 778, aunque los edificios actuales fueron construidos en 1633. El templo toma su nombre de las cascadas que existen en el complejo, las cuales bajan de las colinas cercanas. Kiyomizu (清水) literalmente significa agua pura, agua clara o agua limpia.[3]​

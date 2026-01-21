@@ -1,0 +1,1 @@
+Swiss Plateau: Geologically, the Swiss Plateau is part of a larger basin that extends beyond the border of Switzerland. At its southwestern end, in France, the plateau, in the Genevois, ends at Chambéry where Jura and Alps meet. At the other side of the Lake Constance, the plateau continues in the German and Austrian Pre-Alps.

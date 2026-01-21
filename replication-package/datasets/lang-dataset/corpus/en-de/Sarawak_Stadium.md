@@ -1,0 +1,1 @@
+Sarawak Stadium: The stadium is the home of Sarawak FA, a Malaysian Super League football team. However, due to damaged facilities and stadium renovation, Sarawak FA currently playing in the State Stadium until the renovation complete before the 2016 Sukma Games.

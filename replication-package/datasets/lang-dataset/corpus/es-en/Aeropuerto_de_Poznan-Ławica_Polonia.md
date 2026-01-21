@@ -1,0 +1,1 @@
+Aeropuerto de Poznan-Ławica (Polonia): El Aeropuerto de Poznan-Ławica (código IATA: POZ, código OACI: EPPO), construido en 1913, es uno de los más antiguos aeropuertos de Polonia. Se encuentra a unos 7 kilómetros al oeste del centro de Poznan.

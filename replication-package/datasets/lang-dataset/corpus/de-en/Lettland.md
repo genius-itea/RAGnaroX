@@ -1,0 +1,1 @@
+Lettland: Am 4. Mai 1990 beschloss der Oberste Rat der LSSR die „Wiederherstellung der Unabhängigkeit“; der Parlamentsbeschluss konnte jedoch erst mit dem Zerfall der Sowjetunion am 21. August 1991 de facto wirksam werden. 2004 wurde die Republik Lettland Mitglied der Europäischen Union und trat der NATO bei.

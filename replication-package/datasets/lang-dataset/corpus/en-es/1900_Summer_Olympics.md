@@ -1,0 +1,1 @@
+1900 Summer Olympics: Most of the winners in 1900 did not receive medals, but were given cups or trophies. Professionals competed in fencing and Albert Robert Ayat (France), who won the épée for amateurs and masters, was awarded a prize of 3000 francs.

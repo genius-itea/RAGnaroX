@@ -1,0 +1,1 @@
+Ray Fisher (actor): Fisher creció en Lawnside, Nueva Jersey, y asistió a la escuela secundaria Haddon Heights High School. Fue allí que se interesó en el teatro, gracias a su profesor de inglés. Participó en el teatro de su escuela, en el programa de coro y además tuvo un lugar en el coro de su iglesia.

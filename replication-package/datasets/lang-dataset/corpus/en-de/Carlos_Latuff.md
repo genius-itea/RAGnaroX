@@ -1,0 +1,1 @@
+Carlos Latuff: Carlos Latuff (born 30 November 1968) is a Brazilian freelance political cartoonist. His works deal with an array of themes, including anti-Zionism, anti-globalization, anti-capitalism, and opposition to U.S. military intervention. He is best known for his images depicting the Israeli–Palestinian conflict and the Arab Spring events.

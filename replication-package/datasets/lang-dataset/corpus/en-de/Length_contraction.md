@@ -1,0 +1,1 @@
+Length contraction: Heavy ions that are spherical when at rest should assume the form of "pancakes" or flat disks when traveling nearly at the speed of light. And in fact, the results obtained from particle collisions can only be explained when the increased nucleon density due to length contraction is considered.

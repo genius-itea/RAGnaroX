@@ -1,0 +1,1 @@
+Macoupin County: Nach der Volkszählung im Jahr 2010 lebten im Macoupin County 47.765 Menschen in 19.612 Haushalten. Die Bevölkerungsdichte betrug 21,4 Einwohner pro Quadratkilometer. In den 19.612 Haushalten lebten statistisch je 2,35 Personen.

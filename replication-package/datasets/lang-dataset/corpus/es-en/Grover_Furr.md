@@ -1,0 +1,1 @@
+Grover Furr: Nacido en Washington D.C., Grover Furr se graduó de la Universidad McGill en Montreal, Quebec, Canadá en 1965 con un BA en Inglés. Consiguió un Ph.D en literatura en la Universidad de Princeton en 1978. Desde el febrero de 1970 él está en la universidad estatal de Montclair en Nueva Jersey, donde se especializa en literatura medieval inglesa.

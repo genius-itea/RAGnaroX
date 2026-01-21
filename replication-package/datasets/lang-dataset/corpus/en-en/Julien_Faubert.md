@@ -1,0 +1,1 @@
+Julien Faubert: Julien Alex Thomas Faubert (born 1 August 1983) is a French footballer who last played for Borneo and has represented both France and Martinique. He plays as a right winger or midfielder.

@@ -1,0 +1,1 @@
+Hilversum: Hilversum liegt im Gooiland, einem Gebiet mit Heide, Wald, Wiesen und kleinen Seen. Die Stadt ist 30 km südöstlich von Amsterdam und 25 km nördlich von Utrecht gelegen. Sie hat drei Bahnstationen: Hilversum Noord, Hilversum (beide an der Linie Amsterdam – Amersfoort – Groningen / Hengelo – Berlin) und Hilversum Sportpark.

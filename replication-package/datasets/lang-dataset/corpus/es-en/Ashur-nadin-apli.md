@@ -1,0 +1,1 @@
+Ashur-nadin-apli: Aššur-nādin-apli (en acadio: «Aššur ha concedido un hijo»[1]​) fue un rey asirio que gobernó durante unos pocos años (1208-1204 a. C.) a la muerte de su padre, Tukulti-Ninurta I.[2]​[3]​

@@ -1,0 +1,1 @@
+Malvik: Malvik is a municipality in Trøndelag county, Norway.  It is part of the Trondheim Region.  The administrative center of the municipality is the village of Hommelvik.  Other villages in Malvik include Muruvika, Smiskaret, Sneisen, Vikhammer, and Hundhammeren.

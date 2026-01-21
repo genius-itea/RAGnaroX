@@ -1,0 +1,1 @@
+Banana Fish: Banana Fish (Japanese: バナナフィッシュ) is a Japanese manga series written and illustrated by Akimi Yoshida. Serialized in Bessatsu Shōjo Comic from 1985 to 1994 and adapted into an anime television series in 2018, the series follows Ash Lynx, a teenage gang leader in New York City. It takes its name from the J. D. Salinger short story "A Perfect Day for Bananafish".

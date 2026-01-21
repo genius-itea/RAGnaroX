@@ -1,0 +1,1 @@
+Liverpool: En 1207, el rey Juan, concedió a la ciudad una "letters patent".  creyendo muchos que era el origen del liverbird. El sello se perdió durante el sitio de la ciudad en 1644. Ornitólogos e historiadores han debatido largo y tendido sobre este misterio, los mitos y las creencias populares que rodean a esta mítica ave.

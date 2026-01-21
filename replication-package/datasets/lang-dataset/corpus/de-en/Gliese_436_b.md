@@ -1,0 +1,1 @@
+Gliese 436 b: Gliese 436 b (auch GJ 436 b) ist ein Exoplanet, der den Roten Zwerg Gliese 436 umkreist. Er ist möglicherweise ein sogenannter „Hot Neptune“. Gliese 436 b wurde von Geoffrey Marcy und R. Paul Butler im Jahr 2004 durch Messung der Radialgeschwindigkeit des Sterns entdeckt.

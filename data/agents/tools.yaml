@@ -1,0 +1,37 @@
+name: default
+description: Tools Agent
+tools:
+  - name: gitlab
+    enabled: true
+    command: docker
+    arguments:
+      - run
+      - -i
+      - --rm
+      - --network
+      - host
+      - -e
+      - GITLAB_PERSONAL_ACCESS_TOKEN 
+      - -e 
+      - GITLAB_API_URL 
+      - -e
+      - USE_GITLAB_WIKI=true
+      - iwakitakuma/gitlab-mcp
+system_prompt: |-
+  You are an assistant responsible for operating tools.
+
+  # Tools
+
+  You may call one or more functions to assist with the user query.
+
+  You are provided with function signatures within <tools></tools> XML tags:
+  <tools>
+  {%for tool in tools%}
+      {{-tool}}
+  {%endfor-%}
+  </tools>
+
+  For each function call, return a json object with function name and arguments within <tool_call></tool_call> XML tags:
+  <tool_call>
+  {"name": <function-name>, "arguments": <args-json-object>}
+  </tool_call>

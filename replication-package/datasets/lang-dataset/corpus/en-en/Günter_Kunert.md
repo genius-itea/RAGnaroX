@@ -1,0 +1,1 @@
+Günter Kunert: Kunert was born in Berlin. After attending a Volksschule, it was not possible for Kunert—due to the National Socialist race laws—to continue his high school education (his mother was Jewish). After World War II ended, Kunert studied in East Berlin's Academy of Applied Arts from 1946–49, but abandoned his studies.

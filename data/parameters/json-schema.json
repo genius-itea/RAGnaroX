@@ -1,0 +1,33 @@
+{
+  "max_tokens": 1048,
+  "temperature": 0.7,
+  "top_p": 1.0,
+  "json_schema": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string"
+      },
+      "year": {
+        "type": "integer"
+      },
+      "rating": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 10
+      },
+      "genres": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "title",
+      "year",
+      "rating",
+      "genres"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+Black Elk: Nicholas Black Elk ("Schwarzer Hirsch" oder "Schwarzer Wapiti"; Hehaka Sapa; * Dezember 1863; † 19. August 1950) war ein Wichasha Wakan (Medizinmann, Heiliger Mann) der Oglala-Lakota-Indianer und katholischer Katechist in der Pine-Ridge-Reservation, South Dakota.

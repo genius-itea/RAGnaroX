@@ -1,0 +1,1 @@
+Cartuja de Santa María de Miraflores: Die Cartuja Santa María de Miraflores ist ein Kloster des kontemplativen Kartäuserordens rund drei Kilometer östlich der Stadt Burgos in Spanien im Parque de Fuentes Blancas nahe dem Fluss Río Arlanzón. Die Anlage ist seit 1923 als Bien de Interés Cultural unter der Nummer RI-51-0000238 gelistet.

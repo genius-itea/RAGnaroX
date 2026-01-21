@@ -1,0 +1,1 @@
+Poznań–Ławica Airport: Poznań–Ławica Henryk Wieniawski Airport (IATA: POZ, ICAO: EPPO), built in 1913, is one of the oldest airports in Poland. It is located 5 km (3.1 mi) west of Poznań city centre. It takes its name from the neighborhood of Ławica, part of the city's Grunwald district while the airport actually lies in the Jeżyce district.

@@ -1,0 +1,1 @@
+Christian von Steven: Christian von Steven (Russian: Христиан Христианович Стевен - Khristian Khristianovich Steven; 19 January 1781, in Fredrikshamn, Finland – 30 April 1863, in Simferopol, Crimea) was a Finnish-born Russian botanist and entomologist.

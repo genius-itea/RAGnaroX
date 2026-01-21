@@ -1,0 +1,1 @@
+German South West Africa: German South West Africa (German: Deutsch-Südwestafrika) was a colony of the German Empire from 1884 until 1919. With an area of 835,100 km², it was one and a half times the size of the mainland German Empire in Europe at the time. The colony had a population of around 2,600 Germans.

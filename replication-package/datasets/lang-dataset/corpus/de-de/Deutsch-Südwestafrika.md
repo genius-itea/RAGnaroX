@@ -1,0 +1,1 @@
+Deutsch-Südwestafrika: Deutsch-Südwestafrika war von 1884 bis 1915 eine deutsche Kolonie (auch Schutzgebiet) auf dem Gebiet des heutigen Staates Namibia. Mit einer Fläche von 835.100 km² war es ungefähr anderthalbmal so groß wie das Deutsche Kaiserreich.

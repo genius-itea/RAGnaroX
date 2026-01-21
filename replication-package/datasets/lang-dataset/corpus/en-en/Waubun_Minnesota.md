@@ -1,0 +1,1 @@
+Waubun, Minnesota: Waubun is a city in Mahnomen County, Minnesota, United States.  The population was 400 at the 2010 census.U.S. Route 59 and Minnesota State Highway 113 are two of the main routes in the community.

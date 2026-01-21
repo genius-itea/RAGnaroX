@@ -1,0 +1,1 @@
+Doom 3: Bei Doom 3 handelt es sich um eine Nacherzählung des ersten Teils. Die Hintergrundgeschichte wurde unter der Beteiligung des Science-Fiction-Autors Matthew J. Costello in einigen Punkten abgeändert und deutlich erweitert.

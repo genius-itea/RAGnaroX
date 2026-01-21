@@ -1,0 +1,1 @@
+Rad51: In Säugetieren wurden sieben recA-ähnliche Gene entdeckt: Rad51, Rad51L1/B, Rad51L2/C, Rad51L3/D, XRCC2, XRCC3, und DMC1/Lim15. Alle Proteine, außer DMC1, sind essentiell für die Säugetierentwicklung. Rad51 ist ein Mitglied der RecA-verwandten NTPasen.

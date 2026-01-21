@@ -1,0 +1,1 @@
+Melissa (informática): "Yo no esperaba ni anticipar la cantidad de daño que tuvo lugar, cuando publiqué el virus, que esperaba que el perjuicio económico sería menor e incidental", dijo Smith. El virus lo creó en memoria de una bailarina topless de Florida de la cual se había enamorado. Por ello fue condenado a 10 años de prisión y multado con 5,000 dólares.

@@ -1,0 +1,1 @@
+The Float at Marina Bay Stadium: The Float at Marina Bay Stadium (en español: Estadio flotante en Marina Bay, 海湾浮动舞台 en chino y Pentas Terapung Teluk Marina en malayo) es un estadio multipropósito en la zona de Marina Bay en el centro de la Ciudad de Singapur.[1]​

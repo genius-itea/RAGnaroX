@@ -1,0 +1,1 @@
+Banana Fish: Banana Fish (バナナフィッシュ, Banana Fisshu?) es una serie de manga escrita e ilustrada por Akimi Yoshida. Fue serializada desde 1985 hasta 1994 por la revista Bessatsu Shōjo Comic.[2]​  La adaptación de anime producida MAPPA por fue estrenada el 5 de julio de 2018 y finalizó con 24 episodios el 20 de diciembre de 2018.

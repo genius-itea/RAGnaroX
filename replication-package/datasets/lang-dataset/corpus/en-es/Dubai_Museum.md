@@ -1,0 +1,1 @@
+Dubai Museum: Dubai Museum (Arabic: متحف دبي‎) is the main museum in Dubai, United Arab Emirates. It is located in the Al Fahidi Fort (Arabic: حصن الفهيدي‎), built in 1787 and is the oldest existing building in Dubai.

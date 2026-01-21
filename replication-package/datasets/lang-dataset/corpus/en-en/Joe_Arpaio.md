@@ -1,0 +1,1 @@
+Joe Arpaio: Joseph Michael Arpaio (; born June 14, 1932) is an American former law enforcement officer and politician. He served as the 36th Sheriff of Maricopa County, Arizona for 24 years, from 1993 to 2017, losing reelection to Democrat Paul Penzone in 2016.

@@ -1,0 +1,1 @@
+Kiyomizu-dera: Die Geschichte des Tempels reicht bis ins Jahr 798 zurück, die heutigen Gebäude wurden allerdings im Jahr 1633 errichtet. Der Tempel erhielt seinen Namen vom Wasserfall innerhalb des Tempelkomplexes, der von den nahen Hügeln herunterkommt – kiyoi mizu (清い水) bedeutet wörtlich reines Wasser.

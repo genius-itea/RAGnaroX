@@ -1,0 +1,1 @@
+Ácido ribonucleico: El ARN mensajero (ARNm) es el tipo de ARN que lleva la información del ADN a los ribosomas, el lugar de la síntesis de proteínas. La secuencia de nucleótidos del ARNm determina la secuencia de aminoácidos de la proteína.[26]​ Por ello, el ARNm es denominado ARN codificante.

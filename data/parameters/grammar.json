@@ -1,0 +1,6 @@
+{
+  "max_tokens": 1048,
+  "temperature": 0.7,
+  "top_p": 1.0,
+  "grammar": "root ::= \"Result: \" [0-9]{1,5}"
+}

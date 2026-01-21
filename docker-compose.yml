@@ -1,0 +1,212 @@
+services:
+  gitlab:
+    image: gitlab/gitlab-ce:17.9.2-ce.0
+    shm_size: '256m'
+    environment:
+      GITLAB_OMNIBUS_CONFIG: |
+        external_url 'http://localhost:10088/'
+        gitlab_rails['initial_root_password'] = 'ragnarox'
+    ports:
+      - 10088:10088
+    volumes:
+    - ./data/gitlab/config:/etc/gitlab:z
+    - ./data/gitlab/logs:/var/log/gitlab:z
+    - ./data/gitlab/data:/var/opt/gitlab:z
+    - ./data/registry/data:/var/opt/gitlab/gitlab-rails/shared/registry:z
+
+  gitlab-setup:
+    image: docker.io/ragnarox/ragnarox-gitlab-setup:1.0.0
+    network_mode: host
+    depends_on:
+      gitlab:
+        condition: service_healthy
+    environment:
+      TOKEN: ragnarox
+      PROJECT: ragnarox
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock"
+
+  llama-cpp-chat-text-generator:
+    image: ghcr.io/ggml-org/llama.cpp:server-cuda-b6485
+    network_mode: host
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              capabilities: [gpu]
+    command:
+      - -b
+      - "8192"
+      - -c
+      - "8192"
+      - -fa
+      - on
+      - --verbose
+      - -m
+      - /models/Qwen3-4B-Instruct-2507-Q8_0.gguf
+      - --host
+      - 0.0.0.0
+      - --port
+      - "18880"
+      - -ngl
+      - "50"
+      - --slots
+      - --jinja
+    volumes:
+      - "./data/models:/models"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:18880/health"]
+
+  llama-cpp-tools-text-generator:
+    image: ghcr.io/ggml-org/llama.cpp:server-cuda-b6485
+    network_mode: host
+    volumes:
+      - "./data/models:/models"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:18882/health"]
+    command:
+      - -b
+      - "8192"
+      - -c
+      - "20000"
+      - -fa
+      - on
+      - --verbose
+      - -m
+      - /models/Qwen3-4B-Thinking-2507-Q8_0.gguf
+      - --host
+      - 0.0.0.0
+      - --port
+      - "18882"
+      - -ngl
+      - "50"
+      - --slots
+      - --jinja
+      - --verbose-prompt
+
+  llama-cpp-embedder:
+    image: ghcr.io/ggml-org/llama.cpp:server-cuda-b6485
+    network_mode: host
+    volumes:
+      - "./data/models:/models"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:18881/health"]
+    command:
+      - -b
+      - "8192"
+      - -c
+      - "8192"
+      - -fa
+      - on
+      - --verbose
+      - -m
+      - /models/multilingual-e5-large-instruct-q8_0.gguf
+      - --host
+      - 0.0.0.0
+      - --port
+      - "18881"
+      - -ngl
+      - "100"
+      - --embeddings
+
+  llama-cpp-reranker:
+    image: ghcr.io/ggml-org/llama.cpp:server-cuda-b6485
+    network_mode: host
+    volumes:
+      - "./data/models:/models"
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - driver: nvidia
+            capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:18883/health"]
+    command:
+      - -b
+      - "8192"
+      - -c
+      - "8192"
+      - -fa
+      - on
+      - --verbose
+      - -m
+      - /models/bge-reranker-v2-m3-Q8_0.gguf
+      - --host
+      - 0.0.0.0
+      - --port
+      - "18883"
+      - --reranking
+
+  rag-source-files:
+    image: docker.io/ragnarox/ragnarox:1.0.0
+    network_mode: host
+    depends_on:
+      llama-cpp-embedder:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:20000/health"]
+    command:
+      - /ragnarox
+      - rag
+      - source
+      - -e
+      - http://localhost:18881
+      - files
+      - --id
+      - rajpurkar-squad-single-hop-rag
+      - --source
+      - /data/corpus    
+    volumes:
+      - ./data:/data
+      - ../rag-evaluation/:/rag/
+    
+  server:
+    image: docker.io/ragnarox/ragnarox:1.0.0
+    network_mode: host
+    volumes:
+      - ./data:/data
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      GITLAB_PERSONAL_ACCESS_TOKEN: ragnarox
+      GITLAB_API_URL: http://localhost:10088/api/v4
+    depends_on:
+      llama-cpp-chat-text-generator:
+        condition: service_healthy
+      llama-cpp-reranker:
+        condition: service_healthy
+      llama-cpp-tools-text-generator:
+        condition: service_healthy
+      gitlab:
+        condition: service_healthy
+      rag-source-files:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:10000/health"]
+    command:
+      - /ragnarox
+      - server
+      - -l
+      - 0.0.0.0:10000
+      - -g
+      - http://localhost:18880
+      - -r
+      - http://localhost:18883
+      - -t
+      - -x
+      - http://localhost:18882
+      - -n
+      - "10"

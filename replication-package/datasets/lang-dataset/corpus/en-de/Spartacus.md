@@ -1,0 +1,1 @@
+Spartacus: Plutarch, Appian and Florus all claim that Spartacus died during the battle, but Appian also reports that his body was never found. Six thousand survivors of the revolt captured by the legions of Crassus were crucified, lining the Appian Way from Rome to Capua.

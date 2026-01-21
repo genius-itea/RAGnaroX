@@ -1,0 +1,1 @@
+Jamaica en los Juegos Olímpicos: En los Juegos Olímpicos de Invierno ha participado en 8 ediciones, siendo Calgary 1988 su primera aparición en estos Juegos. El país no ha conseguido ninguna medalla en las ediciones de invierno.[2]​

@@ -1,0 +1,1 @@
+Steppenadler: Der Steppenadler kommt von Rumänien über die Aralsteppe bis nach Transbaikal und in die Mongolei vor. Er ist in Steppen sowie offenen, mit Gebüsch bewachsenen Ebenen daheim. Dementsprechend findet man seinen Horst auf dem Boden. Er frisst hauptsächlich kleine Säugetiere, vor allem Ziesel, aber auch andere Nager, Eidechsen und Fallwild.

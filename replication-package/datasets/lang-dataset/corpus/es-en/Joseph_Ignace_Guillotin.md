@@ -1,0 +1,1 @@
+Joseph Ignace Guillotin: Dr. Joseph-Ignace Guillotin (28 de mayo de 1738 - 26 de marzo de 1814) fue un médico y diputado francés. Su nombre se asocia a la invención de la guillotina, dispositivo mecánico para ejecutar a condenados a muerte. Realmente, el Dr. Guillotin no fue el inventor de dicho dispositivo, pero sí propuso su utilización en Francia.

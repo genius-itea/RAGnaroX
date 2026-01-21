@@ -1,0 +1,1 @@
+Juegos Olímpicos de París 1900: Muchos de los ganadores no recibieron medallas, pero les fueron entregados copas o trofeos. En algunos deportes, como esgrima y tiro, se disputaron eventos profesionales que luego fueron reconocidos olímpicos por el COI.[5]​ Albert Robert Ayat, que ganó en Espada en amateurs y profesionales, fue premiado con 3000 francos.[6]​

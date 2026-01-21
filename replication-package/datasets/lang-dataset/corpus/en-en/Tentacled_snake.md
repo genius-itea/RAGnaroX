@@ -1,0 +1,1 @@
+Tentacled snake: The tentacled snake or tentacle snake (Erpeton tentaculatum), is a rear-fanged aquatic snake native to South-East Asia. It is the only species of its genus, Erpeton, and the two tentacles on its snout are a unique feature among snakes. The method it uses to catch fish has recently been a subject of research.

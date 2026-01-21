@@ -1,0 +1,1 @@
+Waubun: Waubun ist eine Kleinstadt (mit dem Status „City“) im Mahnomen County im US-amerikanischen Bundesstaat Minnesota. Im Jahr 2010 hatte Waubun 400 Einwohner.Die Stadt liegt, wie auch das gesamte County, innerhalb der White Earth Indian Reservation der Anishinabe.

@@ -1,0 +1,1 @@
+Joe Arpaio: Joseph Michael Arpaio (14 de junio de 1932, Springfield, Massachusetts, EE. UU.) es un antiguo agente de policía estadounidense. Fue elegido Sheriff del Condado de Maricopa, Arizona desde 1992 hasta 2016.

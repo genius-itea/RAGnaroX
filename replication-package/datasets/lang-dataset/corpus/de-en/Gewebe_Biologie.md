@@ -1,0 +1,1 @@
+Gewebe (Biologie): Mit dem Gewebeaufbau befasst sich die Histologie, bei krankhaften Veränderungen die Histopathologie. Einige Gewebe können nach Entnahme unter geeigneten Bedingungen extrakorporal eine begrenzte Zeit in Gewebekultur gehalten werden (z. B. pflanzliche Gewebekultur).

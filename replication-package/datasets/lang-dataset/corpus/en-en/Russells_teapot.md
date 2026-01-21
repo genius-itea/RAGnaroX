@@ -1,0 +1,1 @@
+Russell's teapot: Russell specifically applied his analogy in the context of religion. He wrote that if he were to assert, without offering proof, that a teapot, too small to be seen by telescopes, orbits the Sun somewhere in space between the Earth and Mars, he could not expect anyone to believe him solely because his assertion could not be proven wrong.

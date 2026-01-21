@@ -1,0 +1,1 @@
+Cy Twombly: Twombly was born in Lexington, Virginia, on April 25, 1928. Twombly's father, also nicknamed "Cy", pitched for the Chicago White Sox. They were both nicknamed after the baseball great Cy Young who pitched for, among others, the Cardinals, Red Sox, Indians, and Braves.

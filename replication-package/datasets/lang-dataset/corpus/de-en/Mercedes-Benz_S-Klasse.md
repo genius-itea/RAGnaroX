@@ -1,0 +1,1 @@
+Mercedes-Benz S-Klasse: S-Klasse bezeichnet die Oberklasse der Automarke Mercedes-Benz. Sie steht für luxuriöse Limousinen und Coupés. Im Herbst 1972 erschien mit der Baureihe 116 die erste offiziell von Mercedes-Benz (MB) so bezeichnete S-Klasse. Bereits vorher hatten die Spitzenmodelle von Mercedes-Benz die Bezeichnung S getragen.

@@ -1,0 +1,1 @@
+Olympische Geschichte Jamaikas: Seit 1948 nehmen Sportler des Karibikstaates an Olympischen Sommerspielen teil. 1960 nahmen Jamaikaner als Teil der Mannschaft der Westindischen Föderation teil. Seit 1988 ist Jamaika auch bei Winterspielen vertreten. Jugendliche Athleten nahmen an den bislang ausgetragenen Jugend-Sommerspielen teil.

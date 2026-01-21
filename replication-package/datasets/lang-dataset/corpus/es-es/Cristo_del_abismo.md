@@ -1,0 +1,1 @@
+Cristo del abismo: En 2003, la estatua fue restaurada para protegerla de la corrosión y de los crustáceos y, sobre todo, para volver a colocarle una mano que había sido rota por un ancla. Fue recolocada nuevamente en el agua el 17 de julio de 2004 sobre una nueva base, a una profundidad menor que la anterior.

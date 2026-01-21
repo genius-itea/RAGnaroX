@@ -1,0 +1,1 @@
+Salsa (dance): Rogelio Moreno, Francisco and Luis Vazquez are credited for the early development and growth of LA Style as well as Albert Torres, Laura Canellias and Joe Cassiniare. Later dancers such as Alex Da Silva, Edie Lewis, Joby Martinez, Josie Neglia, and Johnny Vazquez are often credited with developing the LA style of dancing as we know it today.

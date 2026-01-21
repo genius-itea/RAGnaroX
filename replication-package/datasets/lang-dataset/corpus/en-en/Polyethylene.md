@@ -1,0 +1,1 @@
+Polyethylene: HDPE has high tensile strength. It is used in products and packaging such as milk jugs, detergent bottles, butter tubs, garbage containers, and water pipes. One-third of all toys are manufactured from HDPE. In 2007, the global HDPE consumption reached a volume of more than 30 million tons.

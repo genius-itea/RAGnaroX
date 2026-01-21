@@ -1,0 +1,1 @@
+Adli Mansur: Nach der Beendigung seines Jura-Studiums an der Universität Kairo im Jahr 1967 arbeitete er beim ägyptischen Staatsrat, dem Verwaltungsgericht des Landes. Anschließend wurde er zum Richter am Obersten Verfassungsgericht ernannt. 1977 graduierte er an der École nationale d’administration in Frankreich.

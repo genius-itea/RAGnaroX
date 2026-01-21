@@ -1,0 +1,1 @@
+Vektor: Eng verwandt mit den geometrischen Vektoren sind vektorielle Größen in der Physik. Das sind physikalische Größen, die einen Betrag und eine Richtung besitzen, und oftmals durch Pfeile dargestellt werden, deren Länge dem Betrag der Größe entspricht. Beispiele dafür sind Geschwindigkeit, Beschleunigung, Impuls, Kraft, elektrische und magnetische Feldstärke.

@@ -1,0 +1,1 @@
+Yun Lou: Yun Lou (Hangzhou, Zhejiang, China, 23 de junio de 1964) es un gimnasta artístico chino, especialista en la prueba de salto de potro, con la que ha logrado ser dos veces campeón olímpico en 1984 y 1988, entre otros importantes logros.[1]​[2]​[3]​ En el Mundial de Róterdam 1987 gana el oro en suelo, también el oro en salto, y la plata en equipos.

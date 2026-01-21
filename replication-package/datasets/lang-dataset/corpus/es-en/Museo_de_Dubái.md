@@ -1,0 +1,1 @@
+Museo de Dubái: Dubai Museum (en árabe: متحف دبي) es el principal museo de la ciudad de Dubái en los Emiratos Árabes Unidos. Está ubicado en el fuerte Al Fahidi, construido en 1787 y considerado el edificio más antiguo de la ciudad.

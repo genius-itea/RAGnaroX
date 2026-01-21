@@ -1,0 +1,1 @@
+Frente de las Fuerzas Socialistas: El Frente de las Fuerzas Socialistas (FFS) (en francés: Front des Forces Socialistes, en cabilio: Tirni iγalen inemlayen, en árabe:جبهة القوى الاشتراكية) es un partido político de Argelia, miembro de la Internacional Socialista, y fundado en 1963, después de la independencia del país.

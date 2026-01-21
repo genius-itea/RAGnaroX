@@ -1,0 +1,1 @@
+Campeonato Mundial de Hockey sobre Césped Masculino de 2018: Todos los partidos en la hora local de la India (UTC+5:30).El primero de cada grupo pasa directamente a los cuartos de final; los segundos y terceros disputan primero un partido de clasificación.

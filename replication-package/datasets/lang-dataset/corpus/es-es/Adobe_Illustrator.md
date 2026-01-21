@@ -1,0 +1,1 @@
+Adobe Illustrator: Aunque reconocemos que FreeHand dispone de una base de clientes fieles, animamos a los usuarios a que utilicen el nuevo Adobe Illustrator CS4, que es compatible tanto con PowerPC y Mac con tecnología Intel, como con Microsoft Windows XP y Windows Vista.

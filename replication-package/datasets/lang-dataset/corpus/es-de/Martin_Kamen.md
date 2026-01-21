@@ -1,0 +1,1 @@
+Martin Kamen: Martin David Kamen nació el 27 de agosto de 1913 en Toronto, Canadá. Era hijo de inmigrantes rusos, y creció en Chicago. Estudió química, estudios que realizó en la Universidad de Chicago, y obtuvo un PhD en Química-Física de la misma universidad en 1936.

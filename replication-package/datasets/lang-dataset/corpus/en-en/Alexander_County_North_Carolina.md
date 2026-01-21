@@ -1,0 +1,1 @@
+Alexander County, North Carolina: By the requirements of the North Carolina Constitution of 1868, counties were divided into non-functioning county subdivisioninto called townships.  There are eight townships in Alexander County: Ellendale, Gwaltneys, Little River, Millers, Sharpes, Sugar Loaf, Taylorsville, and Wittenburg.

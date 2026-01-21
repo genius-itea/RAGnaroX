@@ -1,0 +1,1 @@
+Delamanid: The medication was not readily available globally as of 2015. It was believed that pricing will be similar to bedaquiline, which for six months is approximately US$900 in low income countries, US$3,000 in middle income countries, and US$30,000 in high income countries. As of 2016 the Stop TB Partnership had an agreement to get the medication for US$1,700 per six month.
