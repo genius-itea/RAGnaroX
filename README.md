@@ -2,7 +2,6 @@
 
 Please use the following resources to learn more about the project:
 
-- [Demonstration Video](https://www.youtube.com/watch?v=cDxfuEbcoM4)
 - [Replication Package](./replication-package/)
   - [Benchmark Datasets](./replication-package/datasets/)
   - [All Results](./replication-package/results.md)
